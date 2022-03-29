@@ -1,8 +1,16 @@
-#, fuzzy
 msgid ""
 msgstr ""
+"Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-03-28 22:45-0300\n"
+"PO-Revision-Date: 2022-03-29 04:08+0000\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/"
+"es/>\n"
+"Language: es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11.2\n"
 
 #. type: Title #
 #: source/app-librescore/README.md source/app-librescore/README_en.md
@@ -17,7 +25,7 @@ msgstr ""
 #: source/docs/README_en.md source/webmscore-pwa/README_en.md
 #, no-wrap
 msgid "<div dir=\"ltr\">\n"
-msgstr ""
+msgstr "<div dir=\"ltr\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -313,7 +321,7 @@ msgstr ""
 #: source/docs/README_en.md source/webmscore-pwa/README_en.md
 #, no-wrap
 msgid "Building"
-msgstr ""
+msgstr "Construcción"
 
 #. type: Plain text
 #: source/dl-librescore/README.md source/dl-librescore/README_en.md
@@ -366,25 +374,29 @@ msgstr ""
 #: source/webmscore-pwa/README.md source/webmscore-pwa/README_en.md
 #, no-wrap
 msgid "Webmscore PWA"
-msgstr ""
+msgstr "Aplicación web progresiva de Webmscore"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md source/webmscore-pwa/README_en.md
 #, no-wrap
 msgid "The official frontend for the webmscore tool: <https://librescore.github.io>\n"
 msgstr ""
+"La interfaz oficial de la herramienta webmscore: <https://librescore.github."
+"io>\n"
 
 #. type: Title ##
 #: source/webmscore-pwa/README.md source/webmscore-pwa/README_en.md
 #, no-wrap
 msgid "Developing"
-msgstr ""
+msgstr "Desarrollando"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md source/webmscore-pwa/README_en.md
 #, no-wrap
 msgid "Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:\n"
 msgstr ""
+"Una vez que haya creado un proyecto e instalado las dependencias con `npm "
+"install` (o `pnpm install` o `yarn`), inicie un servidor de desarrollo:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md source/webmscore-pwa/README_en.md
@@ -395,12 +407,20 @@ msgid ""
 "# or start the server and open the app in a new browser tab\n"
 "npm run dev -- --open\n"
 msgstr ""
+"npm run dev\n"
+"\n"
+"# o inicie el servidor y abra la aplicación en una nueva pestaña del "
+"navegador\n"
+"npm run dev -- --open\n"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md source/webmscore-pwa/README_en.md
 #, no-wrap
 msgid "Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:\n"
 msgstr ""
+"Antes de crear una versión de producción de su aplicación, instale un "
+"[adaptador](https://kit.svelte.dev/docs#adapters) para su entorno de "
+"destino. Luego:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md source/webmscore-pwa/README_en.md
@@ -413,6 +433,9 @@ msgstr ""
 #, no-wrap
 msgid "> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.\n"
 msgstr ""
+"> Puede obtener una vista previa de la aplicación creada con `npm run "
+"preview`, independientemente de si instaló un adaptador. Esto _no_ debe "
+"usarse para servir su aplicación en producción.\n"
 
 #. type: Hash Value: README
 #: source/titles/titles.yaml
