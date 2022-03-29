@@ -1,5 +1,7 @@
 # docs
 
+<div dir="ltr">
+
 Documentation translations
 
 ## Adding languages
@@ -9,3 +11,5 @@ Documentation translations
 ## Building
 
 1. `./po4a.sh`
+
+</div>

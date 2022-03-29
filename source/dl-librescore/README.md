@@ -1,5 +1,7 @@
 # dl-librescore
 
+<div dir="ltr">
+
 <div align="center">
 
 <img src="https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png" width="256" alt="LibreScore logo">
@@ -81,5 +83,7 @@ There are 4 different installable programs:
 2. `npm install` to install packages
 3. `npm run build` to build
 
--   Install `./dist/main.user.js` with Tampermonkey
--   `node ./dist/cli.js` to run command-line tool
+- Install `./dist/main.user.js` with Tampermonkey
+- `node ./dist/cli.js` to run command-line tool
+
+</div>
