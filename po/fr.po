@@ -1,8 +1,16 @@
-#, fuzzy
 msgid ""
 msgstr ""
+"Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-03-28 22:45-0300\n"
+"PO-Revision-Date: 2022-03-29 03:38+0000\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/"
+"fr/>\n"
+"Language: fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.11.2\n"
 
 #. type: Title #
 #: source/app-librescore/README.md source/app-librescore/README_en.md
