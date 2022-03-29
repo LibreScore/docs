@@ -1,0 +1,405 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-03-28 22:19-0300\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. type: Title #
+#: source/app-librescore/README.md source/app-librescore/README_en.md
+#, no-wrap
+msgid "app-librescore"
+msgstr ""
+
+#. type: Plain text
+#: source/app-librescore/README.md source/dl-librescore/README.md
+#: source/app-librescore/README_en.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "<div align=\"center\">\n"
+msgstr ""
+
+#. type: Plain text
+#: source/app-librescore/README.md source/dl-librescore/README.md
+#: source/app-librescore/README_en.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
+msgstr ""
+
+#. type: Plain text
+#: source/app-librescore/README.md source/app-librescore/README_en.md
+#, no-wrap
+msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
+msgstr ""
+
+#. type: Plain text
+#: source/app-librescore/README.md source/app-librescore/README_en.md
+#, no-wrap
+msgid "Download the LibreScore app\n"
+msgstr ""
+
+#. type: Plain text
+#: source/app-librescore/README.md source/dl-librescore/README.md
+#: source/app-librescore/README_en.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "</div>\n"
+msgstr ""
+
+#. type: Plain text
+#: source/app-librescore/README.md source/dl-librescore/README.md
+#: source/app-librescore/README_en.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "> DISCLAIMER: This is not an officially endorsed MuseScore product\n"
+msgstr ""
+
+#. type: Title ##
+#: source/app-librescore/README.md source/app-librescore/README_en.md
+#, no-wrap
+msgid "Download"
+msgstr ""
+
+#. type: Plain text
+#: source/app-librescore/README.md source/app-librescore/README_en.md
+#, no-wrap
+msgid ""
+"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg\" width=\"512\"> | <img src=\"https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg\" width=\"512\"> |\n"
+"| :---: | :---: | :---: |\n"
+"| Windows (7+) (64-bit only) | macOS (10.11+) (Rosetta 2) | Android (6.0+) |\n"
+"| [Download (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe) | [Download (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg) | [Download (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
+msgstr ""
+
+#. type: Title ##
+#: source/app-librescore/README.md source/dl-librescore/README.md
+#: source/app-librescore/README_en.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "Installation"
+msgstr ""
+
+#. type: Title ###
+#: source/app-librescore/README.md source/app-librescore/README_en.md
+#, no-wrap
+msgid "Windows"
+msgstr ""
+
+#. type: Plain text
+#: source/app-librescore/README.md source/app-librescore/README_en.md
+#, no-wrap
+msgid ""
+"1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
+"2. Open the EXE file to install it\n"
+msgstr ""
+
+#. type: Title ###
+#: source/app-librescore/README.md source/app-librescore/README_en.md
+#, no-wrap
+msgid "macOS"
+msgstr ""
+
+#. type: Plain text
+#: source/app-librescore/README.md source/app-librescore/README_en.md
+#, no-wrap
+msgid ""
+"1. Download [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
+"2. Open the DMG file\n"
+"3. Move the APP file to the Applications folder to install it\n"
+"4. Control-click the APP file\n"
+"5. Click `Open` in the shortcut menu\n"
+"6. Click `Open` at the bottom\n"
+"7. Close the DMG file\n"
+"8. Control-click the DMG file\n"
+"9. Click `Eject` in the shortcut menu\n"
+msgstr ""
+
+#. type: Title ###
+#: source/app-librescore/README.md source/app-librescore/README_en.md
+#, no-wrap
+msgid "Android"
+msgstr ""
+
+#. type: Plain text
+#: source/app-librescore/README.md source/app-librescore/README_en.md
+#, no-wrap
+msgid ""
+"1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
+"2. Open the APK file to install it\n"
+"> Note: a message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
+msgstr ""
+
+#. type: Title #
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "dl-librescore"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "There are 4 different installable programs:\n"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid ""
+"| Program                                                                            | MSCZ | MIDI | MP3 | PDF | Conversion |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
+"| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
+"| [App](https://github.com/LibreScore/dl-librescore#app)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
+"| [Userscript](https://github.com/LibreScore/dl-librescore#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Command-line tool](https://github.com/LibreScore/dl-librescore#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Webmscore website](https://github.com/LibreScore/dl-librescore#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid ""
+"> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
+"> Conversion targets include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
+msgstr ""
+
+#. type: Title ###
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "App"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid ""
+"1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
+"2. Follow the installation instructions for your device to install it\n"
+msgstr ""
+
+#. type: Title ###
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "Userscript"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid ""
+"> Note: If your device is on iOS or iPadOS, please follow the [Shortcut](https://github.com/LibreScore/dl-librescore#shortcut) instructions.\n"
+">\n"
+"> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](https://github.com/LibreScore/dl-librescore#bookmark) instructions instead.\n"
+msgstr ""
+
+#. type: Title ####
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "Browser extension"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "1. Install [Tampermonkey](https://www.tampermonkey.net)\n"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\" please uninstall it from the Tampermonkey dashboard\n"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid ""
+"2. Go to the latest [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) file\n"
+"3. Press the Install button\n"
+msgstr ""
+
+#. type: Title ####
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "Shortcut"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid ""
+"1. Install the [LibreScore shortcut](https://www.icloud.com/shortcuts/901d8778d2da4f7db9272d3b2232d0fe)\n"
+"2. In Safari, when viewing a song on MuseScore, tap <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
+"3. Tap the LibreScore shortcut to activate the extension\n"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid ""
+"> Note: Before you can run JavaScript from a shortcut you must turn on Allow Running Scripts\n"
+">\n"
+"> 1. Go to Settings <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Shortcuts > Advanced\n"
+"> 2. Turn on Allow Running Scripts\n"
+msgstr ""
+
+#. type: Title ####
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "Bookmark"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid ""
+"1. Create a new bookmark (usually Ctrl+D)\n"
+"2. Type `LibreScore` for the Name field\n"
+"3. Type `javascript:(function () {let code = document.createElement('script');code.src = 'https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js';document.body.appendChild(code);}())` for the URL field\n"
+"4. Save the bookmark\n"
+"5. When viewing a song on MuseScore, click the bookmark to activate the extension\n"
+msgstr ""
+
+#. type: Title ###
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "Command-line tool"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid ""
+"1. Install [Node.js LTS](https://nodejs.org)\n"
+"2. Open a terminal (do _not_ open the Node.js application)\n"
+"3. Type `npx dl-librescore@latest`, then press `Enter ↵`\n"
+msgstr ""
+
+#. type: Title ###
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "Webmscore website"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "1. Open [Webmscore](https://librescore.github.io)\n"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid "> Note: You can access the website offline by installing it as a PWA\n"
+msgstr ""
+
+#. type: Title ##
+#: source/dl-librescore/README.md source/docs/README.md
+#: source/webmscore-pwa/README.md source/dl-librescore/README_en.md
+#: source/docs/README_en.md source/webmscore-pwa/README_en.md
+#, no-wrap
+msgid "Building"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid ""
+"1. Install [Node.js LTS](https://nodejs.org)\n"
+"2. `npm install` to install packages\n"
+"3. `npm run build` to build\n"
+msgstr ""
+
+#. type: Plain text
+#: source/dl-librescore/README.md source/dl-librescore/README_en.md
+#, no-wrap
+msgid ""
+"-   Install `./dist/main.user.js` with Tampermonkey\n"
+"-   `node ./dist/cli.js` to run command-line tool\n"
+msgstr ""
+
+#. type: Title #
+#: source/docs/README.md source/docs/README_en.md
+#, no-wrap
+msgid "docs"
+msgstr ""
+
+#. type: Plain text
+#: source/docs/README.md source/docs/README_en.md
+#, no-wrap
+msgid "Documentation translations\n"
+msgstr ""
+
+#. type: Title ##
+#: source/docs/README.md source/docs/README_en.md
+#, no-wrap
+msgid "Adding languages"
+msgstr ""
+
+#. type: Plain text
+#: source/docs/README.md source/docs/README_en.md
+#, no-wrap
+msgid "1. Create a `XX.po` file, where `XX` is a language code (ex: `pt` or `zh-Hant`) in the `po/` directory\n"
+msgstr ""
+
+#. type: Plain text
+#: source/docs/README.md source/docs/README_en.md
+#, no-wrap
+msgid "1. `./po4a.sh`\n"
+msgstr ""
+
+#. type: Title #
+#: source/webmscore-pwa/README.md source/webmscore-pwa/README_en.md
+#, no-wrap
+msgid "Webmscore PWA"
+msgstr ""
+
+#. type: Plain text
+#: source/webmscore-pwa/README.md source/webmscore-pwa/README_en.md
+#, no-wrap
+msgid "The official frontend for the webmscore tool: <https://librescore.github.io>\n"
+msgstr ""
+
+#. type: Title ##
+#: source/webmscore-pwa/README.md source/webmscore-pwa/README_en.md
+#, no-wrap
+msgid "Developing"
+msgstr ""
+
+#. type: Plain text
+#: source/webmscore-pwa/README.md source/webmscore-pwa/README_en.md
+#, no-wrap
+msgid "Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:\n"
+msgstr ""
+
+#. type: Fenced code block (bash)
+#: source/webmscore-pwa/README.md source/webmscore-pwa/README_en.md
+#, no-wrap
+msgid ""
+"npm run dev\n"
+"\n"
+"# or start the server and open the app in a new browser tab\n"
+"npm run dev -- --open\n"
+msgstr ""
+
+#. type: Plain text
+#: source/webmscore-pwa/README.md source/webmscore-pwa/README_en.md
+#, no-wrap
+msgid "Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:\n"
+msgstr ""
+
+#. type: Fenced code block (bash)
+#: source/webmscore-pwa/README.md source/webmscore-pwa/README_en.md
+#, no-wrap
+msgid "npm run build\n"
+msgstr ""
+
+#. type: Plain text
+#: source/webmscore-pwa/README.md source/webmscore-pwa/README_en.md
+#, no-wrap
+msgid "> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.\n"
+msgstr ""
+
+#. type: Hash Value: README
+#: source/titles/titles.yaml
+#, no-wrap
+msgid "README"
+msgstr "اقرأني"
