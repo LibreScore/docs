@@ -43,7 +43,9 @@ for file in i18n/titles/*/titles.yaml; do
     lang=${lang##*/}
     while IFS="" read -r line || [ -n "$line" ]; do
         if [[ $line =~ $re ]]; then
-            find ./i18n/*/$lang/ -name "${BASH_REMATCH[1]}.md" -exec sh -c 'mv $0 "${0%/*}/'"${BASH_REMATCH[2]}"'.md"' {} \;
+            if [ ${BASH_REMATCH[1]} != ${BASH_REMATCH[2]} ]; then
+                find ./i18n/*/$lang/ -name "${BASH_REMATCH[1]}.md" -exec sh -c 'mv $0 "${0%/*}/'"${BASH_REMATCH[2]}"'.md"' {} \;
+            fi
         fi
     done < $file
 done
