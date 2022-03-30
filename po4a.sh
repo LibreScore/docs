@@ -27,14 +27,14 @@ if [ -d ./i18n ]; then
     rm -R ./i18n
 fi
 
-/usr/local/bin/po4a ./po4a.conf -f -v
+po4a ./po4a.conf -f -v
 
 for file in source/**/en_*_en.md; do
     rm $file
 done
 sed -i "/en_.*_en\.md/d" ./po4a.conf
 
-/usr/local/bin/po4a ./po4a.conf -f -v --no-translations
+po4a ./po4a.conf -f -v --no-translations
 
 sed -i '1d' ./i18n/**/*.yaml
 sed -i "s/\(.*:.*\)'\(.*\)'/\1\2/g" ./i18n/titles/*/titles.yaml
