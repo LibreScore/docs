@@ -1,6 +1,6 @@
 <div dir="ltr" align="left">
 
-[&#8206;العربية](https://github.com/LibreScore/webmscore-pwa/docs/ar/اقرأني.md) | [&#8206;English](https://github.com/LibreScore/webmscore-pwa/docs/en/README.md) | &#8206;**Español** | [&#8206;Français](https://github.com/LibreScore/webmscore-pwa/docs/fr/LISEZMOI.md) | &#8206;[[+]](https://librescore.ddns.net/new-lang/librescore/docs)
+[&#8206;العربية](docs/ar/اقرأني.md) | [&#8206;English](docs/en/README.md) | &#8206;**Español** | [&#8206;Français](docs/fr/LISEZMOI.md) | &#8206;[[+]](https://librescore.ddns.net/new-lang/librescore/docs)
 
 # Aplicación web progresiva de Webmscore
 

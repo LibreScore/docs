@@ -16,6 +16,11 @@ for file in source/**/*.md; do
     repo=${file#*/}
     repo=${repo%%/*}
 
+    headre="^\&#820[6-7];"
+    if [[ $(sed '3q;d' $file) =~ $headre ]]; then
+        sed -i '2,3d' $file
+    fi
+
     /bin/echo "[type:markdown] $file \$lang:i18n/$repo/\$lang$folder/$filename.md" >> "./po4a.conf"
     cp $file source/$repo$folder/en_${filename}_en.md
     /bin/echo "[type:markdown] source/$repo$folder/en_${filename}_en.md en:i18n/$repo/en$folder/$filename.md opt:\"-k 0\"" >> "./po4a.conf"
@@ -55,7 +60,7 @@ for file in i18n/**/*.md; do
     repo=${repo%%/*}
 
     dirre="<div dir=\"([lrt]{3})\" align=\"([efghilrt]{4,5})\">"
-    if [[ $(head -n 1 $file) =~ $dirre ]]; then
+    if [[ $(sed '1q;d' $file) =~ $dirre ]]; then
         if [[ ${BASH_REMATCH[1]} == "ltr" ]]; then
             dir="\&#8206;"
         else
@@ -86,7 +91,7 @@ for file in i18n/**/*.md; do
         if [[ $curlang == $lang ]]; then
             sed -i '3s@$@'"$dir**$newlang** | "'@' $file
         else
-            sed -i '3s@$@'"[$dir$newlang](https://github.com/LibreScore/$repo/docs/$curlang$postlang/$newfile.md) | "'@' $file
+            sed -i '3s@$@'"[$dir$newlang](docs/$curlang$postlang/$newfile.md) | "'@' $file
         fi
     done
     sed -i '3s@$@'"$dir[[+]](https://librescore.ddns.net/new-lang/librescore/docs)\\n"'@' $file
