@@ -12,7 +12,7 @@ on:
     workflow_dispatch:
 
 jobs:
-    build:
+    translate:
         runs-on: ubuntu-latest
         steps:
             - name: Install po4a
@@ -27,10 +27,33 @@ jobs:
                   cpanm -v --installdeps --notest $HOME/po4a
             - uses: actions/checkout@v3
             - name: Generate translations
+              run: /bin/bash ./po4a.sh
+            - name: Push to current repo
               run: |
-                  /bin/bash ./po4a.sh
                   git config user.name github-actions
                   git config user.email github-actions@github.com
                   git add .
                   git commit -m "chore: update translations"
                   git push
+            - name: Push to remote repos
+              run: |
+                  shopt -s nullglob
+                  for dir in i18n/*/ ; do
+                      dir=${dir%/}
+                      repo=${dir#*/}
+                      repo=${repo%/}
+                      if [[ $repo != "titles" ]]; then
+                          git clone --depth 1 https://PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@github.com/LibreScore/$repo $HOME/$repo
+                          mkdir -p $HOME/$repo/docs
+                          cp -a $dir/* $HOME/$repo/docs/ -v
+                          cp -a $dir/en/* $HOME/$repo/ -v
+                          cd $HOME/$repo
+                          git status
+                          git add .
+                          git commit -m "chore: update translations"
+                          git push
+                          cd $GITHUB_WORKSPACE
+                          rm -R -f $HOME/$repo
+                      fi
+                  done
+                  shopt -u nullglob
