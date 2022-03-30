@@ -1,6 +1,6 @@
-# app-librescore
+<div dir="ltr" align="left">
 
-<div dir="ltr">
+# app-librescore
 
 <div align="center">
 

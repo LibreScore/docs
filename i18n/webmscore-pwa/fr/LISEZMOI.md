@@ -1,6 +1,8 @@
-# Application Web progressive de Webmscore
+<div dir="ltr" align="left">
 
-<div dir="ltr">
+[&#8206;العربية](https://github.com/LibreScore/webmscore-pwa/docs/ar/اقرأني.md) | [&#8206;English](https://github.com/LibreScore/webmscore-pwa/docs/en/README.md) | [&#8206;Español](https://github.com/LibreScore/webmscore-pwa/docs/es/LÉAME.md) | &#8206;**Français** | &#8206;[[+]](https://librescore.ddns.net/new-lang/librescore/docs)
+
+# Application Web progressive de Webmscore
 
 L'interface officielle de l'outil webmscore : <https://librescore.github.io>
 

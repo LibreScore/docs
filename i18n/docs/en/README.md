@@ -1,6 +1,8 @@
-# docs
+<div dir="ltr" align="left">
 
-<div dir="ltr">
+&#8206;**English** | &#8206;[[+]](https://librescore.ddns.net/new-lang/librescore/docs)
+
+# docs
 
 Documentation translations
 

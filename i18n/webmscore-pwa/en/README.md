@@ -1,6 +1,8 @@
-# Webmscore PWA
+<div dir="ltr" align="left">
 
-<div dir="ltr">
+[&#8206;العربية](https://github.com/LibreScore/webmscore-pwa/docs/ar/اقرأني.md) | &#8206;**English** | [&#8206;Español](https://github.com/LibreScore/webmscore-pwa/docs/es/LÉAME.md) | [&#8206;Français](https://github.com/LibreScore/webmscore-pwa/docs/fr/LISEZMOI.md) | &#8206;[[+]](https://librescore.ddns.net/new-lang/librescore/docs)
+
+# Webmscore PWA
 
 The official frontend for the webmscore tool: <https://librescore.github.io>
 

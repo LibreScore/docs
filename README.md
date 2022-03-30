@@ -1,6 +1,6 @@
-# docs
+<div dir="ltr" align="left">
 
-<div dir="ltr">
+# docs
 
 Documentation translations
 

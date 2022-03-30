@@ -1,6 +1,6 @@
-# Webmscore PWA
+<div dir="ltr" align="left">
 
-<div dir="ltr">
+# Webmscore PWA
 
 The official frontend for the webmscore tool: <https://librescore.github.io>
 
