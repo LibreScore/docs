@@ -94,7 +94,7 @@ for file in i18n/**/*.md; do
             sed -i '3s@$@'"[$dir$newlang](docs/$curlang$postlang/$newfile.md) | "'@' $file
         fi
     done
-    sed -i '3s@$@'"$dir[[+]](https://librescore.ddns.net/new-lang/librescore/docs)\\n"'@' $file
+    sed -i '3s@$@'"$dir[[+]](https://librescore.ddns.net/projects/librescore/docs)\\n"'@' $file
     # sed -i '3s@$@'"$dir[![Translation status](https://librescore.ddns.net/widgets/librescore/-/docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\\n"'@' $file
 done
 
