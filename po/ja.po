@@ -1,7 +1,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2022-03-31 00:54+0000\n"
+"POT-Creation-Date: 2022-03-31 01:40+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 #. type: Plain text
@@ -19,6 +19,7 @@ msgstr ""
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
+#: source/docs/README.md source/webmscore-pwa/README.md
 #, no-wrap
 msgid "<div align=\"center\">\n"
 msgstr "<div align=\"center\">\n"
