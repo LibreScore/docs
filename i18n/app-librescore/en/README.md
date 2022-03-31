@@ -2,7 +2,7 @@
 
 &#8206;**English** | &#8206;[[+]](https://librescore.ddns.net/projects/librescore/docs)
 
-# app-librescore
+# Librescore App
 
 <div align="center">
 
