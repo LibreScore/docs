@@ -31,7 +31,7 @@ jobs:
                   find $HOME -type d -empty -delete
             - name: Install po4a
               run: |
-                  git -C $HOME clone --single-branch --no-tags --recurse-submodules --shallow-submodules --depth=1 https://github.com/mquinson/po4a
+                  git -C $HOME clone --single-branch --no-tags --depth=1 https://github.com/mquinson/po4a
                   mkdir -p $HOME/.local/bin
                   echo '#!/bin/bash
                   PERLLIB='"$HOME"'/po4a/lib '"$HOME"'/po4a/po4a "$@"' > $HOME/.local/bin/po4a
