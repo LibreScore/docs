@@ -1,6 +1,6 @@
 <div dir="ltr" align="left">
 
-&#8206;**English** | &#8206;[[+]](https://librescore.ddns.net/new-lang/librescore/docs)
+&#8206;**English** | &#8206;[[+]](https://librescore.ddns.net/projects/librescore/docs)
 
 # dl-librescore
 
