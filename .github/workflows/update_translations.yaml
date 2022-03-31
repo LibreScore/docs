@@ -23,15 +23,9 @@ jobs:
     translate:
         runs-on: ubuntu-latest
         steps:
-            - name: Fetch source files
-              run:  |
-                  curl -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -L1 git -C $HOME clone --single-branch --no-tags --depth=1
-                  rm -R -f $HOME/*/docs
-                  find $HOME ! -name "*.md" -type f -delete
-                  find $HOME -type d -empty -delete
             - name: Install po4a
               run: |
-                  git clone --depth=1 https://github.com/mquinson/po4a $HOME/po4a
+                  git -C $HOME clone --single-branch --recurse-submodules --shallow-submodules --no-tags --depth=1 https://github.com/mquinson/po4a
                   mkdir -p $HOME/.local/bin
                   echo '#!/bin/bash
                   PERLLIB='"$HOME"'/po4a/lib '"$HOME"'/po4a/po4a "$@"' > $HOME/.local/bin/po4a
@@ -39,10 +33,18 @@ jobs:
                   sudo apt install -y liblocale-gettext-perl libtext-wrapi18n-perl libunicode-linebreak-perl libtest-pod-perl libyaml-tiny-perl cpanminus gettext libsgmls-perl
                   cpanm Locale::gettext http://search.cpan.org/CPAN/authors/id/R/RA/RAAB/SGMLSpm-1.1.tar.gz Text::WrapI18N Unicode::GCString YAML::Tiny
                   cpanm -v --installdeps --notest $HOME/po4a
+            - name: Fetch source files
+              run:  |
+                  mkdir repos
+                  cd repos
+                  curl -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -L1 git -C $HOME/repos clone --single-branch --no-tags --depth=1
+                  rm -R -f $HOME/repos/*/docs
+                  find $HOME/repos ! -name "*.md" -type f -delete
+                  find $HOME/repos -type d -empty -delete
             - uses: actions/checkout@v3
             - name: Generate translations
               run: |
-                  cp -a $HOME/* source/ -v
+                  cp -a $HOME/repos/* source/ -v
                   /bin/bash ./po4a.sh
             - name: Push to current repo
               run: |
@@ -64,10 +66,10 @@ jobs:
                       repo=${dir#*/}
                       repo=${repo%/}
                       if [[ $repo != "titles" ]]; then
-                          mkdir -p $HOME/$repo/docs
-                          cp -a $dir/* $HOME/$repo/docs/ -v
-                          cp -a $dir/en/* $HOME/$repo/ -v
-                          cd $HOME/$repo
+                          mkdir -p $HOME/repos/$repo/docs
+                          cp -a $dir/* $HOME/repos/$repo/docs/ -v
+                          cp -a $dir/en/* $HOME/repos/$repo/ -v
+                          cd $HOME/repos/$repo
                           git config user.name github-actions
                           git config user.email github-actions@github.com
                           git add -A
@@ -79,7 +81,7 @@ jobs:
                               curl -i -u PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }} -X DELETE -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/LibreScore/docs/actions/runs/${{ github.run_id }}
                           fi
                           cd $GITHUB_WORKSPACE
-                          rm -R -f $HOME/$repo
+                          rm -R -f $HOME/repos/$repo
                       fi
                   done
                   shopt -u nullglob
