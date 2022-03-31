@@ -91,7 +91,7 @@ for file in i18n/**/*.md; do
         if [[ $curlang == $lang ]]; then
             sed -i '3s@$@'"$dir**$newlang** | "'@' $file
         else
-            sed -i '3s@$@'"[$dir$newlang](docs/$curlang$postlang/$newfile.md) | "'@' $file
+            sed -i '3s@$@'"[$dir$newlang](/docs/$curlang$postlang/$newfile.md) | "'@' $file
         fi
     done
     sed -i '3s@$@'"$dir[[+]](https://librescore.ddns.net/projects/librescore/docs)\\n"'@' $file
