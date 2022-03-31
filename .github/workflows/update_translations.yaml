@@ -32,7 +32,8 @@ jobs:
               run: |
                   git config user.name github-actions
                   git config user.email github-actions@github.com
-                  git commit -a -m "chore: update translations"
+                  git add -A
+                  git commit -m "chore: update translations"
                   git push
             - name: Push to remote repos
               run: |
@@ -49,7 +50,8 @@ jobs:
                           cd $HOME/$repo
                           git config user.name github-actions
                           git config user.email github-actions@github.com
-                          git commit -a -m "chore: update translations"
+                          git add -A
+                          git commit -m "chore: update translations"
                           git push
                           cd $GITHUB_WORKSPACE
                           rm -R -f $HOME/$repo
