@@ -27,9 +27,7 @@ jobs:
               run:  |
                   curl -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -L1 git -C $HOME clone --single-branch --no-tags --depth=1
                   rm -R -f $HOME/*/docs
-                  shopt -s globstar
-                  rm -f $HOME/**/!(*.md)
-                  shopt -u globstar
+                  find $HOME ! -name "*.md" -type f -delete
                   find $HOME -type d -empty -delete
             - name: Install po4a
               run: |
