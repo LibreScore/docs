@@ -5,16 +5,26 @@ on:
         branches: [master]
         paths:
             - "source/**"
+            - "po/**"
     pull_request:
         branches: [master]
         paths:
             - "source/**"
+            - "po/**"
     workflow_dispatch:
+
+concurrency: 
+    group: ${{ github.workflow }}-${{ github.ref }}
+    cancel-in-progress: true
 
 jobs:
     translate:
         runs-on: ubuntu-latest
         steps:
+            - name: Check user
+              if: contains(github.actor, 'github-actions')
+              run: |
+                  curl -i -u PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }} -X POST -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/LibreScore/docs/actions/runs/${{ github.run_id }}/cancel
             - name: Install po4a
               run: |
                   git clone --depth 1 https://github.com/mquinson/po4a $HOME/po4a
