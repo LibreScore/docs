@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-03-31 00:27+0000\n"
+"POT-Creation-Date: 2022-03-31 00:54+0000\n"
 "PO-Revision-Date: 2022-03-29 04:08+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Arabic <https://librescore.ddns.net/projects/librescore/docs/ar/>\n"
@@ -26,6 +26,7 @@ msgstr ""
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
+#: source/docs/README.md source/webmscore-pwa/README.md
 #, no-wrap
 msgid "<div align=\"center\">\n"
 msgstr ""
@@ -339,6 +340,12 @@ msgstr ""
 #. type: Plain text
 #: source/docs/README.md
 #, no-wrap
+msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\n"
+msgstr ""
+
+#. type: Plain text
+#: source/docs/README.md
+#, no-wrap
 msgid "Documentation translations\n"
 msgstr ""
 
@@ -365,6 +372,12 @@ msgstr ""
 #, no-wrap
 msgid "Webmscore PWA"
 msgstr "تطبيق ويب تقدمي ويبمسكور"
+
+#. type: Plain text
+#: source/webmscore-pwa/README.md
+#, no-wrap
+msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\n"
+msgstr ""
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md

@@ -1,8 +1,14 @@
 <div dir="ltr" align="left">
 
-[&#8206;العربية](/docs/ar/اقرأني.md) | &#8206;**English** | [&#8206;Español](/docs/es/LÉAME.md) | [&#8206;Français](/docs/fr/LISEZMOI.md) | &#8206;[[+]](https://librescore.ddns.net/projects/librescore/docs)
+&#8206;**English** | &#8206;[[+]](https://librescore.ddns.net/projects/librescore/docs)
 
 # Webmscore PWA
+
+<div align="center">
+
+[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)
+
+</div>
 
 The official frontend for the webmscore tool: <https://librescore.github.io>
 
