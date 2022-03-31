@@ -11,6 +11,8 @@ on:
         paths:
             - "source/**"
             - "po/**"
+    # schedule:
+    #     - cron: "*/15 * * * *"
     workflow_dispatch:
 
 concurrency: 
@@ -21,6 +23,12 @@ jobs:
     translate:
         runs-on: ubuntu-latest
         steps:
+            - name: Fetch source files
+              run:  |
+                  curl -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -L1 git -C $HOME clone --single-branch --no-tags --recurse-submodules --shallow-submodules --depth=1
+                  rm -R -f $HOME/*/docs
+                  rm -f $HOME/**/!(*.md)
+                  find $HOME -type d -empty -delete
             - name: Install po4a
               run: |
                   git -C $HOME clone --single-branch --no-tags --recurse-submodules --shallow-submodules --depth=1 https://github.com/mquinson/po4a
@@ -31,12 +39,6 @@ jobs:
                   sudo apt install -y liblocale-gettext-perl libtext-wrapi18n-perl libunicode-linebreak-perl libtest-pod-perl libyaml-tiny-perl cpanminus gettext libsgmls-perl
                   cpanm Locale::gettext http://search.cpan.org/CPAN/authors/id/R/RA/RAAB/SGMLSpm-1.1.tar.gz Text::WrapI18N Unicode::GCString YAML::Tiny
                   cpanm -v --installdeps --notest $HOME/po4a
-            - name: Fetch source files
-              run:  |
-                  curl -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -L1 git -C $HOME clone --single-branch --no-tags --recurse-submodules --shallow-submodules --depth=1
-                  rm -R -f $HOME/*/docs
-                  rm -f $HOME/**/!(*.md)
-                  find $HOME -type d -empty -delete
             - uses: actions/checkout@v3
             - name: Generate translations
               run: |
