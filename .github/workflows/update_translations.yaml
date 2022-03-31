@@ -33,13 +33,13 @@ jobs:
                   sudo apt install -y liblocale-gettext-perl libtext-wrapi18n-perl libunicode-linebreak-perl libtest-pod-perl libyaml-tiny-perl cpanminus gettext libsgmls-perl
                   cpanm Locale::gettext http://search.cpan.org/CPAN/authors/id/R/RA/RAAB/SGMLSpm-1.1.tar.gz Text::WrapI18N Unicode::GCString YAML::Tiny
                   cpanm -v --installdeps --notest $HOME/po4a
-            - name: Fetch source files
-              run:  |
-                  mkdir $HOME/repos
-                  curl -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -L1 git -C $HOME/repos clone --single-branch --no-tags --depth=1
-                  rm -R -f $HOME/repos/*/docs
-                  find $HOME/repos ! -name "*.md" -type f -delete
-                  find $HOME/repos -type d -empty -delete
+            # - name: Fetch source files
+            #   run:  |
+            #       mkdir $HOME/repos
+            #       curl -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -L1 git -C $HOME/repos clone --single-branch --no-tags --depth=1
+            #       rm -R -f $HOME/repos/*/docs
+            #       find $HOME/repos -not -path "*/.git/*" ! -name "*.md" -type f -delete
+            #       find $HOME/repos -type d -empty -delete
             - uses: actions/checkout@v3
             - name: Generate translations
               run: |
@@ -65,6 +65,7 @@ jobs:
                       repo=${dir#*/}
                       repo=${repo%/}
                       if [[ $repo != "titles" ]]; then
+                          git -C $HOME/repos clone --single-branch --no-tags --depth=1 https://github.com/LibreScore/$repo
                           mkdir -p $HOME/repos/$repo/docs
                           cp -a $dir/* $HOME/repos/$repo/docs/ -v
                           cp -a $dir/en/* $HOME/repos/$repo/ -v
