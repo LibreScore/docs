@@ -1,6 +1,6 @@
 <div dir="ltr" align="left">
 
-# docs
+# LibreScore Documentation
 
 <div align="center">
 
