@@ -37,7 +37,7 @@ jobs:
             - name: Generate translations
               run: |
                   rm -R -f source/*
-                  cp -a $HOME/repos/* source/ -v
+                  mv -f $HOME/repos/* source/
                   rm -R -f $HOME/repos
                   /bin/bash ./po4a.sh
             - name: Push to current repo
@@ -61,6 +61,7 @@ jobs:
                       if ! [[ $repo =~ ^(docs|titles)$ ]]; then
                           git -C $HOME clone --single-branch --no-tags --depth=1 https://PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@github.com/LibreScore/$repo
                           mkdir -p $HOME/$repo/docs
+                          rm -R -f $HOME/$repo/docs/*
                           cp -a $dir/* $HOME/$repo/docs/ -v
                           cp -a $dir/en/* $HOME/$repo/ -v
                           cd $HOME/$repo
