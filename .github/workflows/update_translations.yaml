@@ -43,7 +43,7 @@ jobs:
                   git config user.name github-actions
                   git config user.email github-actions@github.com
                   git add -A
-                  if [[ -n git status -z --porcelain ./i18n ]]; then
+                  if [[ -n $(git status -z --porcelain ./i18n) ]]; then
                       git commit -m "chore: update translations"
                       git push
                   else
