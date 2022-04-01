@@ -78,5 +78,5 @@ jobs:
                   shopt -u nullglob
                   if [[ $updated -eq 0 ]]; then
                       curl -i -u PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }} -X POST -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/LibreScore/docs/actions/runs/${{ github.run_id }}/cancel
-                      curl -i -u PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }} -d '{"event_type":"delete_action","client_payload":{" run_id":"'"${{ github.run_id }}"'"}}' -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/LibreScore/docs/dispatches
+                      curl -i -u PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }} -d '{"event_type":"delete_action","client_payload":{" run_id":"'"${{ github.run_id }}"'"}}' -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/LibreScore/actions/dispatches
                   fi
