@@ -43,7 +43,7 @@ jobs:
                   git config user.name github-actions
                   git config user.email github-actions@github.com
                   git add -A
-                  if git status -z --porcelain ./i18n; then
+                  if [[ -n git status -z --porcelain ./i18n ]]; then
                       git commit -m "chore: update translations"
                       git push
                   else
@@ -57,7 +57,7 @@ jobs:
                       dir=${dir%/}
                       repo=${dir#*/}
                       repo=${repo%/}
-                      if [[ $repo != "titles" ]]; then
+                      if [[ $repo != ^(docs|titles)$ ]]; then
                           git -C $HOME clone --single-branch --no-tags --depth=1 https://PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@github.com/LibreScore/$repo
                           mkdir -p $HOME/$repo/docs
                           cp -a $dir/* $HOME/$repo/docs/ -v
@@ -66,12 +66,7 @@ jobs:
                           git config user.name github-actions
                           git config user.email github-actions@github.com
                           git add -A
-                          if [[ $repo == "docs" ]]; then
-                              if [[ -n $(git status -z --porcelain ./i18n) ]]; then
-                                  git commit -m "chore: update translations"
-                                  git push
-                              fi
-                          elif [[ -n $(git status -z --porcelain) ]]; then
+                          if [[ -n $(git status -z --porcelain) ]]; then
                               git commit -m "chore: update translations"
                               git push
                           fi
