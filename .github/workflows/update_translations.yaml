@@ -28,6 +28,7 @@ jobs:
                   mkdir $HOME/repos
                   curl -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -I {} bash -c "if [[ {} =~ /(docs|dl-librescore|app-librescore|webmscore-pwa).git$ ]]; then git -C $HOME/repos clone {} --single-branch --no-tags --depth=1 ; fi"
                   rm -R -f $HOME/repos/*/docs
+                  rm -R -f $HOME/repos/docs/i18n
                   mv -f $HOME/repos/docs/source/titles $HOME/repos/titles
                   rm -R -f $HOME/repos/docs/source
                   find $HOME/repos -not -path "$HOME/repos/titles/*" ! -name "*.md" -type f -delete
@@ -42,15 +43,11 @@ jobs:
             - name: Push to current repo
               run: |
                   if [[ -n $(git status -z --porcelain ./i18n) ]]; then
-                      mv -f ./i18n ../i18n
                       git config user.name github-actions
                       git config user.email github-actions@github.com
                       git add -A
-                      if [[ -n $(git status -z --porcelain) ]]; then
-                          git commit -m "chore: update translations"
-                          git push
-                      fi
-                      mv -f ../i18n ./i18n
+                      git commit -m "chore: update translations"
+                      git push
                   fi
             - name: Push to remote repos
               run: |
@@ -65,15 +62,14 @@ jobs:
                           cp -a $dir/* $HOME/$repo/docs/ -v
                           cp -a $dir/en/* $HOME/$repo/ -v
                           cd $HOME/$repo
-                          git config user.name github-actions
-                          git config user.email github-actions@github.com
-                          git add -A
                           if [[ -n $(git status -z --porcelain) ]]; then
+                              git config user.name github-actions
+                              git config user.email github-actions@github.com
+                              git add -A
                               git commit -m "chore: update translations"
                               git push
                           fi
                           cd $GITHUB_WORKSPACE
-                          rm -R -f $HOME/$repo
                       fi
                   done
                   shopt -u nullglob
