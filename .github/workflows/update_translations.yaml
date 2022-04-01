@@ -11,8 +11,8 @@ on:
         paths:
             - "source/**"
             - "po/**"
-    # schedule:
-    #     - cron: "*/15 * * * *"
+    schedule:
+        - cron: "*/15 * * * *"
     workflow_dispatch:
 
 concurrency: 
@@ -45,6 +45,7 @@ jobs:
             - name: Generate translations
               run: |
                   cp -a $HOME/repos/* source/ -v
+                  rm -R -f $HOME/repos
                   /bin/bash ./po4a.sh
             - name: Push to current repo
               run: |
@@ -66,10 +67,11 @@ jobs:
                       repo=${dir#*/}
                       repo=${repo%/}
                       if [[ $repo != "titles" ]]; then
-                          mkdir -p $HOME/repos/$repo/docs
-                          cp -a $dir/* $HOME/repos/$repo/docs/ -v
-                          cp -a $dir/en/* $HOME/repos/$repo/ -v
-                          cd $HOME/repos/$repo
+                          git -C $HOME clone --single-branch --no-tags --depth=1 https://github.com/LibreScore/$repo
+                          mkdir -p $HOME/$repo/docs
+                          cp -a $dir/* $HOME/$repo/docs/ -v
+                          cp -a $dir/en/* $HOME/$repo/ -v
+                          cd $HOME/$repo
                           git config user.name github-actions
                           git config user.email github-actions@github.com
                           git add -A
@@ -78,7 +80,7 @@ jobs:
                               git push
                           fi
                           cd $GITHUB_WORKSPACE
-                          rm -R -f $HOME/repos/$repo
+                          rm -R -f $HOME/$repo
                       fi
                   done
                   shopt -u nullglob
