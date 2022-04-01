@@ -2,7 +2,7 @@
 
 /bin/echo "[po_directory] po
 [options] -M UTF-8 -L UTF-8 -A UTF-8 --master-language en --msgmerge-opt '--no-wrap' --porefs file --wrap-po no
-[po4a_alias:markdown] text -o markdown -o neverwrap -o nobullets" > "./po4a.conf"
+[po4a_alias:markdown] text -o markdown -o neverwrap -o nobullets -k 85" > "./po4a.conf"
 
 shopt -s nullglob
 shopt -s globstar
