@@ -28,16 +28,10 @@ jobs:
                   mkdir $HOME/repos
                   curl -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -I {} bash -c "if [[ {} =~ /(docs|dl-librescore|app-librescore|webmscore-pwa).git$ ]]; then git -C $HOME/repos clone {} --single-branch --no-tags --depth=1 ; fi"
                   rm -R -f $HOME/repos/*/docs
-                  ls -a $HOME/repos/docs/source
-                  find $HOME/repos/docs/source -name "*.md" -type f -delete
-                  ls -a $HOME/repos/docs/source
-                  find $HOME/repos/docs/source -type d -empty -delete
-                  ls -a $HOME/repos/docs/source
-                  find $HOME/repos -not -path "$HOME/repos/docs/source/*" ! -name "*.md" -type f
-                  find $HOME/repos -not -path "$HOME/repos/docs/source/*" ! -name "*.md" -type f -delete
-                  ls -a $HOME/repos/docs/source
-                  find $HOME/repos -not -path "$HOME/repos/docs/source/*" -type d -empty -delete
-                  ls -a $HOME/repos/docs/source
+                  mv -f $HOME/repos/docs/source/titles $HOME/repos/titles
+                  rm -R -f $HOME/repos/docs/source
+                  find $HOME/repos -not -path "$HOME/repos/titles/*" ! -name "*.md" -type f -delete
+                  find $HOME/repos -not -path "$HOME/repos/titles/*" -type d -empty -delete
             - uses: actions/checkout@v3
             - name: Generate translations
               run: |
