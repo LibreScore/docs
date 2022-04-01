@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-04-01 01:11-0300\n"
+"POT-Creation-Date: 2022-04-01 01:27-0300\n"
 "PO-Revision-Date: 2022-03-29 04:08+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/fr/>\n"
@@ -367,12 +367,6 @@ msgstr ""
 msgid "1. `./po4a.sh`\n"
 msgstr ""
 
-#. type: Plain text
-#: source/webmscore-pwa/README.md
-#, no-wrap
-msgid "[&#8206;العربية](/docs/ar/اقرأني.md) | &#8206;**English** | [&#8206;Español](/docs/es/LÉAME.md) | [&#8206;Français](/docs/fr/LISEZMOI.md) | &#8206;[[+]](https://librescore.ddns.net/projects/librescore/docs)\n"
-msgstr ""
-
 #. type: Title #
 #: source/webmscore-pwa/README.md
 #, no-wrap
@@ -488,86 +482,3 @@ msgstr "Russe"
 #, no-wrap
 msgid "Simplified Chinese"
 msgstr "Chinois simplifié"
-
-#, fuzzy
-#~| msgid "The official frontend for the webmscore tool: <https://librescore.github.io>\n"
-#~ msgid "Frontend for the webmscore tool: https://librescore.github.io/\n"
-#~ msgstr "L'interface officielle de l'outil webmscore : <https://librescore.github.io>\n"
-
-#, fuzzy
-#~| msgid "<div dir=\"ltr\" align=\"left\">\n"
-#~ msgid "<div dir=\"rtl\">\n"
-#~ msgstr "<div dir=\"ltr\" align=\"left\">\n"
-
-#, fuzzy
-#~| msgid "The official frontend for the webmscore tool: <https://librescore.github.io>\n"
-#~ msgid "La interfaz oficial de la herramienta webmscore: https://librescore.github.io/\n"
-#~ msgstr "L'interface officielle de l'outil webmscore : <https://librescore.github.io>\n"
-
-#, fuzzy
-#~| msgid "Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:\n"
-#~ msgid "Una vez que haya creado un proyecto e instalado las dependencias con `npm install` (o `pnpm install` o `yarn`), inicie un servidor de desarrollo:\n"
-#~ msgstr "Une fois que vous avez créé un projet et installé les dépendances avec `npm install` (ou `pnpm install` ou `yarn`), démarrez un serveur de développement :\n"
-
-#, fuzzy
-#~| msgid ""
-#~| "npm run dev\n"
-#~| "\n"
-#~| "# or start the server and open the app in a new browser tab\n"
-#~| "npm run dev -- --open\n"
-#~ msgid ""
-#~ "npm run dev\n"
-#~ "\n"
-#~ "# o inicie el servidor y abra la aplicación en una nueva pestaña del navegador\n"
-#~ "npm run dev -- --open\n"
-#~ msgstr ""
-#~ "npm run dev\n"
-#~ "\n"
-#~ "# ou démarrez le serveur et ouvrez l'application dans un nouvel onglet du navigateur\n"
-#~ "npm run dev -- --open\n"
-
-#, fuzzy
-#~| msgid "Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:\n"
-#~ msgid "Antes de crear una versión de producción de su aplicación, instale un [adaptador](https://kit.svelte.dev/docs#adapters) para su entorno de destino. Luego:\n"
-#~ msgstr "Avant de créer une version de production de votre application, installez un [adaptateur](https://kit.svelte.dev/docs#adapters) pour votre environnement cible. Puis :\n"
-
-#, fuzzy
-#~| msgid "The official frontend for the webmscore tool: <https://librescore.github.io>\n"
-#~ msgid "L'interface officielle de l'outil webmscore : https://librescore.github.io/\n"
-#~ msgstr "L'interface officielle de l'outil webmscore : <https://librescore.github.io>\n"
-
-#, fuzzy
-#~| msgid "Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:\n"
-#~ msgid "Une fois que vous avez créé un projet et installé les dépendances avec `npm install` (ou `pnpm install` ou `yarn`), démarrez un serveur de développement :\n"
-#~ msgstr "Une fois que vous avez créé un projet et installé les dépendances avec `npm install` (ou `pnpm install` ou `yarn`), démarrez un serveur de développement :\n"
-
-#, fuzzy
-#~| msgid ""
-#~| "npm run dev\n"
-#~| "\n"
-#~| "# or start the server and open the app in a new browser tab\n"
-#~| "npm run dev -- --open\n"
-#~ msgid ""
-#~ "npm run dev\n"
-#~ "\n"
-#~ "# ou démarrez le serveur et ouvrez l'application dans un nouvel onglet du navigateur\n"
-#~ "npm run dev -- --open\n"
-#~ msgstr ""
-#~ "npm run dev\n"
-#~ "\n"
-#~ "# ou démarrez le serveur et ouvrez l'application dans un nouvel onglet du navigateur\n"
-#~ "npm run dev -- --open\n"
-
-#, fuzzy
-#~| msgid "Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:\n"
-#~ msgid "Avant de créer une version de production de votre application, installez un [adaptateur](https://kit.svelte.dev/docs#adapters) pour votre environnement cible. Puis :\n"
-#~ msgstr "Avant de créer une version de production de votre application, installez un [adaptateur](https://kit.svelte.dev/docs#adapters) pour votre environnement cible. Puis :\n"
-
-#, fuzzy
-#~| msgid "<div dir=\"ltr\" align=\"left\">\n"
-#~ msgid "<div dir=\"ltr\">\n"
-#~ msgstr "<div dir=\"ltr\" align=\"left\">\n"
-
-#, fuzzy
-#~ msgid "asdasd"
-#~ msgstr "234234"

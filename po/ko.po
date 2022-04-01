@@ -1,7 +1,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2022-04-01 01:11-0300\n"
+"POT-Creation-Date: 2022-04-01 01:27-0300\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 #. type: Plain text
@@ -360,12 +360,6 @@ msgstr ""
 msgid "1. `./po4a.sh`\n"
 msgstr ""
 
-#. type: Plain text
-#: source/webmscore-pwa/README.md
-#, no-wrap
-msgid "[&#8206;العربية](/docs/ar/اقرأني.md) | &#8206;**English** | [&#8206;Español](/docs/es/LÉAME.md) | [&#8206;Français](/docs/fr/LISEZMOI.md) | &#8206;[[+]](https://librescore.ddns.net/projects/librescore/docs)\n"
-msgstr ""
-
 #. type: Title #
 #: source/webmscore-pwa/README.md
 #, no-wrap
@@ -477,13 +471,3 @@ msgstr "러시아어"
 #, no-wrap
 msgid "Simplified Chinese"
 msgstr "중국어 (간체)"
-
-#, fuzzy
-#~| msgid "<div dir=\"ltr\" align=\"left\">\n"
-#~ msgid "<div dir=\"rtl\">\n"
-#~ msgstr "<div dir=\"ltr\" align=\"left\">\n"
-
-#, fuzzy
-#~| msgid "<div dir=\"ltr\" align=\"left\">\n"
-#~ msgid "<div dir=\"ltr\">\n"
-#~ msgstr "<div dir=\"ltr\" align=\"left\">\n"
