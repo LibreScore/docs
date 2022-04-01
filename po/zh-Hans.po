@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-04-01 03:28+0000\n"
+"POT-Creation-Date: 2022-04-01 01:11-0300\n"
 "PO-Revision-Date: 2022-04-01 02:47+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/librescore/docs/zh_Hans/>\n"
@@ -53,7 +53,6 @@ msgstr "下载利布蕾斯科尔应用\n"
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #: source/docs/README.md source/webmscore-pwa/README.md
-#: source/webmscore-pwa/i18n/README_ar.md
 #, no-wrap
 msgid "</div>\n"
 msgstr "</div>\n"
@@ -373,21 +372,14 @@ msgstr ""
 msgid "1. `./po4a.sh`\n"
 msgstr ""
 
-#. type: Title #
-#: source/librescore.github.io/README.md
-#, no-wrap
-msgid "librescore.github.io"
-msgstr ""
-
 #. type: Plain text
-#: source/librescore.github.io/README.md
+#: source/webmscore-pwa/README.md
 #, no-wrap
-msgid "Frontend for the webmscore tool: https://librescore.github.io/\n"
+msgid "[&#8206;العربية](/docs/ar/اقرأني.md) | &#8206;**English** | [&#8206;Español](/docs/es/LÉAME.md) | [&#8206;Français](/docs/fr/LISEZMOI.md) | &#8206;[[+]](https://librescore.ddns.net/projects/librescore/docs)\n"
 msgstr ""
 
 #. type: Title #
-#: source/webmscore-pwa/README.md source/webmscore-pwa/i18n/README_es.md
-#: source/webmscore-pwa/i18n/README_fr.md
+#: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Webmscore PWA"
 msgstr ""
@@ -427,9 +419,7 @@ msgid "Before creating a production version of your app, install an [adapter](ht
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: source/webmscore-pwa/README.md source/webmscore-pwa/i18n/README_ar.md
-#: source/webmscore-pwa/i18n/README_es.md
-#: source/webmscore-pwa/i18n/README_fr.md
+#: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "npm run build\n"
 msgstr "npm run build\n"
@@ -438,157 +428,6 @@ msgstr "npm run build\n"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.\n"
-msgstr ""
-
-#. type: Plain text
-#: source/webmscore-pwa/i18n/README_ar.md
-#, fuzzy, no-wrap
-#| msgid "<div dir=\"ltr\" align=\"left\">\n"
-msgid "<div dir=\"rtl\">\n"
-msgstr "<div dir=\"ltr\" align=\"left\">\n"
-
-#. type: Title #
-#: source/webmscore-pwa/i18n/README_ar.md
-#, no-wrap
-msgid "تطبيق ويب تقدمي ويبمسكور"
-msgstr ""
-
-#. type: Plain text
-#: source/webmscore-pwa/i18n/README_ar.md
-#, no-wrap
-msgid "الواجهة الرسمية لأداة ويبمسكور: <https://librescore.github.io>\n"
-msgstr ""
-
-#. type: Title ##
-#: source/webmscore-pwa/i18n/README_ar.md
-#, no-wrap
-msgid "النامية"
-msgstr ""
-
-#. type: Plain text
-#: source/webmscore-pwa/i18n/README_ar.md
-#, no-wrap
-msgid "بمجرد إنشاء مشروع وتثبيت التبعيات باستخدام `npm install` (أو `pnpm install` أو `yarn`) ، ابدأ خادم تطوير:\n"
-msgstr ""
-
-#. type: Fenced code block (bash)
-#: source/webmscore-pwa/i18n/README_ar.md
-#, no-wrap
-msgid ""
-"npm run dev\n"
-"\n"
-"# أو ابدأ الخادم وافتح التطبيق في علامة تبويب متصفح جديدة\n"
-"npm run dev -- --open\n"
-msgstr ""
-
-#. type: Title ##
-#: source/webmscore-pwa/i18n/README_ar.md
-#, no-wrap
-msgid "تجميع"
-msgstr ""
-
-#. type: Plain text
-#: source/webmscore-pwa/i18n/README_ar.md
-#, no-wrap
-msgid "قبل إنشاء إصدار إنتاج من تطبيقك ، قم بتثبيت [محول](https://kit.svelte.dev/docs#adapters) لبيئتك المستهدفة. ثم:\n"
-msgstr ""
-
-#. type: Plain text
-#: source/webmscore-pwa/i18n/README_ar.md
-#, no-wrap
-msgid "> يمكنك معاينة التطبيق المدمج باستخدام `npm run preview` ، بغض النظر عما إذا كنت قد قمت بتثبيت محول أم لا. يجب _ألا_ يتم استخدام هذا لخدمة تطبيقك في الإنتاج.\n"
-msgstr ""
-
-#. type: Plain text
-#: source/webmscore-pwa/i18n/README_es.md
-#, no-wrap
-msgid "La interfaz oficial de la herramienta webmscore: https://librescore.github.io/\n"
-msgstr ""
-
-#. type: Title ##
-#: source/webmscore-pwa/i18n/README_es.md
-#, no-wrap
-msgid "Desarrollando"
-msgstr ""
-
-#. type: Plain text
-#: source/webmscore-pwa/i18n/README_es.md
-#, no-wrap
-msgid "Una vez que haya creado un proyecto e instalado las dependencias con `npm install` (o `pnpm install` o `yarn`), inicie un servidor de desarrollo:\n"
-msgstr ""
-
-#. type: Fenced code block (bash)
-#: source/webmscore-pwa/i18n/README_es.md
-#, no-wrap
-msgid ""
-"npm run dev\n"
-"\n"
-"# o inicie el servidor y abra la aplicación en una nueva pestaña del navegador\n"
-"npm run dev -- --open\n"
-msgstr ""
-
-#. type: Title ##
-#: source/webmscore-pwa/i18n/README_es.md
-#, no-wrap
-msgid "Construcción"
-msgstr ""
-
-#. type: Plain text
-#: source/webmscore-pwa/i18n/README_es.md
-#, no-wrap
-msgid "Antes de crear una versión de producción de su aplicación, instale un [adaptador](https://kit.svelte.dev/docs#adapters) para su entorno de destino. Luego:\n"
-msgstr ""
-
-#. type: Plain text
-#: source/webmscore-pwa/i18n/README_es.md
-#, no-wrap
-msgid "> Puede obtener una vista previa de la aplicación creada con `npm run preview`, independientemente de si instaló un adaptador. Esto _no_ debe usarse para servir su aplicación en producción.\n"
-msgstr ""
-
-#. type: Plain text
-#: source/webmscore-pwa/i18n/README_fr.md
-#, no-wrap
-msgid "L'interface officielle de l'outil webmscore : https://librescore.github.io/\n"
-msgstr ""
-
-#. type: Title ##
-#: source/webmscore-pwa/i18n/README_fr.md
-#, no-wrap
-msgid "Développement"
-msgstr ""
-
-#. type: Plain text
-#: source/webmscore-pwa/i18n/README_fr.md
-#, no-wrap
-msgid "Une fois que vous avez créé un projet et installé les dépendances avec `npm install` (ou `pnpm install` ou `yarn`), démarrez un serveur de développement :\n"
-msgstr ""
-
-#. type: Fenced code block (bash)
-#: source/webmscore-pwa/i18n/README_fr.md
-#, no-wrap
-msgid ""
-"npm run dev\n"
-"\n"
-"# ou démarrez le serveur et ouvrez l'application dans un nouvel onglet du navigateur\n"
-"npm run dev -- --open\n"
-msgstr ""
-
-#. type: Title ##
-#: source/webmscore-pwa/i18n/README_fr.md
-#, no-wrap
-msgid "Construction"
-msgstr ""
-
-#. type: Plain text
-#: source/webmscore-pwa/i18n/README_fr.md
-#, no-wrap
-msgid "Avant de créer une version de production de votre application, installez un [adaptateur](https://kit.svelte.dev/docs#adapters) pour votre environnement cible. Puis :\n"
-msgstr ""
-
-#. type: Plain text
-#: source/webmscore-pwa/i18n/README_fr.md
-#, no-wrap
-msgid "> Vous pouvez prévisualiser l'application construite avec `npm run preview`, que vous ayez installé un adaptateur ou non. Cela ne doit _pas_ être utilisé pour diffuser votre application en production.\n"
 msgstr ""
 
 #. type: Hash Value: README
@@ -650,6 +489,11 @@ msgstr "俄语"
 #, no-wrap
 msgid "Simplified Chinese"
 msgstr "简体中文"
+
+#, fuzzy
+#~| msgid "<div dir=\"ltr\" align=\"left\">\n"
+#~ msgid "<div dir=\"rtl\">\n"
+#~ msgstr "<div dir=\"ltr\" align=\"left\">\n"
 
 #, fuzzy
 #~| msgid "<div dir=\"ltr\" align=\"left\">\n"
