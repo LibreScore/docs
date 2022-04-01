@@ -1,13 +1,19 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2022-04-01 02:03+0000\n"
+"POT-Creation-Date: 2022-04-01 02:13+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 #. type: Title #
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "app-librescore"
+msgstr ""
+
+#. type: Plain text
+#: source/app-librescore/README.md source/dl-librescore/README.md
+#, no-wrap
+msgid "**English** | [[+]](https://librescore.ddns.net/projects/librescore/docs)\n"
 msgstr ""
 
 #. type: Plain text

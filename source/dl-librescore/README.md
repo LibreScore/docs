@@ -1,5 +1,7 @@
 # dl-librescore
 
+**English** | [[+]](https://librescore.ddns.net/projects/librescore/docs)
+
 <div dir="ltr">
 
 <div align="center">

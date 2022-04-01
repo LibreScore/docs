@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-04-01 02:03+0000\n"
+"POT-Creation-Date: 2022-04-01 02:13+0000\n"
 "PO-Revision-Date: 2022-03-29 04:08+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Arabic <https://librescore.ddns.net/projects/librescore/docs/ar/>\n"
@@ -15,6 +15,12 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "app-librescore"
+msgstr ""
+
+#. type: Plain text
+#: source/app-librescore/README.md source/dl-librescore/README.md
+#, no-wrap
+msgid "**English** | [[+]](https://librescore.ddns.net/projects/librescore/docs)\n"
 msgstr ""
 
 #. type: Plain text

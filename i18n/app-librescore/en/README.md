@@ -2,6 +2,8 @@
 
 **English** | [[+]](https://librescore.ddns.net/projects/librescore/docs)
 
+**English** | [[+]](https://librescore.ddns.net/projects/librescore/docs)
+
 <div dir="ltr">
 
 <div align="center">
