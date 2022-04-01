@@ -2,9 +2,10 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-04-01 23:16+0000\n"
-"PO-Revision-Date: 2022-04-01 22:24+0000\n"
-"Last-Translator: Ziegler <3474343354@qq.com>\n"
-"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/librescore/docs/zh_Hans/>\n"
+"PO-Revision-Date: 2022-04-02 00:33+0000\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/"
+"librescore/docs/zh_Hans/>\n"
 "Language: zh-Hans\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -24,6 +25,8 @@ msgstr "<div dir=\"ltr\" align=\"left\">\n"
 #, no-wrap
 msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
 msgstr ""
+"[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***不要在此行上方编辑*** /+/^^+#|#+^+#|#+^^"
+"\\+\\\"\n"
 
 #. type: Title #
 #: source/app-librescore/README.md
@@ -42,13 +45,23 @@ msgstr "<div align=\"center\">\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
-msgstr "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"利布蕾斯科尔的标志\">\n"
+msgstr ""
+"<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo."
+"png\" width=\"256\" alt=\"利布蕾斯科尔商标\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate (翻译)](https://librescore.ddns.net/widgets/librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github 全部发布版](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate（翻译）](https://librescore.ddns.net/widgets/"
+"librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/"
+"engage/librescore) [![Github 全部发布版](https://img.shields.io/github/"
+"downloads/LibreScore/app-librescore/total."
+"svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/"
+"latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -84,6 +97,27 @@ msgid ""
 "|                                            Windows (7+) (64-bit only)                                            |                                        macOS (10.11+) (Rosetta 2)                                         |                                             Android (6.0+)                                             |\n"
 "|      [Download (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Download (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Download (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 msgstr ""
+"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/"
+"Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https"
+"://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29."
+"svg\" width=\"512\"> |   <img src=\"https://upload.wikimedia.org/wikipedia/"
+"commons/3/31/Android_robot_head.svg\" width=\"512\">   |\n"
+"| :--------------------------------------------------------------------------"
+"------------------------------------: | :------------------------------------"
+"-------------------------------------------------------------------: | :-----"
+"-----------------------------------------------------------------------------"
+"------------------: |\n"
+"|                                            Windows (7+)（仅限 64 位）"
+"                                            |"
+"                                        macOS (10.11+) (Rosetta 2)"
+"                                         |"
+"                                             安卓 (6.0+)"
+"                                             |\n"
+"|      [下载 (EXE)](https://github.com/LibreScore/app-librescore/releases/"
+"latest/download/LibreScore.exe)      |  [下载 (DMG)](https://github.com/"
+"LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [下载 "
+"(APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/"
+"LibreScore.apk) |\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -104,8 +138,9 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. 下载 [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
-"2. 打开EXE文件，安装\n"
+"1. 下载 [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)\n"
+"2. 打开EXE文件安装它\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
@@ -127,12 +162,22 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
+"1. 下载 [LibreScore.dmg](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.dmg)\n"
+"2. 打开 DMG 文件\n"
+"3. 将 APP 文件移动到 Applications 文件夹进行安装\n"
+"4. 按住 Control 键点按 APP 文件\n"
+"5. 从快捷键菜单中选取`打开`\n"
+"6. 点按底部的`打开`\n"
+"7. 关闭 DMG 文件\n"
+"8. 按住 Control 键单击 DMG 文件\n"
+"9. 点击快捷菜单中的`弹出`\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Android"
-msgstr "Android"
+msgstr "安卓"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -141,14 +186,15 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. 下载 [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
-"2. 打开APK，安装\n"
+"1. 下载 [LibreScore.apk](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.apk)\n"
+"2. 打开APK文件安装它\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: a message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr "> 注意：Play Protect可能会提示信息。 单击下方的 `强制安装`\n"
+msgstr "> 注意：Play Protect可能会提示信息。单击下方的 `强制安装`\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
