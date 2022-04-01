@@ -1,8 +1,16 @@
-#, fuzzy
 msgid ""
 msgstr ""
+"Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-04-01 02:13+0000\n"
+"PO-Revision-Date: 2022-04-01 02:37+0000\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/"
+"librescore/docs/zh_Hans/>\n"
+"Language: zh-Hans\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.11.2\n"
 
 #. type: Title #
 #: source/app-librescore/README.md
@@ -82,13 +90,13 @@ msgstr ""
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "Installation"
-msgstr ""
+msgstr "安装"
 
 #. type: Title ###
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -97,12 +105,15 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
+"1. 下载 [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)\n"
+"2. 打开EXE文件，安装\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "macOS"
-msgstr ""
+msgstr "macOS"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -123,7 +134,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Android"
-msgstr ""
+msgstr "Android"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -132,18 +143,21 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
+"1. 下载 [LibreScore.apk](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.apk)\n"
+"2. 打开APK，安装\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: a message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr ""
+msgstr "> 注意：Play Protect可能会提示信息。 单击下方的 `强制安装`\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "dl-librescore"
-msgstr ""
+msgstr "dl-librescore"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -155,7 +169,7 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "There are 4 different installable programs:\n"
-msgstr ""
+msgstr "有4种不同的安装程序：\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
