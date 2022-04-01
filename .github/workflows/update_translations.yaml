@@ -11,8 +11,8 @@ on:
         paths:
             - "source/**"
             - "po/**"
-    schedule:
-        - cron: "*/15 * * * *"
+    # schedule:
+    #     - cron: "*/15 * * * *"
     workflow_dispatch:
 
 concurrency: 
