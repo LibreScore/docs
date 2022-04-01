@@ -1,8 +1,8 @@
 name: Update translations
 
 on:
-    # schedule:
-    #     - cron: "*/15 * * * *"
+    schedule:
+        - cron: "*/15 * * * *"
     workflow_dispatch:
 
 concurrency: 
@@ -56,7 +56,7 @@ jobs:
                       repo=${dir#*/}
                       repo=${repo%/}
                       if [[ $repo != "titles" ]]; then
-                          git -C $HOME clone --single-branch --no-tags --depth=1 https://github.com/LibreScore/$repo
+                          git -C $HOME clone --single-branch --no-tags --depth=1 https://PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@github.com/LibreScore/$repo
                           mkdir -p $HOME/$repo/docs
                           cp -a $dir/* $HOME/$repo/docs/ -v
                           cp -a $dir/en/* $HOME/$repo/ -v
