@@ -3,7 +3,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-04-01 05:49+0000\n"
 "PO-Revision-Date: 2022-04-01 22:24+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"Last-Translator: Ziegler <3474343354@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/"
 "librescore/docs/zh_Hans/>\n"
 "Language: zh-Hans\n"
@@ -193,7 +193,7 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "App"
-msgstr ""
+msgstr "应用程序"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
