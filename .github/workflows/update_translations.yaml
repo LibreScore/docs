@@ -36,7 +36,7 @@ jobs:
             - name: Fetch source files
               run:  |
                   mkdir $HOME/repos
-                  url=$(curl -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@/g'); if ! [[ $url =~ /(pdfkit|mscz-parser|sf3|fonts).git$ ]]; then git -C $HOME/repos clone $url --single-branch --no-tags --depth=1 ; fi
+                  curl -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -I {} bash -c "if ! [[ {} =~ /(pdfkit|mscz-parser|sf3|fonts).git$ ]]; then git -C $HOME/repos clone {} --single-branch --no-tags --depth=1 ; fi"
                   rm -R -f $HOME/repos/*/docs
                   find $HOME/repos -not -path "*/.git/*" ! -name "*.md" -type f -delete
                   find $HOME/repos/webmscore -not -path "./README.md" -delete
