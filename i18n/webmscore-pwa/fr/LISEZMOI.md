@@ -2,17 +2,9 @@
 
 [&#8206;العربية](/docs/ar/اقرأني.md) | [&#8206;English](/docs/en/README.md) | [&#8206;Español](/docs/es/LÉAME.md) | &#8206;**Français** | &#8206;[[+]](https://librescore.ddns.net/projects/librescore/docs)
 
-[&#8206;العربية](/docs/ar/اقرأني.md) | &#8206;**English** | [&#8206;Español](/docs/es/LÉAME.md) | [&#8206;Français](/docs/fr/LISEZMOI.md) | &#8206;[[+]](https://librescore.ddns.net/projects/librescore/docs)
-
 # Application Web progressive de Webmscore
 
-<div align="center">
-
-[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)
-
 L'interface officielle de l'outil webmscore : <https://librescore.github.io>
-
-</div>
 
 ## Développement
 

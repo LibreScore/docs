@@ -1,39 +1,33 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-04-01 02:13+0000\n"
+"POT-Creation-Date: 2022-04-01 03:28+0000\n"
 "PO-Revision-Date: 2022-04-01 02:47+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/"
-"librescore/docs/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/librescore/docs/zh_Hans/>\n"
 "Language: zh-Hans\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.11.2\n"
 
-#. type: Title #
-#: source/app-librescore/README.md
-#, no-wrap
-msgid "app-librescore"
-msgstr ""
-
-#. type: Plain text
-#: source/app-librescore/README.md source/dl-librescore/README.md
-#, no-wrap
-msgid "**English** | [[+]](https://librescore.ddns.net/projects/librescore/docs)\n"
-msgstr ""
-
-#. type: Plain text
-#: source/app-librescore/README.md source/dl-librescore/README.md
-#, fuzzy, no-wrap
-#| msgid "<div dir=\"ltr\" align=\"left\">\n"
-msgid "<div dir=\"ltr\">\n"
-msgstr "<div dir=\"ltr\" align=\"left\">\n"
-
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #: source/docs/README.md source/webmscore-pwa/README.md
+#, no-wrap
+msgid "<div dir=\"ltr\" align=\"left\">\n"
+msgstr "<div dir=\"ltr\" align=\"left\">\n"
+
+#. type: Title #
+#: source/app-librescore/README.md
+#, fuzzy, no-wrap
+#| msgid "Download the LibreScore app\n"
+msgid "LibreScore App"
+msgstr "下载利布蕾斯科尔应用\n"
+
+#. type: Plain text
+#: source/app-librescore/README.md source/dl-librescore/README.md
+#: source/docs/README.md
 #, no-wrap
 msgid "<div align=\"center\">\n"
 msgstr "<div align=\"center\">\n"
@@ -42,23 +36,13 @@ msgstr "<div align=\"center\">\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
-msgstr ""
-"<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo."
-"png\" width=\"256\" alt=\"利布蕾斯科尔的标志\">\n"
+msgstr "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"利布蕾斯科尔的标志\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate (翻译)](https://librescore.ddns.net/widgets/"
-"librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/"
-"engage/librescore) [![Github 全部发布版](https://img.shields.io/github/"
-"downloads/LibreScore/app-librescore/total."
-"svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/"
-"latest)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate (翻译)](https://librescore.ddns.net/widgets/librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github 全部发布版](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -115,8 +99,7 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. 下载 [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.exe)\n"
+"1. 下载 [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. 打开EXE文件，安装\n"
 
 #. type: Title ###
@@ -153,8 +136,7 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. 下载 [LibreScore.apk](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.apk)\n"
+"1. 下载 [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. 打开APK，安装\n"
 
 #. type: Plain text
@@ -355,12 +337,6 @@ msgid ""
 "- `node ./dist/cli.js` to run command-line tool\n"
 msgstr ""
 
-#. type: Plain text
-#: source/docs/README.md source/webmscore-pwa/README.md
-#, no-wrap
-msgid "<div dir=\"ltr\" align=\"left\">\n"
-msgstr "<div dir=\"ltr\" align=\"left\">\n"
-
 #. type: Title #
 #: source/docs/README.md
 #, no-wrap
@@ -409,23 +385,11 @@ msgstr ""
 msgid "Frontend for the webmscore tool: https://librescore.github.io/\n"
 msgstr ""
 
-#. type: Plain text
-#: source/webmscore-pwa/README.md
-#, no-wrap
-msgid "[&#8206;العربية](/docs/ar/اقرأني.md) | &#8206;**English** | [&#8206;Español](/docs/es/LÉAME.md) | [&#8206;Français](/docs/fr/LISEZMOI.md) | &#8206;[[+]](https://librescore.ddns.net/projects/librescore/docs)\n"
-msgstr ""
-
 #. type: Title #
 #: source/webmscore-pwa/README.md source/webmscore-pwa/i18n/README_es.md
 #: source/webmscore-pwa/i18n/README_fr.md
 #, no-wrap
 msgid "Webmscore PWA"
-msgstr ""
-
-#. type: Plain text
-#: source/webmscore-pwa/README.md
-#, no-wrap
-msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\n"
 msgstr ""
 
 #. type: Plain text
@@ -686,3 +650,8 @@ msgstr "俄语"
 #, no-wrap
 msgid "Simplified Chinese"
 msgstr "简体中文"
+
+#, fuzzy
+#~| msgid "<div dir=\"ltr\" align=\"left\">\n"
+#~ msgid "<div dir=\"ltr\">\n"
+#~ msgstr "<div dir=\"ltr\" align=\"left\">\n"

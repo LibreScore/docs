@@ -1,8 +1,6 @@
-# app-librescore
+<div dir="ltr" align="left">
 
-**English** | [[+]](https://librescore.ddns.net/projects/librescore/docs)
-
-<div dir="ltr">
+# LibreScore App
 
 <div align="center">
 
