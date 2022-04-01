@@ -42,7 +42,7 @@ jobs:
             - name: Push to current repo
               run: |
                   if [[ -n $(git status -z --porcelain ./i18n) ]]; then
-                      mv ./i18n ../i18n
+                      mv -f ./i18n ../i18n
                       git config user.name github-actions
                       git config user.email github-actions@github.com
                       git add -A
@@ -50,7 +50,7 @@ jobs:
                           git commit -m "chore: update translations"
                           git push
                       fi
-                      mv ../i18n ./i18n
+                      mv -f ../i18n ./i18n
                   fi
             - name: Push to remote repos
               run: |
