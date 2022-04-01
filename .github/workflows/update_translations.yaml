@@ -1,16 +1,6 @@
 name: Update translations
 
 on:
-    push:
-        branches: [master]
-        paths:
-            - "source/**"
-            - "po/**"
-    pull_request:
-        branches: [master]
-        paths:
-            - "source/**"
-            - "po/**"
     # schedule:
     #     - cron: "*/15 * * * *"
     workflow_dispatch:
@@ -36,10 +26,9 @@ jobs:
             - name: Fetch source files
               run:  |
                   mkdir $HOME/repos
-                  curl -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -I {} bash -c "if ! [[ {} =~ /(LibreScore|pdfkit|mscz-parser|sf3|fonts).git$ ]]; then git -C $HOME/repos clone {} --single-branch --no-tags --depth=1 ; fi"
+                  curl -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -I {} bash -c "if [[ {} =~ /(dl-librescore|app-librescore|webmscore-pwa|librescore\.github\.io).git$ ]]; then git -C $HOME/repos clone {} --single-branch --no-tags --depth=1 ; fi"
                   rm -R -f $HOME/repos/*/docs
-                  find $HOME/repos -not -path "*/.git/*" ! -name "*.md" -type f -delete
-                  find $HOME/repos/webmscore -not -path "./README.md" -delete
+                  find $HOME/repos ! -name "*.md" -type f -delete
                   find $HOME/repos -type d -empty -delete
             - uses: actions/checkout@v3
             - name: Generate translations
