@@ -76,7 +76,7 @@ jobs:
                       fi
                   done
                   shopt -u nullglob
-                  if [ "$updated" -eq "1" ]; then
+                  if [ $updated -eq 1 ]; then
                       curl -i -u PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }} -X POST -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/LibreScore/docs/actions/runs/${{ github.run_id }}/cancel
                       curl -i -u PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }} -X DELETE -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/LibreScore/docs/actions/runs/${{ github.run_id }}
                   fi
