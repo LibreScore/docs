@@ -30,8 +30,8 @@ jobs:
                   rm -R -f $HOME/repos/*/docs
                   find $HOME/repos/docs/source -name "*.md" -type f -delete
                   find $HOME/repos/docs/source -type d -empty -delete
-                  find $HOME/repos -path $HOME/repos/docs/source -not ! -name "*.md" -type f -delete
-                  find $HOME/repos -path $HOME/repos/docs/source -not -type d -empty -delete
+                  find $HOME/repos -not -path "$HOME/repos/docs/source/*" ! -name "*.md" -type f -delete
+                  find $HOME/repos -not -path "$HOME/repos/docs/source/*" -type d -empty -delete
             - uses: actions/checkout@v3
             - name: Generate translations
               run: |
