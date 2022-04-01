@@ -42,7 +42,9 @@ jobs:
                   /bin/bash ./po4a.sh
             - name: Push to current repo
               run: |
+                  updated=0
                   if [[ -n $(git status -z --porcelain ./i18n) ]]; then
+                      updated=1
                       git config user.name github-actions
                       git config user.email github-actions@github.com
                       git add -A
@@ -63,6 +65,7 @@ jobs:
                           cp -a $dir/en/* $HOME/$repo/ -v
                           cd $HOME/$repo
                           if [[ -n $(git status -z --porcelain) ]]; then
+                              updated=1
                               git config user.name github-actions
                               git config user.email github-actions@github.com
                               git add -A
@@ -73,3 +76,7 @@ jobs:
                       fi
                   done
                   shopt -u nullglob
+                  if [ "$updated" -eq "1" ]; then
+                      curl -i -u PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }} -X POST -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/LibreScore/docs/actions/runs/${{ github.run_id }}/cancel
+                      curl -i -u PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }} -X DELETE -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/LibreScore/docs/actions/runs/${{ github.run_id }}
+                  fi
