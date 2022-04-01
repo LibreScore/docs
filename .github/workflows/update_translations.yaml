@@ -46,9 +46,6 @@ jobs:
                   if [[ -n $(git status -z --porcelain ./i18n) ]]; then
                       git commit -m "chore: update translations"
                       git push
-                  else
-                      curl -i -u PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }} -d -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/LibreScore/docs/actions/runs/${{ github.run_id }}/cancel
-                      curl -i -u PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }} -X DELETE -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/LibreScore/docs/actions/runs/${{ github.run_id }}
                   fi
             - name: Push to remote repos
               run: |
@@ -57,7 +54,7 @@ jobs:
                       dir=${dir%/}
                       repo=${dir#*/}
                       repo=${repo%/}
-                      if [[ $repo != ^(docs|titles)$ ]]; then
+                      if ! [[ $repo =~ ^(docs|titles)$ ]]; then
                           git -C $HOME clone --single-branch --no-tags --depth=1 https://PeterNjeim:${{ secrets.LIBRESCORE_TOKEN }}@github.com/LibreScore/$repo
                           mkdir -p $HOME/$repo/docs
                           cp -a $dir/* $HOME/$repo/docs/ -v
