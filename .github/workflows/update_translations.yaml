@@ -41,12 +41,16 @@ jobs:
                   /bin/bash ./po4a.sh
             - name: Push to current repo
               run: |
-                  git config user.name github-actions
-                  git config user.email github-actions@github.com
-                  git add -A
                   if [[ -n $(git status -z --porcelain ./i18n) ]]; then
-                      git commit -m "chore: update translations"
-                      git push
+                      mv ./i18n ../i18n
+                      git config user.name github-actions
+                      git config user.email github-actions@github.com
+                      git add -A
+                      if [[ -n $(git status -z --porcelain) ]]; then
+                          git commit -m "chore: update translations"
+                          git push
+                      fi
+                      mv ../i18n ./i18n
                   fi
             - name: Push to remote repos
               run: |
