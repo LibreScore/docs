@@ -2,9 +2,10 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-04-02 00:36+0000\n"
-"PO-Revision-Date: 2022-04-02 00:33+0000\n"
+"PO-Revision-Date: 2022-04-02 05:15+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/librescore/docs/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/"
+"librescore/docs/zh_Hans/>\n"
 "Language: zh-Hans\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -174,6 +175,17 @@ msgstr "dl-librescore"
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
 msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate（翻译）](https://librescore.ddns.net/widgets/"
+"librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/"
+"engage/librescore) [![Github 全部发布版](https://img.shields.io/github/"
+"downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/"
+"LibreScore/app-librescore/releases/latest) [![Github 全部发布版](https://img."
+"shields.io/github/downloads/LibreScore/dl-librescore/total."
+"svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/"
+"latest) [![node包管理器](https://img.shields.io/npm/dt/dl-librescore?label"
+"=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -192,6 +204,24 @@ msgid ""
 "| [Command-line tool](https://github.com/LibreScore/dl-librescore#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
 "| [Webmscore website](https://github.com/LibreScore/dl-librescore#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgstr ""
+"| 程序                                                                       "
+"     | MSCZ | MIDI | MP3 | PDF | 转换 |     | Windows | macOS | Linux | 安卓 "
+"| iOS/iPadOS |\n"
+"| ---------------------------------------------------------------------------"
+"------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | "
+"----- | ------- | ---------- |\n"
+"| [应用程序](https://github.com/LibreScore/dl-librescore#app)"
+"                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | "
+"✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
+"| [用户脚本](https://github.com/LibreScore/dl-librescore#userscript)"
+"               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️"
+"    | ✔️    | ✔️      | ✔️         |\n"
+"| [命令行工具](https://github.com/LibreScore/dl-librescore#command-line-tool)"
+" | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️"
+"      | ❌         |\n"
+"| [韦贝姆斯科尔网站](https://github.com/LibreScore/dl-librescore#webmscore-"
+"website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️"
+"    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -219,7 +249,7 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Userscript"
-msgstr ""
+msgstr "用户脚本"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -302,7 +332,7 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Command-line tool"
-msgstr ""
+msgstr "命令行工具"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -317,7 +347,7 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Webmscore website"
-msgstr ""
+msgstr "韦贝姆斯科尔网站"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
