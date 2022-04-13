@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-04-13 07:16+0000\n"
-"PO-Revision-Date: 2022-04-13 06:24+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-04-13 07:20+0000\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/"
 "ms/>\n"
 "Language: ms\n"
@@ -313,9 +313,9 @@ msgstr "[![ Discord ](https://img.shields.io/discord/774491656643674122?color=58
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Download sheet music\n"
-msgstr "Muat turun apl LibreScore\n"
+msgstr "Muat turun lembaran muzik\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
