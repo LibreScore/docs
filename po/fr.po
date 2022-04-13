@@ -618,7 +618,3 @@ msgstr "Russe"
 #, no-wrap
 msgid "Simplified Chinese"
 msgstr "Chinois simplifié"
-
-msgctxt "ms"
-msgid "Malay"
-msgstr ""
