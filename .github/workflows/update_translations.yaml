@@ -43,6 +43,10 @@ jobs:
             - name: Push to current repo
               run: |
                   updated=0
+                  mkdir -p ./docs
+                  rm -R -f ./docs/*
+                  cp -a ./i18n/docs/* ./docs/ -v
+                  cp -a ./i18n/docs/en/* . -v
                   if [[ -n $(git status -z --porcelain ./i18n) ]]; then
                       updated=1
                       git config user.name github-actions
