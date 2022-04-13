@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
 "PO-Revision-Date: 2024-06-29 01:38+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Agent Hitman Faris <bombtimecs@gmail.com>\n"
 "Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/"
 "ms/>\n"
 "Language: ms\n"
@@ -42,25 +42,40 @@ msgstr "Dasar Privasi"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "LibreScore built the LibreScore app as a Free app. This SERVICE is provided by LibreScore at no cost and is intended for use as is.\n"
-msgstr "LibreScore membina apl LibreScore sebagai apl Percuma. PERKHIDMATAN ini disediakan oleh LibreScore tanpa kos dan bertujuan untuk digunakan sebagaimana adanya.\n"
+msgstr ""
+"LibreScore membina apl LibreScore sebagai apl Percuma. PERKHIDMATAN ini "
+"disediakan oleh LibreScore tanpa kos dan bertujuan untuk digunakan "
+"sebagaimana adanya.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\n"
-msgstr "Halaman ini digunakan untuk memaklumkan pelawat mengenai dasar kami dengan pengumpulan, penggunaan dan pendedahan Maklumat Peribadi jika sesiapa memutuskan untuk menggunakan Perkhidmatan kami.\n"
+msgstr ""
+"Halaman ini digunakan untuk memaklumkan pelawat mengenai dasar kami dengan "
+"pengumpulan, penggunaan dan pendedahan Maklumat Peribadi jika sesiapa "
+"memutuskan untuk menggunakan Perkhidmatan kami.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\n"
-msgstr "Jika anda memilih untuk menggunakan Perkhidmatan kami, maka anda bersetuju menerima pengumpulan dan penggunaan maklumat yang berkaitan dengan dasar ini. Maklumat Peribadi yang kami kumpulkan digunakan untuk menyediakan dan menambah baik Perkhidmatan. Kami tidak akan menggunakan atau berkongsi maklumat anda dengan sesiapa kecuali seperti yang diterangkan dalam Dasar Privasi ini.\n"
+msgstr ""
+"Jika anda memilih untuk menggunakan Perkhidmatan kami, maka anda bersetuju "
+"menerima pengumpulan dan penggunaan maklumat yang berkaitan dengan dasar "
+"ini. Maklumat Peribadi yang kami kumpulkan digunakan untuk menyediakan dan "
+"menambah baik Perkhidmatan. Kami tidak akan menggunakan atau berkongsi "
+"maklumat anda dengan sesiapa kecuali seperti yang diterangkan dalam Dasar "
+"Privasi ini.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at LibreScore unless otherwise defined in this Privacy Policy.\n"
-msgstr "Terma yang digunakan dalam Dasar Privasi ini mempunyai maksud yang sama seperti dalam Terma dan Syarat kami, yang boleh diakses di LibreScore melainkan ditakrifkan sebaliknya dalam Dasar Privasi ini.\n"
+msgstr ""
+"Terma yang digunakan dalam Dasar Privasi ini mempunyai maksud yang sama "
+"seperti dalam Terma dan Syarat kami, yang boleh diakses di LibreScore "
+"melainkan ditakrifkan sebaliknya dalam Dasar Privasi ini.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -107,7 +122,13 @@ msgstr "Keselamatan"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.\n"
-msgstr "Kami menghargai kepercayaan anda dalam memberikan kami Maklumat Peribadi anda, oleh itu kami berusaha untuk menggunakan cara yang boleh diterima secara komersial untuk melindunginya. Tetapi ingat bahawa tiada kaedah penghantaran melalui Internet, atau kaedah storan elektronik adalah 100% selamat dan boleh dipercayai, dan kami tidak dapat menjamin keselamatan mutlaknya.\n"
+msgstr ""
+"Kami menghargai kepercayaan anda dalam memberikan kami Maklumat Peribadi "
+"anda, oleh itu kami berusaha untuk menggunakan cara yang boleh diterima "
+"secara komersial untuk melindunginya. Tetapi ingat bahawa tiada kaedah "
+"penghantaran melalui Internet, atau kaedah storan elektronik adalah 100% "
+"selamat dan boleh dipercayai, dan kami tidak dapat menjamin keselamatan "
+"mutlaknya.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -119,7 +140,14 @@ msgstr "Pautan ke Tapak Lain"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n"
-msgstr "Perkhidmatan ini mungkin mengandungi pautan ke tapak lain. Jika anda mengklik pada pautan pihak ketiga, anda akan diarahkan ke tapak tersebut. Ambil perhatian bahawa tapak luar ini tidak dikendalikan oleh kami. Oleh itu, kami amat menasihati anda untuk menyemak Dasar Privasi tapak web ini. Kami tidak mempunyai kawalan ke atas dan tidak bertanggungjawab ke atas kandungan, dasar privasi atau amalan mana-mana tapak atau perkhidmatan pihak ketiga.\n"
+msgstr ""
+"Perkhidmatan ini mungkin mengandungi pautan ke tapak lain. Jika anda "
+"mengklik pada pautan pihak ketiga, anda akan diarahkan ke tapak tersebut. "
+"Ambil perhatian bahawa tapak luar ini tidak dikendalikan oleh kami. Oleh "
+"itu, kami amat menasihati anda untuk menyemak Dasar Privasi tapak web ini. "
+"Kami tidak mempunyai kawalan ke atas dan tidak bertanggungjawab ke atas "
+"kandungan, dasar privasi atau amalan mana-mana tapak atau perkhidmatan pihak "
+"ketiga.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -131,7 +159,21 @@ msgstr "Privasi Kanak-kanak"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We do not knowingly collect personally identifiable information from children. We encourage all children to never submit any personally identifiable information through the Application and/or Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).\n"
-msgstr "Kami tidak mengumpul maklumat yang boleh dikenal pasti secara peribadi daripada kanak-kanak. Kami menggalakkan semua kanak-kanak untuk tidak menyerahkan sebarang maklumat yang boleh dikenal pasti secara peribadi melalui Aplikasi dan/atau Perkhidmatan. Kami menggalakkan ibu bapa dan penjaga yang sah untuk memantau penggunaan Internet anak-anak mereka dan untuk membantu menguatkuasakan Polisi ini dengan mengarahkan anak-anak mereka untuk tidak memberikan maklumat yang boleh dikenal pasti secara peribadi melalui Aplikasi dan/atau Perkhidmatan tanpa kebenaran mereka. Jika anda mempunyai sebab untuk mempercayai bahawa kanak-kanak telah memberikan maklumat yang boleh dikenal pasti secara peribadi kepada kami melalui Aplikasi dan/atau Perkhidmatan, sila hubungi kami. Anda juga mesti berumur sekurang-kurangnya 16 tahun untuk membenarkan pemprosesan maklumat pengenalan peribadi anda di negara anda (di sesetengah negara kami mungkin membenarkan ibu bapa atau penjaga anda berbuat demikian bagi pihak anda).\n"
+msgstr ""
+"Kami tidak mengumpul maklumat yang boleh dikenal pasti secara peribadi "
+"daripada kanak-kanak. Kami menggalakkan semua kanak-kanak untuk tidak "
+"menyerahkan sebarang maklumat yang boleh dikenal pasti secara peribadi "
+"melalui Aplikasi dan/atau Perkhidmatan. Kami menggalakkan ibu bapa dan "
+"penjaga yang sah untuk memantau penggunaan Internet anak-anak mereka dan "
+"untuk membantu menguatkuasakan Polisi ini dengan mengarahkan anak-anak "
+"mereka untuk tidak memberikan maklumat yang boleh dikenal pasti secara "
+"peribadi melalui Aplikasi dan/atau Perkhidmatan tanpa kebenaran mereka. Jika "
+"anda mempunyai sebab untuk mempercayai bahawa kanak-kanak telah memberikan "
+"maklumat yang boleh dikenal pasti secara peribadi kepada kami melalui "
+"Aplikasi dan/atau Perkhidmatan, sila hubungi kami. Anda juga mesti berumur "
+"sekurang-kurangnya 16 tahun untuk membenarkan pemprosesan maklumat "
+"pengenalan peribadi anda di negara anda (di sesetengah negara kami mungkin "
+"membenarkan ibu bapa atau penjaga anda berbuat demikian bagi pihak anda).\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -143,7 +185,11 @@ msgstr "Perubahan kepada Dasar Privasi Ini"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.\n"
-msgstr "Kami mungkin mengemas kini Dasar Privasi kami dari semasa ke semasa. Oleh itu, anda dinasihatkan untuk menyemak halaman ini secara berkala untuk sebarang perubahan. Kami akan memberitahu anda tentang sebarang perubahan dengan menyiarkan Dasar Privasi baharu pada halaman ini.\n"
+msgstr ""
+"Kami mungkin mengemas kini Dasar Privasi kami dari semasa ke semasa. Oleh "
+"itu, anda dinasihatkan untuk menyemak halaman ini secara berkala untuk "
+"sebarang perubahan. Kami akan memberitahu anda tentang sebarang perubahan "
+"dengan menyiarkan Dasar Privasi baharu pada halaman ini.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -170,7 +216,10 @@ msgstr ""
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com)\n"
-msgstr "Halaman dasar privasi ini dibuat di [privacypolicytemplate.net](https://privacypolicytemplate.net) dan diubah suai/dijana oleh [Penjana Dasar Privasi Apl](https://app-privacy-policy-generator.nisrulz.com)\n"
+msgstr ""
+"Halaman dasar privasi ini dibuat di [privacypolicytemplate."
+"net](https://privacypolicytemplate.net) dan diubah suai/dijana oleh [Penjana "
+"Dasar Privasi Apl](https://app-privacy-policy-generator.nisrulz.com)\n"
 
 #. type: Title #
 #: source/app-librescore/README.md
@@ -189,7 +238,9 @@ msgstr "<div align=\"center\">\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
-msgstr "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
+msgstr ""
+"<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo."
+"png\" width=\"256\" alt=\"LibreScore logo\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -287,7 +338,8 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. Muat turun [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
+"1. Muat turun [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)\n"
 "2. Buka fail EXE untuk memasangnya\n"
 
 #. type: Title ###
@@ -310,7 +362,8 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
-"1. Muat turun [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
+"1. Muat turun [LibreScore.dmg](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.dmg)\n"
 "2. Buka fail DMG\n"
 "3. Alihkan fail APP ke folder Aplikasi untuk memasangnya\n"
 "4. Control-klik fail APP\n"
@@ -355,7 +408,8 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. Muat turun [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
+"1. Muat turun [LibreScore.apk](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.apk)\n"
 "2. Buka fail APK untuk memasangnya\n"
 
 #. type: Plain text
@@ -505,7 +559,8 @@ msgid ""
 "2. Go to the latest [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) file\n"
 "3. Press the Install button\n"
 msgstr ""
-"2. Pergi ke fail [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) terkini\n"
+"2. Pergi ke fail [dl-librescore.user.js](https://github.com/LibreScore/"
+"dl-librescore/releases/latest/download/dl-librescore.user.js) terkini\n"
 "3. Tekan butang Pasang\n"
 
 #. type: Title ####
@@ -606,7 +661,9 @@ msgstr "1. Buka [Webmscore](https://webmscore-pwa.librescore.org)\n"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: You can access the website offline by installing it as a PWA\n"
-msgstr "> Nota: Anda boleh mengakses tapak web di luar talian dengan memasangnya sebagai PWA\n"
+msgstr ""
+"> Nota: Anda boleh mengakses tapak web di luar talian dengan memasangnya "
+"sebagai PWA\n"
 
 #. type: Title ##
 #: source/dl-librescore/README.md source/docs/README.md
@@ -669,7 +726,9 @@ msgstr "Menambah bahasa"
 #: source/docs/README.md
 #, no-wrap
 msgid "1. Create a `XX.po` file, where `XX` is a language code (ex: `pt` or `zh-Hant`) in the `po/` directory\n"
-msgstr "1. Cipta fail `XX.po`, dengan `XX` ialah kod bahasa (cth: `pt` atau `zh-Hant`) dalam direktori `po/`\n"
+msgstr ""
+"1. Cipta fail `XX.po`, dengan `XX` ialah kod bahasa (cth: `pt` atau `zh-"
+"Hant`) dalam direktori `po/`\n"
 
 #. type: Plain text
 #: source/docs/README.md
@@ -712,7 +771,9 @@ msgstr "Membangunkan"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:\n"
-msgstr "Setelah anda membuat projek dan memasang kebergantungan dengan `npm install` (atau `pnpm install` atau `yarn`), mulakan pelayan pembangunan:\n"
+msgstr ""
+"Setelah anda membuat projek dan memasang kebergantungan dengan `npm install` "
+"(atau `pnpm install` atau `yarn`), mulakan pelayan pembangunan:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
@@ -732,7 +793,9 @@ msgstr ""
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:\n"
-msgstr "Sebelum membuat versi pengeluaran apl anda, pasang [penyesuai](https://kit.svelte.dev/docs#adapters) untuk persekitaran sasaran anda. Kemudian:\n"
+msgstr ""
+"Sebelum membuat versi pengeluaran apl anda, pasang [penyesuai](https://kit."
+"svelte.dev/docs#adapters) untuk persekitaran sasaran anda. Kemudian:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
