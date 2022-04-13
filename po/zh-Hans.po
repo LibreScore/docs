@@ -1,11 +1,10 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-04-13 06:20+0000\n"
+"POT-Creation-Date: 2022-04-13 03:40-0300\n"
 "PO-Revision-Date: 2022-04-13 06:24+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/"
-"librescore/docs/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/librescore/docs/zh_Hans/>\n"
 "Language: zh-Hans\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -625,6 +624,12 @@ msgstr "日语"
 #, no-wrap
 msgid "Korean"
 msgstr "韩国语"
+
+#. type: Hash Value: ms
+#: source/titles/titles.yaml
+#, no-wrap
+msgid "Malay"
+msgstr "马来语"
 
 #. type: Hash Value: ru
 #: source/titles/titles.yaml

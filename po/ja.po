@@ -1,11 +1,10 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-04-13 06:20+0000\n"
+"POT-Creation-Date: 2022-04-13 03:40-0300\n"
 "PO-Revision-Date: 2022-04-13 06:24+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Japanese <https://librescore.ddns.net/projects/librescore/"
-"docs/ja/>\n"
+"Language-Team: Japanese <https://librescore.ddns.net/projects/librescore/docs/ja/>\n"
 "Language: ja\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -602,6 +601,12 @@ msgstr "日本語"
 #, no-wrap
 msgid "Korean"
 msgstr "韓国語"
+
+#. type: Hash Value: ms
+#: source/titles/titles.yaml
+#, no-wrap
+msgid "Malay"
+msgstr "マレー語"
 
 #. type: Hash Value: ru
 #: source/titles/titles.yaml

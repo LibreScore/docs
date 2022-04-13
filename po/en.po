@@ -1,7 +1,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2022-04-13 06:20+0000\n"
+"POT-Creation-Date: 2022-04-13 03:40-0300\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 #. type: Plain text
@@ -593,6 +593,12 @@ msgstr ""
 #: source/titles/titles.yaml
 #, no-wrap
 msgid "Korean"
+msgstr ""
+
+#. type: Hash Value: ms
+#: source/titles/titles.yaml
+#, no-wrap
+msgid "Malay"
 msgstr ""
 
 #. type: Hash Value: ru
