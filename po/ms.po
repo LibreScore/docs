@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-04-13 06:46+0000\n"
+"POT-Creation-Date: 2022-04-13 04:05-0300\n"
 "PO-Revision-Date: 2022-04-13 06:24+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/ms/>\n"
@@ -616,6 +616,12 @@ msgstr "npm run build\n"
 #, no-wrap
 msgid "> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.\n"
 msgstr "> Anda boleh pratonton apl terbina dengan `npm run pratonton`, tidak kira sama ada anda memasang penyesuai. Ini seharusnya _tidak_ digunakan untuk menyampaikan apl anda dalam pengeluaran.\n"
+
+#. type: Hash Value: PRIVACY-POLICY
+#: source/titles/titles.yaml
+#, no-wrap
+msgid "PRIVACY-POLICY"
+msgstr "DASAR-PRIVASI"
 
 #. type: Hash Value: README
 #: source/titles/titles.yaml

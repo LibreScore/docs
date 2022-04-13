@@ -1,7 +1,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2022-04-13 06:46+0000\n"
+"POT-Creation-Date: 2022-04-13 04:05-0300\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 #. type: Plain text
@@ -545,6 +545,12 @@ msgstr ""
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.\n"
+msgstr ""
+
+#. type: Hash Value: PRIVACY-POLICY
+#: source/titles/titles.yaml
+#, no-wrap
+msgid "PRIVACY-POLICY"
 msgstr ""
 
 #. type: Hash Value: README

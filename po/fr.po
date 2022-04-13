@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-04-13 06:46+0000\n"
+"POT-Creation-Date: 2022-04-13 04:05-0300\n"
 "PO-Revision-Date: 2022-04-13 06:24+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/fr/>\n"
@@ -557,6 +557,12 @@ msgstr "npm run build\n"
 #, no-wrap
 msgid "> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.\n"
 msgstr "> Vous pouvez prévisualiser l'application construite avec `npm run preview`, que vous ayez installé un adaptateur ou non. Cela ne doit _pas_ être utilisé pour diffuser votre application en production.\n"
+
+#. type: Hash Value: PRIVACY-POLICY
+#: source/titles/titles.yaml
+#, no-wrap
+msgid "PRIVACY-POLICY"
+msgstr "POLITIQUE-DE-CONFIDENTIALITÉ"
 
 #. type: Hash Value: README
 #: source/titles/titles.yaml
