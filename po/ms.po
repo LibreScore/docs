@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-04-13 05:18+0000\n"
-"PO-Revision-Date: 2022-04-13 06:15+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"PO-Revision-Date: 2022-04-13 06:17+0000\n"
+"Last-Translator: Agent Hitman Faris <bombtimecs@gmail.com>\n"
 "Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/"
 "ms/>\n"
 "Language: ms\n"
@@ -94,9 +94,9 @@ msgstr "Pengumpulan dan Penggunaan Maklumat"
 msgid "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.\n"
 msgstr ""
 "Untuk pengalaman yang lebih baik, semasa menggunakan Perkhidmatan kami, kami "
-"mungkin memerlukan anda untuk memberikan kami maklumat tertentu yang boleh "
-"dikenal pasti secara peribadi. Maklumat yang kami minta akan disimpan oleh "
-"kami dan digunakan seperti yang diterangkan dalam dasar privasi ini.\n"
+"mungkin memerlukan anda untuk memberikan maklumat tertentu yang boleh "
+"dikenal pasti secara peribadi. Maklumat yang diminta akan disimpan dan "
+"digunakan seperti yang diterangkan dalam dasar privasi ini.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -252,6 +252,13 @@ msgstr ""
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
 msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/"
+"app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)"
+" [![Github Semua Keluaran](https://img.shields.io/github/downloads/"
+"LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/"
+"LibreScore/app-librescore/releases/latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
