@@ -614,7 +614,3 @@ msgstr "러시아어"
 #, no-wrap
 msgid "Simplified Chinese"
 msgstr "중국어 (간체)"
-
-msgctxt "ms"
-msgid "Malay"
-msgstr ""
