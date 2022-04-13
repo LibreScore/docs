@@ -10,7 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2022-04-13 07:16+0000\n"
 "PO-Revision-Date: 2022-04-13 06:24+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/ms/>\n"
+"Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/"
+"ms/>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -313,7 +314,6 @@ msgstr "[![ Discord ](https://img.shields.io/discord/774491656643674122?color=58
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, fuzzy, no-wrap
-#| msgid "Download the LibreScore app\n"
 msgid "Download sheet music\n"
 msgstr "Muat turun apl LibreScore\n"
 
@@ -428,7 +428,7 @@ msgid ""
 "3. Tap the LibreScore shortcut to activate the extension\n"
 msgstr ""
 "1. Pasang [pintasan LibreScore](https://www.icloud.com/shortcuts/901d8778d2da4f7db9272d3b2232d0fe)\n"
-"2. Dalam Safari, apabila melihat lagu di MuseScore, ketik <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/81f5a996cc\"\n"
+"2. Dalam Safari, apabila melihat lagu di MuseScore, ketik <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
 "3. Ketik pintasan LibreScore untuk mengaktifkan sambungan\n"
 
 #. type: Plain text
