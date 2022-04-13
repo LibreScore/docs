@@ -2,9 +2,10 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-04-13 07:16+0000\n"
-"PO-Revision-Date: 2022-04-13 06:24+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/librescore/docs/zh_Hans/>\n"
+"PO-Revision-Date: 2022-04-13 07:20+0000\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/"
+"librescore/docs/zh_Hans/>\n"
 "Language: zh-Hans\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -305,10 +306,9 @@ msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
-#| msgid "Download the LibreScore app\n"
+#, no-wrap
 msgid "Download sheet music\n"
-msgstr "下载利布蕾斯科尔应用\n"
+msgstr "下载乐谱\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
