@@ -619,7 +619,3 @@ msgstr "الروسية"
 #, no-wrap
 msgid "Simplified Chinese"
 msgstr "الصينية المبسطة"
-
-msgctxt "ms"
-msgid "Malay"
-msgstr ""
