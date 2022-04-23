@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-04-14 08:22+0000\n"
-"PO-Revision-Date: 2022-04-21 12:07+0000\n"
-"Last-Translator: Amaury Triboulin <amaury.triboulin@gmail.com>\n"
+"PO-Revision-Date: 2022-04-24 17:11+0000\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/"
 "fr/>\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.11.2\n"
+"X-Generator: Weblate 4.12\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -32,7 +32,7 @@ msgstr ""
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Privacy Policy"
-msgstr "Politique de Confidentialité"
+msgstr "Politique de confidentialité"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
