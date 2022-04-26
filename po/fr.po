@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-04-14 08:22+0000\n"
-"PO-Revision-Date: 2022-04-24 17:11+0000\n"
+"PO-Revision-Date: 2022-04-27 17:11+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/"
 "fr/>\n"
@@ -36,12 +36,12 @@ msgstr "Politique de confidentialité"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "LibreScore built the LibreScore app as a Free app. This SERVICE is provided by LibreScore at no cost and is intended for use as is.\n"
 msgstr ""
 "L'application LibreScore a été conçue par LibreScore comme une application "
-"gratuite. Ce SERVICE est fourni par LibreScore gratuitement et est déstinée "
-"à être utilisé tel quel.\n"
+"Gratuite. Ce SERVICE est fourni par LibreScore gratuitement et est destiné à "
+"être utilisé tel quel.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
