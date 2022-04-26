@@ -16,7 +16,7 @@ for file in source/**/*.md; do
     repo=${file#*/}
     repo=${repo%%/*}
 
-    headre="^\&#820[6-7];"
+    headre="^\&#820[6,7];"
     if [[ $(sed '3q;d' $file) =~ $headre ]]; then
         sed -i '2,3d' $file
     fi
@@ -59,7 +59,7 @@ for file in i18n/**/*.md; do
     repo=${file#*/}
     repo=${repo%%/*}
 
-    dirre="<div dir=\"([lrt]{3})\" align=\"([efghilrt]{4,5})\">"
+    dirre="<div[[:space:]]dir=\"([lrt]{3})\"[[:space:]]align=\"([efghilrt]{4,5})\">"
     if [[ $(sed '1q;d' $file) =~ $dirre ]]; then
         if [[ ${BASH_REMATCH[1]} == "ltr" ]]; then
             dir="\&#8206;"
