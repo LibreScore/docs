@@ -1,15 +1,16 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-04-13 07:38+0000\n"
-"PO-Revision-Date: 2022-04-13 06:24+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/fr/>\n"
+"POT-Creation-Date: 2022-04-14 08:22+0000\n"
+"PO-Revision-Date: 2022-04-24 17:11+0000\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/"
+"fr/>\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.11.2\n"
+"X-Generator: Weblate 4.12\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -31,13 +32,16 @@ msgstr ""
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Politique de confidentialité"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "LibreScore built the LibreScore app as a Free app. This SERVICE is provided by LibreScore at no cost and is intended for use as is.\n"
 msgstr ""
+"L'application LibreScore a été conçue par LibreScore comme une application "
+"gratuite. Ce SERVICE est fourni par LibreScore gratuitement et est déstinée "
+"à être utilisé tel quel.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
