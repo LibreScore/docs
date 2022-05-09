@@ -622,7 +622,7 @@ msgstr "> Anda boleh pratonton apl terbina dengan `npm run pratonton`, tidak kir
 #: source/titles/titles.yaml
 #, no-wrap
 msgid "PRIVACY-POLICY"
-msgstr ""
+msgstr "DASAR-PRIVASI"
 
 #. type: Hash Value: README
 #: source/titles/titles.yaml

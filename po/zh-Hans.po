@@ -593,7 +593,7 @@ msgstr "隐私权政策"
 #: source/titles/titles.yaml
 #, no-wrap
 msgid "README"
-msgstr ""
+msgstr "自述文件"
 
 #, fuzzy
 #~| msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
