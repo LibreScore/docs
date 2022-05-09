@@ -1,16 +1,14 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-05-09 15:39-0300\n"
+"POT-Creation-Date: 2022-05-09 18:47+0000\n"
 "PO-Revision-Date: 2022-04-13 06:24+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/"
-"ru/>\n"
+"Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/ru/>\n"
 "Language: ru\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.12.1\n"
 
 #. type: Plain text
@@ -574,62 +572,32 @@ msgstr "ПОЛИТИКА-КОНФИДЕНЦИАЛЬНОСТИ"
 msgid "README"
 msgstr "ПРОЧТИМЕНЯ"
 
-#. type: Hash Value: ar
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Arabic"
-msgstr "Арабский"
+#~ msgid "Arabic"
+#~ msgstr "Арабский"
 
-#. type: Hash Value: en
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "English"
-msgstr "Английский"
+#~ msgid "English"
+#~ msgstr "Английский"
 
-#. type: Hash Value: es
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Spanish"
-msgstr "Испанский"
+#~ msgid "Spanish"
+#~ msgstr "Испанский"
 
-#. type: Hash Value: fr
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "French"
-msgstr "Французский"
+#~ msgid "French"
+#~ msgstr "Французский"
 
-#. type: Hash Value: it
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Italian"
-msgstr "Итальянский"
+#~ msgid "Italian"
+#~ msgstr "Итальянский"
 
-#. type: Hash Value: ja
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Japanese"
-msgstr "Японский"
+#~ msgid "Japanese"
+#~ msgstr "Японский"
 
-#. type: Hash Value: ko
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Korean"
-msgstr "Корейский"
+#~ msgid "Korean"
+#~ msgstr "Корейский"
 
-#. type: Hash Value: ms
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Malay"
-msgstr "Малайский"
+#~ msgid "Malay"
+#~ msgstr "Малайский"
 
-#. type: Hash Value: ru
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Russian"
-msgstr "Русский"
+#~ msgid "Russian"
+#~ msgstr "Русский"
 
-#. type: Hash Value: zh-Hans
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Simplified Chinese"
-msgstr "Упрощенный китайский"
+#~ msgid "Simplified Chinese"
+#~ msgstr "Упрощенный китайский"
