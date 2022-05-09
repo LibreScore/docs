@@ -1,11 +1,10 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-04-14 08:22+0000\n"
+"POT-Creation-Date: 2022-05-09 15:39-0300\n"
 "PO-Revision-Date: 2022-04-24 17:11+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/"
-"fr/>\n"
+"Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/fr/>\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -38,10 +37,7 @@ msgstr "Politique de confidentialité"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, fuzzy, no-wrap
 msgid "LibreScore built the LibreScore app as a Free app. This SERVICE is provided by LibreScore at no cost and is intended for use as is.\n"
-msgstr ""
-"L'application LibreScore a été conçue par LibreScore comme une application "
-"gratuite. Ce SERVICE est fourni par LibreScore gratuitement et est déstinée "
-"à être utilisé tel quel.\n"
+msgstr "L'application LibreScore a été conçue par LibreScore comme une application gratuite. Ce SERVICE est fourni par LibreScore gratuitement et est déstinée à être utilisé tel quel.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -579,63 +575,3 @@ msgstr "POLITIQUE-DE-CONFIDENTIALITÉ"
 #, no-wrap
 msgid "README"
 msgstr "LISEZMOI"
-
-#. type: Hash Value: ar
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Arabic"
-msgstr "Arabe"
-
-#. type: Hash Value: en
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "English"
-msgstr "Anglais"
-
-#. type: Hash Value: es
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Spanish"
-msgstr "Espagnol"
-
-#. type: Hash Value: fr
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "French"
-msgstr "Français"
-
-#. type: Hash Value: it
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Italian"
-msgstr "Italien"
-
-#. type: Hash Value: ja
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Japanese"
-msgstr "Japonais"
-
-#. type: Hash Value: ko
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Korean"
-msgstr "Coréen"
-
-#. type: Hash Value: ms
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Malay"
-msgstr "Malais"
-
-#. type: Hash Value: ru
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Russian"
-msgstr "Russe"
-
-#. type: Hash Value: zh-Hans
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Simplified Chinese"
-msgstr "Chinois simplifié"

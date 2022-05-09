@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-04-14 08:22+0000\n"
+"POT-Creation-Date: 2022-05-09 15:39-0300\n"
 "PO-Revision-Date: 2022-04-13 06:24+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Arabic <https://librescore.ddns.net/projects/librescore/docs/ar/>\n"
@@ -575,63 +575,3 @@ msgstr "سياسة-الخصوصية"
 #, no-wrap
 msgid "README"
 msgstr "اقرأني"
-
-#. type: Hash Value: ar
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Arabic"
-msgstr "العربية"
-
-#. type: Hash Value: en
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "English"
-msgstr "الإنجليزية"
-
-#. type: Hash Value: es
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Spanish"
-msgstr "الإسبانية"
-
-#. type: Hash Value: fr
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "French"
-msgstr "الفرنسية"
-
-#. type: Hash Value: it
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Italian"
-msgstr "الإيطالية"
-
-#. type: Hash Value: ja
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Japanese"
-msgstr "اليابانية"
-
-#. type: Hash Value: ko
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Korean"
-msgstr "الكورية"
-
-#. type: Hash Value: ms
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Malay"
-msgstr "الملايو"
-
-#. type: Hash Value: ru
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Russian"
-msgstr "الروسية"
-
-#. type: Hash Value: zh-Hans
-#: source/titles/titles.yaml
-#, no-wrap
-msgid "Simplified Chinese"
-msgstr "الصينية المبسطة"

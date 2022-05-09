@@ -7,6 +7,24 @@
 shopt -s nullglob
 shopt -s globstar
 
+rm source/titles/titles.yaml
+for file in source/**/*.md; do
+    newfile=""
+    filename=${file##*/}
+    filename=${filename%%\.*}
+    filere="($filename):\s{0,1}(.*?)"
+
+    while IFS="" read -r line || [ -n "$line" ]; do
+        if [[ $line =~ $filere ]]; then
+            newfile=${BASH_REMATCH[2]}
+        fi
+    done < source/titles/titles.yaml
+
+    if [[ -z $newfile ]]; then
+        /bin/echo "$filename: $filename" >> source/titles/titles.yaml
+    fi
+done
+
 for file in source/**/*.md; do
     filename=${file##*/}
     filename=${filename%%\.*}
@@ -77,14 +95,12 @@ for file in i18n/**/*.md; do
         linkname=${link##*/}
         linkname=${linkname%%\.*}
         filere="($linkname):\s{0,1}(.*?)"
-        langre="($curlang):\s{0,1}(.*?)"
+        newlang=$(node -e "console.log(new Intl.DisplayNames(['$curlang'], { type: 'language' }).of('$curlang'));")
 
         while IFS="" read -r line || [ -n "$line" ]; do
             if [[ $line =~ $filere ]]; then
                 newfile=${BASH_REMATCH[2]}
-            fi
-            if [[ $line =~ $langre ]]; then
-                newlang=${BASH_REMATCH[2]}
+                break
             fi
         done < i18n/titles/$curlang/titles.yaml
 
@@ -95,7 +111,6 @@ for file in i18n/**/*.md; do
         fi
     done
     sed -i '3s@$@'"$dir[[+]](https://librescore.ddns.net/projects/librescore/docs)\\n"'@' $file
-    # sed -i '3s@$@'"$dir[![Translation status](https://librescore.ddns.net/widgets/librescore/-/docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\\n"'@' $file
 done
 
 shopt -u globstar
