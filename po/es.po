@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-05-13 18:22+0000\n"
-"PO-Revision-Date: 2022-05-13 17:58+0000\n"
+"PO-Revision-Date: 2022-05-14 19:34+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/"
 "es/>\n"
@@ -104,7 +104,14 @@ msgstr "Enlaces a otros sitios"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n"
-msgstr "Este servicio puede contener enlaces a otros sitios. Si hace clic en un enlace terceros, serás dirigido a ese sitios. Tenga en cuenta que esos sitios externos no son operados por nosotros. Por lo tanto le aconsejamos encarecidamente que revise la política de privacidad de esos sitios web. Nosotros no tenemos ninguna responsabilidad por el contenido, políticas de privacidad o practicas de los sitios o servicios de terceros.\n"
+msgstr ""
+"Este Servicio puede contener enlaces a otros sitios. Si hace clic en un "
+"enlace de un tercero, será dirigido a ese sitio. Tenga en cuenta que estos "
+"sitios externos no son operados por nosotros. Por lo tanto, le recomendamos "
+"encarecidamente que revise la Política de privacidad de estos sitios web. No "
+"tenemos control ni asumimos ninguna responsabilidad por el contenido, las "
+"políticas de privacidad o las prácticas de los sitios o servicios de "
+"terceros.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -116,13 +123,25 @@ msgstr "Privacidad de los niños"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We do not knowingly collect personally identifiable information from children. We encourage all children to never submit any personally identifiable information through the Application and/or Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).\n"
-msgstr "No recopilamos consciente información personal de niños. Animamos a todos los niños a no enviar nunca información personal e identificable a través de la aplicación y/o los servicios. Animamos a los padres y a los tutores legales a que supervisen el uso que hacen sus hijos en internet y que ayuden a hacer cumplir esta política instruyendo a sus hijos que nunca proporcionen información de identificación personal a través de la aplicación y/o servicios sin su permiso. Si tiene motivos para creer que un niño nos ha proporcionado información de identificación personal a través de la aplicación y/o los servicios, póngase en contacto con nosotros. Además el tratamiento de su información personal identificable en su país (en algunos países podemos permitir que su padre o tutor lo haga en su nombre)\n"
+msgstr ""
+"No recopilamos a sabiendas información de identificación personal de niños. "
+"Alentamos a todos los niños a que nunca envíen información de identificación "
+"personal a través de la Aplicación y/o los Servicios. Alentamos a los padres "
+"y tutores legales a controlar el uso de Internet de sus hijos y ayudar a "
+"hacer cumplir esta Política instruyendo a sus hijos para que nunca "
+"proporcionen información de identificación personal a través de la "
+"Aplicación y/o los Servicios sin su permiso. Si tiene motivos para creer que "
+"un niño nos ha proporcionado información de identificación personal a través "
+"de la Aplicación y/o los Servicios, por favor contáctenos. También debe "
+"tener al menos 16 años de edad para dar su consentimiento para el "
+"procesamiento de su información de identificación personal en su país (en "
+"algunos países podemos permitir que su padre o tutor lo haga en su nombre).\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Changes to This Privacy Policy"
-msgstr "Cambios de esta Política de Privacidad"
+msgstr "Cambios a esta Política de privacidad"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -196,13 +215,15 @@ msgstr "</div>\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "> DISCLAIMER: This is not an officially endorsed MuseScore product\n"
-msgstr "> DISCLAIMER: Este producto no esta oficialmente respaldado por MuseScore\n"
+msgstr ""
+"> DESCARGO DE RESPONSABILIDAD: Este no es un producto de MuseScore "
+"patrocinado oficialmente\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Download"
-msgstr "Descarga"
+msgstr "Descargar"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -213,16 +234,33 @@ msgid ""
 "|                                            Windows (7+) (64-bit only)                                            |                                        macOS (10.11+) (Rosetta 2)                                         |                                             Android (6.0+)                                             |\n"
 "|      [Download (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Download (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Download (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 msgstr ""
-"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg\" width=\"512\"> |   <img src=\"https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg\" width=\"512\">   |\n"
-"| :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |\n"
-"|                                            Windows (7+) (64-bit only)                                            |                                        macOS (10.11+) (Rosetta 2)                                         |                                             Android (6.0+)                                             |\n"
-"|      [DESCARGA(EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [DESCARGA(DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [DESCARGA(APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
+"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/"
+"Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https"
+"://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29."
+"svg\" width=\"512\"> |   <img src=\"https://upload.wikimedia.org/wikipedia/"
+"commons/3/31/Android_robot_head.svg\" width=\"512\">   |\n"
+"| :--------------------------------------------------------------------------"
+"------------------------------------: | :------------------------------------"
+"-------------------------------------------------------------------: | :-----"
+"-----------------------------------------------------------------------------"
+"------------------: |\n"
+"|                                            Windows (7+) (solo 64 bits)"
+"                                            |"
+"                                        macOS (10.11+) (Rosetta 2)"
+"                                         |"
+"                                             Android (6.0+)"
+"                                             |\n"
+"|      [Descargar (EXE)](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)      |  [Descargar "
+"(DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/"
+"LibreScore.dmg)   | [Descargar (APK)](https://github.com/LibreScore/"
+"app-librescore/releases/latest/download/LibreScore.apk) |\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "Installation"
-msgstr "instalación"
+msgstr "Instalación"
 
 #. type: Title ###
 #: source/app-librescore/README.md
@@ -237,8 +275,9 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. Descarga [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
-"2. Abre el EXE file e instálalo\n"
+"1. Descargue [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)\n"
+"2. Abra el archivo EXE para instalarlo\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
