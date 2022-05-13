@@ -4,7 +4,8 @@ msgstr ""
 "POT-Creation-Date: 2022-05-13 18:22+0000\n"
 "PO-Revision-Date: 2022-05-13 17:58+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/es/>\n"
+"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/"
+"es/>\n"
 "Language: es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -37,49 +38,49 @@ msgstr "Política de privacidad"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "LibreScore built the LibreScore app as a Free app. This SERVICE is provided by LibreScore at no cost and is intended for use as is.\n"
-msgstr "LibreScore creó la aplicación LibreScore como una aplicación gratuita. Este SERVICIO es proporcionado por LibreScore sin costo alguno y está destinado a ser utilizado tal cual.\n"
+msgstr "LibreScore creó la aplicación LibreScore como una aplicación Gratuita. Este SERVICIO es proporcionado por LibreScore sin costo alguno y está destinado a ser utilizado tal cual.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\n"
-msgstr "Esta pagina se utiliza para informar a los visitantes sobre nuestras políticas de recolección, uso y divulgación de información personal si alguien decide utilizar nuestro servicio.\n"
+msgstr "Esta página se utiliza para informar a los visitantes sobre nuestras políticas de recopilación, uso y divulgación de Información personal si alguien decide utilizar nuestro Servicio.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\n"
-msgstr "Si decide utilizar nuestro servicio, aceptar la recopilación y el uso de información en relación con nuestras políticas. La información personal que recolectamos se utiliza para proveer y mejorar nuestro servicio. No utilizaremos o compartiremos tu información con nadie excepto los casos descritos en esta política de privacidad\n"
+msgstr "Si elige utilizar nuestro Servicio, acepta la recopilación y el uso de información en relación con esta política. La Información personal que recopilamos se utiliza para proporcionar y mejorar el Servicio. No utilizaremos ni compartiremos su información con nadie, excepto como se describe en esta Política de privacidad.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at LibreScore unless otherwise defined in this Privacy Policy.\n"
-msgstr "Los términos utilizados en esta política de privacidad tienen los mismo significados que en nuestros Términos y Condiciones, los cuales son accesibles en LibreScore a menos que se defina lo contrario en esta Política de Privacidad\n"
+msgstr "Los términos utilizados en esta Política de privacidad tienen los mismos significados que en nuestros Términos y condiciones, a los que se puede acceder en LibreScore a menos que se defina lo contrario en esta Política de privacidad.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Information Collection and Use"
-msgstr "Recopilación y uso de la información"
+msgstr "Recopilación y uso de información"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.\n"
-msgstr "Para una mejor experiencia mientras utiliza nuestro servicio, al utilizar nuestro servicio podemos pedirle que nos propocione cierta información personal identificable. La información que solicitamos será retenida por nosotros y utilizada como se describe en esta política de privacidad\n"
+msgstr "Para una mejor experiencia, mientras usa nuestro Servicio, podemos solicitarle que nos proporcione cierta información de identificación personal. La información que solicitamos será retenida por nosotros y utilizada como se describe en esta política de privacidad.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Log Data"
-msgstr "Registro de datos"
+msgstr "Datos de registro"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\\\"IP\\\") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.\n"
-msgstr "Queremos informarle de que siempre que utiliza nuestro servicio en caso de error en la aplicación, recopilamos datos e información (a través de productos de tercero) en su teléfono denominado como Registro De Datos. Estos Registros de Datos pueden incluir información como la dirección del protocolo de internet (IP) de su dispositivo, el nombre del dispositivo, versión del sistema operativo, la configuración de la aplicación al momento utilizar nuestro servicio, la hora y la fecha de uso de nuestro servicio y otras estadísticas.\n"
+msgstr "Queremos informarle que cada vez que utiliza nuestro Servicio, en caso de un error en la aplicación, recopilamos datos e información (a través de productos de terceros) en su teléfono denominados Datos de registro. Estos Datos de registro pueden incluir información como la dirección del Protocolo de Internet (\\\"IP\\\") de su dispositivo, el nombre del dispositivo, la versión del sistema operativo, la configuración de la aplicación cuando utiliza nuestro Servicio, la hora y la fecha de su uso del Servicio, y otras estadísticas.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -91,7 +92,7 @@ msgstr "Seguridad"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.\n"
-msgstr "Valoramos su confianza al proporcionarnos sus datos personales, por lo que nos esforzamos en utilizar medios comercialmente aceptables para protegerlos. Pero recuerde que ningún método de transmisión de datos ya sea por internet o por métodos de almacenamiento electrónico es 100% seguro y fiable , y no podemos garantizar su absoluta seguridad.\n"
+msgstr "Valoramos su confianza al brindarnos su Información personal, por lo que nos esforzamos por utilizar medios comercialmente aceptables para protegerla. Pero recuerde que ningún método de transmisión por Internet, o método de almacenamiento electrónico es 100% seguro y confiable, y no podemos garantizar su seguridad absoluta.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
