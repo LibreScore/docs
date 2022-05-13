@@ -2,9 +2,10 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-05-12 19:38+0000\n"
-"PO-Revision-Date: 2022-05-12 19:34+0000\n"
-"Last-Translator: Felix Sarmietno <thedarkomgf@gmail.com>\n"
-"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/es/>\n"
+"PO-Revision-Date: 2022-05-13 17:58+0000\n"
+"Last-Translator: Felix Sarmiento <thedarkomgf@gmail.com>\n"
+"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/"
+"es/>\n"
 "Language: es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -44,84 +45,130 @@ msgstr "LibreScore es una distribución LibresScore como aplicación gratuita. E
 #, no-wrap
 msgid "This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\n"
 msgstr ""
+"Esta pagina se utiliza para informar a los visitantes sobre nuestras "
+"políticas de recolección, uso y divulgación de información personal si "
+"alguien decide utilizar nuestro servicio.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\n"
 msgstr ""
+"Si decide utilizar nuestro servicio, aceptar la recopilación y el uso de "
+"información en relación con nuestras políticas. La información personal que "
+"recolectamos se utiliza para proveer y mejorar nuestro servicio. No "
+"utilizaremos o compartiremos tu información con nadie excepto los casos "
+"descritos en esta política de privacidad\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at LibreScore unless otherwise defined in this Privacy Policy.\n"
 msgstr ""
+"Los términos utilizados en esta política de privacidad tienen los mismo "
+"significados que en nuestros Términos y Condiciones, los cuales son "
+"accesibles en LibreScore a menos que se defina lo contrario en esta Política "
+"de Privacidad\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Information Collection and Use"
-msgstr ""
+msgstr "Recopilación y uso de la información"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.\n"
 msgstr ""
+"Para una mejor experiencia mientras utiliza nuestro servicio, al utilizar "
+"nuestro servicio podemos pedirle que nos propocione cierta información "
+"personal identificable. La información que solicitamos será retenida por "
+"nosotros y utilizada como se describe en esta política de privacidad\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Log Data"
-msgstr ""
+msgstr "Registro de datos"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\\\"IP\\\") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.\n"
 msgstr ""
+"Queremos informarle de que siempre que utiliza nuestro servicio en caso de "
+"error en la aplicación, recopilamos datos e información (a través de "
+"productos de tercero) en su teléfono denominado como Registro De Datos. "
+"Estos Registros de Datos pueden incluir información como la dirección del "
+"protocolo de internet (IP) de su dispositivo, el nombre del dispositivo, "
+"versión del sistema operativo, la configuración de la aplicación al momento "
+"utilizar nuestro servicio, la hora y la fecha de uso de nuestro servicio y "
+"otras estadísticas.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Security"
-msgstr ""
+msgstr "Seguridad"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.\n"
 msgstr ""
+"Valoramos su confianza al proporcionarnos sus datos personales, por lo que "
+"nos esforzamos en utilizar medios comercialmente aceptables para "
+"protegerlos. Pero recuerde que ningún método de transmisión de datos ya sea "
+"por internet o por métodos de almacenamiento electrónico es 100% seguro y "
+"fiable , y no podemos garantizar su absoluta seguridad.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Links to Other Sites"
-msgstr ""
+msgstr "Enlaces a otros sitios"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n"
 msgstr ""
+"Este servicio puede contener enlaces a otros sitios. Si hace clic en un "
+"enlace terceros, serás dirigido a ese sitios. Tenga en cuenta que esos "
+"sitios externos no son operados por nosotros. Por lo tanto le aconsejamos "
+"encarecidamente que revise la política de privacidad de esos sitios web. "
+"Nosotros no tenemos ninguna responsabilidad por el contenido, políticas de "
+"privacidad o practicas de los sitios o servicios de terceros.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Children's Privacy"
-msgstr ""
+msgstr "Privacidad de los niños"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We do not knowingly collect personally identifiable information from children. We encourage all children to never submit any personally identifiable information through the Application and/or Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).\n"
 msgstr ""
+"No recopilamos consciente información personal de niños. Animamos a todos "
+"los niños a no enviar nunca información personal e identificable a través de "
+"la aplicación y/o los servicios. Animamos a los padres y a los tutores "
+"legales a que supervisen el uso que hacen sus hijos en internet y que ayuden "
+"a hacer cumplir esta política instruyendo a sus hijos que nunca proporcionen "
+"información de identificación personal a través de la aplicación y/o "
+"servicios sin su permiso. Si tiene motivos para creer que un niño nos ha "
+"proporcionado información de identificación personal a través de la "
+"aplicación y/o los servicios, póngase en contacto con nosotros. Además el "
+"tratamiento de su información personal identificable en su país (en algunos "
+"países podemos permitir que su padre o tutor lo haga en su nombre)\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Changes to This Privacy Policy"
-msgstr ""
+msgstr "Cambios de esta Política de Privacidad"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
