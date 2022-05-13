@@ -3,7 +3,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-05-12 19:38+0000\n"
 "PO-Revision-Date: 2022-05-13 17:58+0000\n"
-"Last-Translator: Felix Sarmiento <thedarkomgf@gmail.com>\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/"
 "es/>\n"
 "Language: es\n"
@@ -26,7 +26,9 @@ msgstr "<div dir=\"ltr\" align=\"left\">\n"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
-msgstr "[//]: # \"\\+\\_==!|!=_=!|!==_/+/**NO EDITAR ENCIMA DE ESTA LINEA** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
+msgstr ""
+"[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***NO EDITAR ENCIMA DE ESTA LÍNEA*** "
+"/+/^^+#|#+^+#|#+^^\\+\\\"\n"
 
 #. type: Title #
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -38,7 +40,10 @@ msgstr "Política de privacidad"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "LibreScore built the LibreScore app as a Free app. This SERVICE is provided by LibreScore at no cost and is intended for use as is.\n"
-msgstr "LibreScore es una distribución LibresScore como aplicación gratuita. Este SERVICIO esta proporcionado por LibreScore sin costo alguno y está destinado a ser utilizado tal cual.\n"
+msgstr ""
+"LibreScore creó la aplicación LibreScore como una aplicación gratuita. Este "
+"SERVICIO es proporcionado por LibreScore sin costo alguno y está destinado a "
+"ser utilizado tal cual.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
