@@ -196,13 +196,13 @@ msgstr "</div>\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "> DISCLAIMER: This is not an officially endorsed MuseScore product\n"
-msgstr ""
+msgstr "> DISCLAIMER: Este producto no esta oficialmente respaldado por MuseScore\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Download"
-msgstr ""
+msgstr "Descarga"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -213,18 +213,22 @@ msgid ""
 "|                                            Windows (7+) (64-bit only)                                            |                                        macOS (10.11+) (Rosetta 2)                                         |                                             Android (6.0+)                                             |\n"
 "|      [Download (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Download (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Download (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 msgstr ""
+"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg\" width=\"512\"> |   <img src=\"https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg\" width=\"512\">   |\n"
+"| :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |\n"
+"|                                            Windows (7+) (64-bit only)                                            |                                        macOS (10.11+) (Rosetta 2)                                         |                                             Android (6.0+)                                             |\n"
+"|      [DESCARGA(EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [DESCARGA(DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [DESCARGA(APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "Installation"
-msgstr ""
+msgstr "instalación"
 
 #. type: Title ###
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -233,6 +237,8 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
+"1. Descarga [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
+"2. Abre el EXE file e instálalo\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
