@@ -4,7 +4,8 @@ msgstr ""
 "POT-Creation-Date: 2022-05-21 23:40+0000\n"
 "PO-Revision-Date: 2022-05-21 05:19+0000\n"
 "Last-Translator: Felix Sarmiento <thedarkomgf@gmail.com>\n"
-"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/es/>\n"
+"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/"
+"es/>\n"
 "Language: es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -139,13 +140,13 @@ msgstr "Esta política es efectiva a partir del 2021-11-01\n"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Contact Us"
-msgstr "Contacta con nosotros"
+msgstr "Contacte con nosotros"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [librescore@gmail.com](mailto:librescore@gmail.com).\n"
-msgstr "Si tiene alguna pregunta o sugerencia sobre nuestra Política de privacidad, no dude en contactarnos en [librescore@gmail.com](mailto:librescore@gmail.com).\n"
+msgstr "Si tiene alguna pregunta o sugerencia sobre nuestra Política de privacidad, no dude en ponerse en contacto con nosotros en [librescore@gmail.com](mailto:librescore@gmail.com).\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -182,7 +183,7 @@ msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Download the LibreScore app\n"
-msgstr "Descargar la aplicación LibreScore\n"
+msgstr "Descargue la aplicación LibreScore\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -259,15 +260,15 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
-"1. Descargar [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
+"1. Descargue [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
 "2. Abra el archivo DMG\n"
 "3. Mueva el archivo APP a la carpeta de aplicaciones para instalarlo\n"
-"4. Haz clic con la tecla Control en el archivo APP\n"
-"5. Haz clic en `Abrir` en el menú de acceso directo\n"
+"4. Con la tecla Control presionada, haga clic en el archivo APP\n"
+"5. Haga clic en `Abrir` desde el menú de función rápida\n"
 "6. Haga clic en `Abrir` en la parte inferior\n"
 "7. Cierre el archivo DMG\n"
-"8. Haz clic con la tecla Control en el archivo DMG\n"
-"9. Haga clic en \"Expulsar\" en el menú contextual\n"
+"8. Con la tecla Control presionada, haga clic en el archivo DMG\n"
+"9. Haga clic en \"Expulsar\" en el menú de función rápida\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
@@ -282,13 +283,12 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. Descarga[LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
-"2. Abre el archivo APK e instálalo\n"
+"1. Descargue [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
+"2. Abra el archivo APK para instalarlo\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, fuzzy, no-wrap
-#| msgid "> Note: a message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
 msgstr "> Nota: Puede aparecer un mensaje de Play Protect. Pulse `Instalar de todas formas` en la parte inferior\n"
 
@@ -302,13 +302,13 @@ msgstr "dl-librescore"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![GitHub todos los lanzamientos](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Aplicación)](https://github.com/LibreScore/app-librescore/releases/latest) [![GitHub todos los lanzamientos](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Download sheet music\n"
-msgstr "Descarga partituras\n"
+msgstr "Descargue partituras\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -329,10 +329,10 @@ msgid ""
 msgstr ""
 "| Programa                                                                            | MSCZ | MIDI | MP3 | PDF | Conversión|     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
 "| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
-"| [App](https://github.com/LibreScore/dl-librescore#app)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
+"| [Aplicación](https://github.com/LibreScore/dl-librescore#aplicación)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
 "| [Userscript](https://github.com/LibreScore/dl-librescore#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-"| [Command-line tool](https://github.com/LibreScore/dl-librescore#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [Webmscore website](https://github.com/LibreScore/dl-librescore#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Herramienta de línea de comandos](https://github.com/LibreScore/dl-librescore#herramienta-de-línea-de-comandos) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Sitio web de Webmscore](https://github.com/LibreScore/dl-librescore#sitio-web-de-webmscore) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -342,7 +342,7 @@ msgid ""
 "> Conversion targets include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgstr ""
 "> Nota: `Conversión` se refiere a la capacidad de convertir archivos en otros tipos de archivos, incluidos los que no se pueden descargar en el programa.\n"
-"> Las conversiones incluyen: Partes individuales, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ y MSCX.\n"
+"> Los objetivos de conversión incluyen: Partes individuales, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ y MSCX.\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -357,7 +357,7 @@ msgid ""
 "1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device to install it\n"
 msgstr ""
-"1. Vaya a la página [README](https://github.com/LibreScore/app-librescore#installation) del repositorio `app-librescore`.\n"
+"1. Vaya a la página [LÉAME](https://github.com/LibreScore/app-librescore#instalación) del repositorio `app-librescore`\n"
 "2. Sigue las instrucciones de instalación de tu dispositivo para instalarlo\n"
 
 #. type: Title ###
@@ -374,9 +374,9 @@ msgid ""
 ">\n"
 "> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](https://github.com/LibreScore/dl-librescore#bookmark) instructions instead.\n"
 msgstr ""
-"> Nota: Si su dispositivo iOS o iPadOS, por favor, siga las instrucciones de [Atajo](https://github.com/LibreScore/dl-librescore#shortcut).\n"
+"> Nota: Si su dispositivo está en iOS o iPadOS, por favor, siga las instrucciones de [Atajo](https://github.com/LibreScore/dl-librescore#atajo).\n"
 ">\n"
-"> Nota: Si no puede instalar las extensiones del navegador en su dispositivo, por favor, siga las instrucciones de [Marcador](https://github.com/LibreScore/dl-librescore#bookmark) en su lugar.\n"
+"> Nota: Si no puede instalar extensiones de navegador en su dispositivo, por favor, siga las instrucciones de [Marcador](https://github.com/LibreScore/dl-librescore#marcador) en su lugar.\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
@@ -388,12 +388,11 @@ msgstr "Extensión del navegador"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "1. Install [Tampermonkey](https://www.tampermonkey.net)\n"
-msgstr "1. Instala [Tampermonkey](https://www.tampermonkey.net)\n"
+msgstr "1. Instale [Tampermonkey](https://www.tampermonkey.net)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, fuzzy, no-wrap
-#| msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\" please uninstall it from the Tampermonkey dashboard\n"
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
 msgstr "> Nota: Si ya ha instalado una versión antigua del script llamada \"musescore-downloader\", \"mcsz downloader\" o \"musescore-dl\", por favor, desinstálela desde el panel de control de Tampermonkey\n"
 
@@ -629,3 +628,15 @@ msgstr "POLÍTICA-DE-PRIVACIDAD"
 #, no-wrap
 msgid "README"
 msgstr "LÉAME"
+
+#. type: Plain text
+#: source/app-librescore/README.md
+#, no-wrap
+msgid "> Note: a message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
+msgstr "> Nota: Puede aparecer un mensaje sobre Play Protect. Toque `Instalar de todos formas` en la parte inferior\n"
+
+#. type: Plain text
+#: source/dl-librescore/README.md
+#, no-wrap
+msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\" please uninstall it from the Tampermonkey dashboard\n"
+msgstr "> Nota: Si ya ha instalado una versión antigua del script llamada \"musescore-downloader\", \"mcsz downloader\" o \"musescore-dl\", por favor, desinstálela desde el panel de control de Tampermonkey\n"
