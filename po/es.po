@@ -4,7 +4,8 @@ msgstr ""
 "POT-Creation-Date: 2022-05-21 05:39+0000\n"
 "PO-Revision-Date: 2022-05-21 05:19+0000\n"
 "Last-Translator: Felix Sarmiento <thedarkomgf@gmail.com>\n"
-"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/es/>\n"
+"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/"
+"es/>\n"
 "Language: es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -127,25 +128,25 @@ msgstr "Cambios a esta Política de privacidad"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.\n"
-msgstr "Es posible que actualicemos nuestra política de privacidad periódicamente. Por lo tanto se aconseja que reviste esta pagina de vez en cuando para ver si hay cambios. Le notificaremos cualquier cambio publicando la nueva política de privacidad en esta página\n"
+msgstr "Es posible que actualicemos nuestra Política de privacidad de vez en cuando. Por lo tanto, se le recomienda revisar esta página periódicamente para ver si hay cambios. Le notificaremos cualquier cambio publicando la nueva Política de privacidad en esta página.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This policy is effective as of 2021-11-01\n"
-msgstr "Esta política es valida a partir del 2021-11-01\n"
+msgstr "Esta política es efectiva a partir del 2021-11-01\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Contact Us"
-msgstr "Contáctanos"
+msgstr "Contacta con nosotros"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [librescore@gmail.com](mailto:librescore@gmail.com).\n"
-msgstr "Si tiene alguna consulta o sugerencia sobre nuestra política de privacidad, no dude en ponerse en contacto con nosotros en [librescore@gmail.com](mailto:librescore@gmail.com).\n"
+msgstr "Si tiene alguna pregunta o sugerencia sobre nuestra Política de privacidad, no dude en contactarnos en [librescore@gmail.com](mailto:librescore@gmail.com).\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -170,13 +171,13 @@ msgstr "<div align=\"center\">\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
-msgstr "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
+msgstr "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"Logotipo de LibreScore\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![GitHub todos los lanzamientos](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
