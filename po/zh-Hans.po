@@ -1,11 +1,10 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-05-21 23:40+0000\n"
+"POT-Creation-Date: 2022-05-21 23:51+0000\n"
 "PO-Revision-Date: 2022-05-16 05:07+0000\n"
 "Last-Translator: Sun Ruikang <srk888666@qq.com>\n"
-"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/"
-"librescore/docs/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/librescore/docs/zh_Hans/>\n"
 "Language: zh-Hans\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -318,14 +317,21 @@ msgstr "有4种不同的安装程序：\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "| Program                                                                            | MSCZ | MIDI | MP3 | PDF | Conversion |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
+#| "| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
+#| "| [App](https://github.com/LibreScore/dl-librescore#app)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
+#| "| [Userscript](https://github.com/LibreScore/dl-librescore#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+#| "| [Command-line tool](https://github.com/LibreScore/dl-librescore#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+#| "| [Webmscore website](https://github.com/LibreScore/dl-librescore#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgid ""
 "| Program                                                                            | MSCZ | MIDI | MP3 | PDF | Conversion |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
 "| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
-"| [App](https://github.com/LibreScore/dl-librescore#app)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
-"| [Userscript](https://github.com/LibreScore/dl-librescore#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-"| [Command-line tool](https://github.com/LibreScore/dl-librescore#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [Webmscore website](https://github.com/LibreScore/dl-librescore#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [App](#app)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
+"| [Userscript](#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Command-line tool](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Webmscore website](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgstr ""
 "| 程序                                                                            | MSCZ | MIDI | MP3 | PDF | 转换 |     | Windows | macOS | Linux | 安卓 | iOS/iPadOS |\n"
 "| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
@@ -352,7 +358,7 @@ msgstr "应用程序"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid ""
-"1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
+"1. Go to the [README](app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device to install it\n"
 msgstr ""
 
@@ -366,9 +372,9 @@ msgstr "用户脚本"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid ""
-"> Note: If your device is on iOS or iPadOS, please follow the [Shortcut](https://github.com/LibreScore/dl-librescore#shortcut) instructions.\n"
+"> Note: If your device is on iOS or iPadOS, please follow the [Shortcut](#shortcut) instructions.\n"
 ">\n"
-"> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](https://github.com/LibreScore/dl-librescore#bookmark) instructions instead.\n"
+"> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](#bookmark) instructions instead.\n"
 msgstr ""
 
 #. type: Title ####
@@ -596,22 +602,9 @@ msgstr "隐私权政策"
 msgid "README"
 msgstr "自述文件"
 
-#. type: Plain text
-#: source/app-librescore/README.md
-#, no-wrap
-msgid "> Note: a message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr "> 注意：Play 保护机制可能会提示信息。单击下方的 `强制安装`\n"
-
-#. type: Plain text
-#: source/dl-librescore/README.md
-#, no-wrap
-msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\" please uninstall it from the Tampermonkey dashboard\n"
-msgstr ""
+#~ msgid "> Note: a message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
+#~ msgstr "> 注意：Play 保护机制可能会提示信息。单击下方的 `强制安装`\n"
 
 #, fuzzy
-#~ msgid ""
-#~ "[//]: # \"+_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#"
-#~ "+^+#|#+^^+\\\\\"\n"
-#~ msgstr ""
-#~ "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***不要在此行上方编辑*** /+/^^+#|#+^+#|#"
-#~ "+^^\\+\\\"\n"
+#~ msgid "[//]: # \"+_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^+\\\\\"\n"
+#~ msgstr "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***不要在此行上方编辑*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
