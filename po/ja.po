@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-05-21 06:22+0000\n"
+"POT-Creation-Date: 2022-05-21 23:40+0000\n"
 "PO-Revision-Date: 2022-04-13 06:24+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Japanese <https://librescore.ddns.net/projects/librescore/docs/ja/>\n"
@@ -271,7 +271,7 @@ msgstr ""
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
-msgid "> Note: a message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
+msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
 msgstr ""
 
 #. type: Title #
@@ -362,7 +362,7 @@ msgstr ""
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
-msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\" please uninstall it from the Tampermonkey dashboard\n"
+msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
 msgstr ""
 
 #. type: Plain text

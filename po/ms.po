@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-05-21 06:22+0000\n"
+"POT-Creation-Date: 2022-05-21 23:40+0000\n"
 "PO-Revision-Date: 2022-04-14 08:07+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/ms/>\n"
@@ -289,8 +289,9 @@ msgstr ""
 
 #. type: Plain text
 #: source/app-librescore/README.md
-#, no-wrap
-msgid "> Note: a message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
+#, fuzzy, no-wrap
+#| msgid "> Note: a message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
+msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
 msgstr "> Nota: mesej mungkin muncul tentang Play Protect. Ketik `Install Anyway` di bahagian bawah\n"
 
 #. type: Title #
@@ -393,8 +394,9 @@ msgstr "1. Pasang [Tampermonkey](https://www.tampermonkey.net)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, no-wrap
-msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\" please uninstall it from the Tampermonkey dashboard\n"
+#, fuzzy, no-wrap
+#| msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\" please uninstall it from the Tampermonkey dashboard\n"
+msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
 msgstr "> Nota: Jika anda telah memasang versi lama skrip yang dipanggil \"musescore-downloader\", \"mcsz downloader\", atau \"musescore-dl\" sila nyahpasangnya daripada papan pemuka Tampermonkey\n"
 
 #. type: Plain text

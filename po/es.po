@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-05-21 06:22+0000\n"
+"POT-Creation-Date: 2022-05-21 23:40+0000\n"
 "PO-Revision-Date: 2022-05-21 05:19+0000\n"
 "Last-Translator: Felix Sarmiento <thedarkomgf@gmail.com>\n"
 "Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/es/>\n"
@@ -287,8 +287,9 @@ msgstr ""
 
 #. type: Plain text
 #: source/app-librescore/README.md
-#, no-wrap
-msgid "> Note: a message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
+#, fuzzy, no-wrap
+#| msgid "> Note: a message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
+msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
 msgstr "> Nota: Puede aparecer un mensaje de Play Protect. Pulse `Instalar de todas formas` en la parte inferior\n"
 
 #. type: Title #
@@ -391,8 +392,9 @@ msgstr "1. Instala [Tampermonkey](https://www.tampermonkey.net)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, no-wrap
-msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\" please uninstall it from the Tampermonkey dashboard\n"
+#, fuzzy, no-wrap
+#| msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\" please uninstall it from the Tampermonkey dashboard\n"
+msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
 msgstr "> Nota: Si ya ha instalado una versión antigua del script llamada \"musescore-downloader\", \"mcsz downloader\" o \"musescore-dl\", por favor, desinstálela desde el panel de control de Tampermonkey\n"
 
 #. type: Plain text
