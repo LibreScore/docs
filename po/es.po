@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-05-22 04:00+0000\n"
-"PO-Revision-Date: 2022-05-21 05:19+0000\n"
-"Last-Translator: Felix Sarmiento <thedarkomgf@gmail.com>\n"
-"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/es/>\n"
+"PO-Revision-Date: 2022-05-22 20:17+0000\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/"
+"es/>\n"
 "Language: es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -176,7 +177,14 @@ msgstr "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![GitHub todos los lanzamientos](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/"
+"app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)"
+" [![GitHub todos los lanzamientos](https://img.shields.io/github/downloads/"
+"LibreScore/app-librescore/total.svg?label=Descargas)](https://github.com/"
+"LibreScore/app-librescore/releases/latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -259,7 +267,8 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
-"1. Descargue [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
+"1. Descargue [LibreScore.dmg](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.dmg)\n"
 "2. Abra el archivo DMG\n"
 "3. Mueva el archivo APP a la carpeta de aplicaciones para instalarlo\n"
 "4. Con la tecla Control presionada, haga clic en el archivo APP\n"
@@ -267,7 +276,7 @@ msgstr ""
 "6. Haga clic en `Abrir` en la parte inferior\n"
 "7. Cierre el archivo DMG\n"
 "8. Con la tecla Control presionada, haga clic en el archivo DMG\n"
-"9. Haga clic en \"Expulsar\" en el menú de función rápida\n"
+"9. Haga clic en `Expulsar` en el menú de función rápida\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
@@ -301,7 +310,19 @@ msgstr "dl-librescore"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![GitHub todos los lanzamientos](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Aplicación)](https://github.com/LibreScore/app-librescore/releases/latest) [![GitHub todos los lanzamientos](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/"
+"dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) "
+"[![GitHub todos los lanzamientos](https://img.shields.io/github/downloads/"
+"LibreScore/app-librescore/total.svg?label=Aplicación)](https://github.com/"
+"LibreScore/app-librescore/releases/latest) [![GitHub todos los "
+"lanzamientos](https://img.shields.io/github/downloads/LibreScore/"
+"dl-librescore/total.svg?label=Guión+de+usuario)](https://github.com/"
+"LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/"
+"dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-"
+"librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -317,7 +338,7 @@ msgstr "Hay 4 programas instalables diferentes:\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "| Program                                                                            | MSCZ | MIDI | MP3 | PDF | Conversion |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
 "| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
@@ -326,12 +347,21 @@ msgid ""
 "| [Command-line tool](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
 "| [Webmscore website](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgstr ""
-"| Programa                                                                            | MSCZ | MIDI | MP3 | PDF | Conversión|     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
-"| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
-"| [Aplicación](#aplicación)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
-"| [Userscript](#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-"| [Herramienta de línea de comandos](#herramienta-de-línea-de-comandos) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [Sitio web de Webmscore](#sitio-web-de-webmscore) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| Programa                                                                   "
+"         | MSCZ | MIDI | MP3 | PDF | Conversión |     | Windows | macOS | "
+"Linux | Android | iOS/iPadOS |\n"
+"| ---------------------------------------------------------------------------"
+"------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | "
+"----- | ------- | ---------- |\n"
+"| [Aplicación](#aplicación)                             | ✔️   | ✔️   | ✔️  |"
+" ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
+"| [Guión de usuario](#guión-de-usuario)               | ❌   | ✔️   | ✔️  | "
+"✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Herramienta de línea de comandos](#herramienta-de-línea-de-comandos) | ❌"
+"   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      "
+"| ❌         |\n"
+"| [Sitio web de Webmscore](#sitio-web-de-webmscore) | ❌   | ❌   | ❌  | ❌"
+"  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -363,7 +393,7 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Userscript"
-msgstr "Script del usuario"
+msgstr "Guión de usuario"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -432,10 +462,13 @@ msgid ""
 "> 1. Go to Settings <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Shortcuts > Advanced\n"
 "> 2. Turn on Allow Running Scripts\n"
 msgstr ""
-"> Nota: Antes de poder ejecutar JavaScript desde un acceso directo, debe activar la opción de permitir la ejecución de scripts\n"
+"> Nota: Para poder ejecutar JavaScript desde un atajo, debes activar la "
+"opción \"Permitir ejecutar scripts\"\n"
 ">\n"
-"> 1. Ve a Configuración <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Accesos directos > Avanzados\n"
-"> 2. 2. Activa la opción \"Permitir la ejecución de scripts\".\n"
+"> 1. Ve a Configuración <img src=\"https://help.apple.com/assets/"
+"61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
+"492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Atajos > Avanzado\n"
+"> 2. Activa \"Permitir ejecutar scripts\"\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
@@ -453,11 +486,15 @@ msgid ""
 "4. Save the bookmark\n"
 "5. When viewing a song on MuseScore, click the bookmark to activate the extension\n"
 msgstr ""
-"1. Crear un nuevo marcador (normalmente Ctrl+D)\n"
-"2. Escriba `LibreScore` en el campo nombre\n"
-"3. Escribe `javascript:(function () {let code = document.createElement('script');code.src = 'https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js';document.body.appendChild(code);}())` para el campo URL\n"
-"4. Guardar el marcador\n"
-"5. Cuando vea una canción en MuseScore, haga clic en el marcador para activar la extensión\n"
+"1. Cree un nuevo marcador (normalmente Ctrl+D)\n"
+"2. Escriba `LibreScore` para el campo Nombre\n"
+"3. Escriba `javascript:(function () {let code = document."
+"createElement('script');code.src = 'https://github.com/LibreScore/"
+"dl-librescore/releases/latest/download/dl-librescore.user.js';document.body."
+"appendChild(code);}())` para el campo URL\n"
+"4. Guarde el marcador\n"
+"5. Cuando vea una canción en MuseScore, haga clic en el marcador para "
+"activar la extensión\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -473,9 +510,9 @@ msgid ""
 "2. Open a terminal (do _not_ open the Node.js application)\n"
 "3. Type `npx dl-librescore@latest`, then press `Enter ↵`\n"
 msgstr ""
-"1. Instale [Node.js LTS](https://nodejs.org)\n"
-"2. Abra una terminal (no _abra_ la aplicación Node.js)\n"
-"3. Escriba `npx dl-librescore@latest`, y presione `Enter ↵`\n"
+"1. Instale [Node.js LTS](https://nodejs.org/es)\n"
+"2. Abra una terminal (_no_ abra la aplicación Node.js)\n"
+"3. Escriba `npx dl-librescore@latest`, luego presione `Entrar ↵`\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -487,20 +524,21 @@ msgstr "Sitio web de Webmscore"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "1. Open [Webmscore](https://librescore.github.io)\n"
-msgstr "1. Abrir [Webmscore](https://librescore.github.io)\n"
+msgstr "1. Abra [Webmscore](https://librescore.github.io)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: You can access the website offline by installing it as a PWA\n"
-msgstr "> Nota: Puede acceder al sitio web sin conexión instalándolo como PWA\n"
+msgstr ""
+"> Nota: Puede acceder al sitio web sin conexión instalándolo como un PWA\n"
 
 #. type: Title ##
 #: source/dl-librescore/README.md source/docs/README.md
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Building"
-msgstr "Construcción"
+msgstr "Compilación"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -510,7 +548,7 @@ msgid ""
 "2. `npm install` to install packages\n"
 "3. `npm run build` to build\n"
 msgstr ""
-"1. Instala [Node.js LTS](https://nodejs.org)\n"
+"1. Instale [Node.js LTS](https://nodejs.org/es)\n"
 "2. `npm install` para instalar paquetes\n"
 "3. `npm run build` para compilar\n"
 
@@ -522,7 +560,7 @@ msgid ""
 "- `node ./dist/cli.js` to run command-line tool\n"
 msgstr ""
 "- Instale `./dist/main.user.js` con Tampermonkey\n"
-"- `node ./dist/cli.js` para ejecutar un comando en consola\n"
+"- `node ./dist/cli.js` para ejecutar la herramienta de línea de comandos\n"
 
 #. type: Title #
 #: source/docs/README.md
@@ -534,25 +572,31 @@ msgstr "Documentación de LibreScore"
 #: source/docs/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/"
+"docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\n"
 
 #. type: Plain text
 #: source/docs/README.md
 #, no-wrap
 msgid "Documentation translations\n"
-msgstr "Traducciones de la documentación\n"
+msgstr "Traducciones de documentación\n"
 
 #. type: Title ##
 #: source/docs/README.md
 #, no-wrap
 msgid "Adding languages"
-msgstr "Añadir idiomas"
+msgstr "Añadiendo idiomas"
 
 #. type: Plain text
 #: source/docs/README.md
 #, no-wrap
 msgid "1. Create a `XX.po` file, where `XX` is a language code (ex: `pt` or `zh-Hant`) in the `po/` directory\n"
-msgstr "1. Cree un archivo `XX.po`, donde `XX` es un código de idioma (por ejemplo: `pt` o `zh-Hant`) en el directorio `po/`.\n"
+msgstr ""
+"1. Cree un archivo `XX.po`, donde `XX` es un código de idioma (por ejemplo, "
+"`pt` o `zh-Hant`) en el directorio `po/`\n"
 
 #. type: Plain text
 #: source/docs/README.md
