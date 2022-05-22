@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-05-22 02:58+0000\n"
+"POT-Creation-Date: 2022-05-22 00:05-0300\n"
 "PO-Revision-Date: 2022-04-13 06:24+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/ru/>\n"
@@ -571,33 +571,3 @@ msgstr "ПОЛИТИКА-КОНФИДЕНЦИАЛЬНОСТИ"
 #, no-wrap
 msgid "README"
 msgstr "ПРОЧТИМЕНЯ"
-
-#~ msgid "Arabic"
-#~ msgstr "Арабский"
-
-#~ msgid "English"
-#~ msgstr "Английский"
-
-#~ msgid "Spanish"
-#~ msgstr "Испанский"
-
-#~ msgid "French"
-#~ msgstr "Французский"
-
-#~ msgid "Italian"
-#~ msgstr "Итальянский"
-
-#~ msgid "Japanese"
-#~ msgstr "Японский"
-
-#~ msgid "Korean"
-#~ msgstr "Корейский"
-
-#~ msgid "Malay"
-#~ msgstr "Малайский"
-
-#~ msgid "Russian"
-#~ msgstr "Русский"
-
-#~ msgid "Simplified Chinese"
-#~ msgstr "Упрощенный китайский"

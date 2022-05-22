@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-05-22 02:58+0000\n"
+"POT-Creation-Date: 2022-05-22 00:05-0300\n"
 "PO-Revision-Date: 2022-05-16 05:07+0000\n"
 "Last-Translator: Sun Ruikang <srk888666@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/librescore/docs/zh_Hans/>\n"
@@ -287,9 +287,9 @@ msgstr ""
 
 #. type: Plain text
 #: source/app-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr "> 注意：Play Protect可能会提示信息。单击下方的 `强制安装`\n"
+msgstr "> 注意：Play 保护机制可能会提示信息。单击下方的 `强制安装`\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
@@ -317,14 +317,7 @@ msgstr "有4种不同的安装程序：\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
-#| msgid ""
-#| "| Program                                                                            | MSCZ | MIDI | MP3 | PDF | Conversion |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
-#| "| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
-#| "| [App](https://github.com/LibreScore/dl-librescore#app)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
-#| "| [Userscript](https://github.com/LibreScore/dl-librescore#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-#| "| [Command-line tool](https://github.com/LibreScore/dl-librescore#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-#| "| [Webmscore website](https://github.com/LibreScore/dl-librescore#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+#, no-wrap
 msgid ""
 "| Program                                                                            | MSCZ | MIDI | MP3 | PDF | Conversion |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
 "| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
@@ -335,10 +328,10 @@ msgid ""
 msgstr ""
 "| 程序                                                                            | MSCZ | MIDI | MP3 | PDF | 转换 |     | Windows | macOS | Linux | 安卓 | iOS/iPadOS |\n"
 "| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
-"| [应用程序](https://github.com/LibreScore/dl-librescore#应用程序)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
-"| [用户脚本](https://github.com/LibreScore/dl-librescore#用户脚本)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-"| [命令行工具](https://github.com/LibreScore/dl-librescore#命令行工具) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [韦贝姆斯科尔网站](https://github.com/LibreScore/dl-librescore#韦贝姆斯科尔网站) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [应用程序](#应用程序)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
+"| [用户脚本](#用户脚本)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [命令行工具](#命令行工具) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [韦贝姆斯科尔网站](#韦贝姆斯科尔网站) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -601,10 +594,3 @@ msgstr "隐私权政策"
 #, no-wrap
 msgid "README"
 msgstr "自述文件"
-
-#~ msgid "> Note: a message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-#~ msgstr "> 注意：Play 保护机制可能会提示信息。单击下方的 `强制安装`\n"
-
-#, fuzzy
-#~ msgid "[//]: # \"+_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^+\\\\\"\n"
-#~ msgstr "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***不要在此行上方编辑*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"

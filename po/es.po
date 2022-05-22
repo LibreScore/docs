@@ -1,11 +1,10 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-05-22 02:58+0000\n"
+"POT-Creation-Date: 2022-05-22 00:05-0300\n"
 "PO-Revision-Date: 2022-05-21 05:19+0000\n"
 "Last-Translator: Felix Sarmiento <thedarkomgf@gmail.com>\n"
-"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/"
-"es/>\n"
+"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/es/>\n"
 "Language: es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -288,7 +287,7 @@ msgstr ""
 
 #. type: Plain text
 #: source/app-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
 msgstr "> Nota: Puede aparecer un mensaje de Play Protect. Pulse `Instalar de todas formas` en la parte inferior\n"
 
@@ -318,7 +317,7 @@ msgstr "Hay 4 programas instalables diferentes:\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "| Program                                                                            | MSCZ | MIDI | MP3 | PDF | Conversion |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
 "| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
@@ -329,10 +328,10 @@ msgid ""
 msgstr ""
 "| Programa                                                                            | MSCZ | MIDI | MP3 | PDF | Conversión|     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
 "| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
-"| [Aplicación](https://github.com/LibreScore/dl-librescore#aplicación)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
-"| [Userscript](https://github.com/LibreScore/dl-librescore#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-"| [Herramienta de línea de comandos](https://github.com/LibreScore/dl-librescore#herramienta-de-línea-de-comandos) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [Sitio web de Webmscore](https://github.com/LibreScore/dl-librescore#sitio-web-de-webmscore) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Aplicación](#aplicación)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
+"| [Userscript](#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Herramienta de línea de comandos](#herramienta-de-línea-de-comandos) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Sitio web de Webmscore](#sitio-web-de-webmscore) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -352,13 +351,13 @@ msgstr "Aplicación"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "1. Go to the [README](../../../app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device to install it\n"
 msgstr ""
-"1. Vaya a la página [LÉAME](https://github.com/LibreScore/app-librescore#instalación) del repositorio `app-librescore`\n"
-"2. Sigue las instrucciones de instalación de tu dispositivo para instalarlo\n"
+"1. Vaya a la página [LÉAME](../../../app-librescore#instalación) del repositorio `app-librescore`\n"
+"2. Sigue las instrucciones de instalación de su dispositivo para instalarlo\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -368,7 +367,7 @@ msgstr "Script del usuario"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "> Note: If your device is on iOS or iPadOS, please follow the [Shortcut](#shortcut) instructions.\n"
 ">\n"
@@ -392,7 +391,7 @@ msgstr "1. Instale [Tampermonkey](https://www.tampermonkey.net)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
 msgstr "> Nota: Si ya ha instalado una versión antigua del script llamada \"musescore-downloader\", \"mcsz downloader\" o \"musescore-dl\", por favor, desinstálela desde el panel de control de Tampermonkey\n"
 
@@ -628,29 +627,3 @@ msgstr "POLÍTICA-DE-PRIVACIDAD"
 #, no-wrap
 msgid "README"
 msgstr "LÉAME"
-
-#. type: Plain text
-#: source/dl-librescore/README.md
-#, fuzzy, no-wrap
-msgid ""
-"1. Go to the [README](app-librescore#installation) page of the `app-librescore` repository\n"
-"2. Follow the installation instructions for your device to install it\n"
-msgstr ""
-"1. Vaya a la página [LÉAME](https://github.com/LibreScore/app-librescore#instalación) del repositorio `app-librescore`\n"
-"2. Sigue las instrucciones de instalación de tu dispositivo para instalarlo\n"
-
-#~ msgid ""
-#~ "> Note: a message may appear about Play Protect. Tap `Install Anyway` at "
-#~ "the bottom\n"
-#~ msgstr ""
-#~ "> Nota: Puede aparecer un mensaje sobre Play Protect. Toque `Instalar de "
-#~ "todos formas` en la parte inferior\n"
-
-#~ msgid ""
-#~ "> Note: If you already installed an old version of the script called "
-#~ "\"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\" please "
-#~ "uninstall it from the Tampermonkey dashboard\n"
-#~ msgstr ""
-#~ "> Nota: Si ya ha instalado una versión antigua del script llamada "
-#~ "\"musescore-downloader\", \"mcsz downloader\" o \"musescore-dl\", por "
-#~ "favor, desinstálela desde el panel de control de Tampermonkey\n"

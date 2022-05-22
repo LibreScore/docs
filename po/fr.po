@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-05-22 02:58+0000\n"
+"POT-Creation-Date: 2022-05-22 00:05-0300\n"
 "PO-Revision-Date: 2022-04-24 17:11+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/fr/>\n"
@@ -530,7 +530,7 @@ msgstr "Développement"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:\n"
-msgstr "Une fois que vous avez créé un projet et installé les dépendances avec `npm install` (ou `pnpm install` ou `yarn`), démarrez un serveur de développement :\n"
+msgstr "Une fois que vous avez créé un projet et installé les dépendances avec `npm install` (ou `pnpm install` ou `yarn`), démarrez un serveur de développement :\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md

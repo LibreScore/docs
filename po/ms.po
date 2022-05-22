@@ -2,11 +2,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-05-22 02:58+0000\n"
+"POT-Creation-Date: 2022-05-22 00:05-0300\n"
 "PO-Revision-Date: 2022-04-14 08:07+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/"
-"ms/>\n"
+"Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/ms/>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -290,9 +289,9 @@ msgstr ""
 
 #. type: Plain text
 #: source/app-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr "> Nota: mesej mungkin muncul tentang Play Protect. Ketik `Install Anyway` di bahagian bawah\n"
+msgstr "> Nota: Mesej mungkin muncul tentang Play Protect. Ketik `Install Anyway` di bahagian bawah\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
@@ -320,7 +319,7 @@ msgstr "Terdapat 4 program boleh dipasang yang berbeza:\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "| Program                                                                            | MSCZ | MIDI | MP3 | PDF | Conversion |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
 "| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
@@ -331,10 +330,10 @@ msgid ""
 msgstr ""
 "| Program                                                                            | MSCZ | MIDI | MP3 | PDF | Penukaran |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
 "| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
-"| [Aplikasi](https://github.com/LibreScore/dl-librescore#aplikasi)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
-"| [Userscript](https://github.com/LibreScore/dl-librescore#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-"| [Alat baris arahan](https://github.com/LibreScore/dl-librescore#alat-baris-arahan) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [Laman Web Webmscore](https://github.com/LibreScore/dl-librescore#laman-web-webmscore) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Aplikasi](#aplikasi)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
+"| [Userscript](#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Alat baris arahan](#alat-baris-arahan) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Laman Web Webmscore](#laman-web-webmscore) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -354,12 +353,12 @@ msgstr "Aplikasi"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "1. Go to the [README](../../../app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device to install it\n"
 msgstr ""
-"1. Pergi ke halaman [BACASAYA](https://github.com/LibreScore/app-librescore#pemasangan) repositori `app-librescore`\n"
+"1. Pergi ke halaman [BACASAYA](../../../app-librescore#pemasangan) repositori `app-librescore`\n"
 "2. Ikut arahan pemasangan untuk peranti anda memasangnya\n"
 
 #. type: Title ###
@@ -370,7 +369,7 @@ msgstr "Skrip pengguna"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "> Note: If your device is on iOS or iPadOS, please follow the [Shortcut](#shortcut) instructions.\n"
 ">\n"
@@ -394,9 +393,9 @@ msgstr "1. Pasang [Tampermonkey](https://www.tampermonkey.net)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
-msgstr "> Nota: Jika anda telah memasang versi lama skrip yang dipanggil \"musescore-downloader\", \"mcsz downloader\", atau \"musescore-dl\" sila nyahpasangnya daripada papan pemuka Tampermonkey\n"
+msgstr "> Nota: Jika anda telah memasang versi lama skrip yang dipanggil \"musescore-downloader\", \"mcsz downloader\", atau \"musescore-dl\", sila nyahpasangnya daripada papan pemuka Tampermonkey\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -630,41 +629,3 @@ msgstr "DASAR-PRIVASI"
 #, no-wrap
 msgid "README"
 msgstr "BACASAYA"
-
-#. type: Plain text
-#: source/dl-librescore/README.md
-#, fuzzy, no-wrap
-msgid ""
-"1. Go to the [README](app-librescore#installation) page of the `app-librescore` repository\n"
-"2. Follow the installation instructions for your device to install it\n"
-msgstr ""
-"1. Pergi ke halaman [BACASAYA](https://github.com/LibreScore/app-librescore#pemasangan) repositori `app-librescore`\n"
-"2. Ikut arahan pemasangan untuk peranti anda memasangnya\n"
-
-#~ msgid ""
-#~ "> Note: a message may appear about Play Protect. Tap `Install Anyway` at "
-#~ "the bottom\n"
-#~ msgstr ""
-#~ "> Nota: mesej mungkin muncul tentang Play Protect. Ketik `Install Anyway` "
-#~ "di bahagian bawah\n"
-
-#~ msgid ""
-#~ "> Note: If you already installed an old version of the script called "
-#~ "\"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\" please "
-#~ "uninstall it from the Tampermonkey dashboard\n"
-#~ msgstr ""
-#~ "> Nota: Jika anda telah memasang versi lama skrip yang dipanggil "
-#~ "\"musescore-downloader\", \"mcsz downloader\", atau \"musescore-dl\" sila "
-#~ "nyahpasangnya daripada papan pemuka Tampermonkey\n"
-
-#, fuzzy
-#~ msgid "LibreScore\n"
-#~ msgstr "Aplikasi LibreScore"
-
-#, fuzzy
-#~ msgid ""
-#~ "[//]: # \"+_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#"
-#~ "+^+#|#+^^+\\\\\"\n"
-#~ msgstr ""
-#~ "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***JANGAN EDIT DI ATAS BARIS INI*** /+/"
-#~ "^^+#|#+^+#|#+^^\\+\\\"\n"
