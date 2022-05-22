@@ -1,7 +1,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2022-05-21 23:51+0000\n"
+"POT-Creation-Date: 2022-05-22 02:58+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 #. type: Plain text
@@ -321,7 +321,7 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid ""
-"1. Go to the [README](app-librescore#installation) page of the `app-librescore` repository\n"
+"1. Go to the [README](../../../app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device to install it\n"
 msgstr ""
 
