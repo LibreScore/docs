@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-05-22 04:00+0000\n"
-"PO-Revision-Date: 2022-04-24 17:11+0000\n"
+"PO-Revision-Date: 2022-05-22 20:17+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/fr/>\n"
+"Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/"
+"fr/>\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.12\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -397,6 +398,14 @@ msgid ""
 "> 1. Go to Settings <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Shortcuts > Advanced\n"
 "> 2. Turn on Allow Running Scripts\n"
 msgstr ""
+"> Remarque : Avant de pouvoir exécuter JavaScript depuis un raccourci, vous "
+"devez activer « Autoriser l’exécution de scripts »\n"
+">\n"
+"> 1. Accédez à Réglages <img src=\"https://help.apple.com/assets/"
+"61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
+"492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Raccourcis > "
+"Avancés\n"
+"> 2. Activez « Autoriser l’exécution de scripts »\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
@@ -453,7 +462,7 @@ msgstr ""
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Building"
-msgstr "Construction"
+msgstr "Compilation"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
