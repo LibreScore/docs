@@ -1,11 +1,10 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-05-22 04:00+0000\n"
+"POT-Creation-Date: 2022-05-22 20:20+0000\n"
 "PO-Revision-Date: 2022-05-22 20:17+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/"
-"librescore/docs/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/librescore/docs/zh_Hans/>\n"
 "Language: zh-Hans\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -177,14 +176,7 @@ msgstr "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate（翻译）](https://librescore.ddns.net/widgets/"
-"librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/"
-"engage/librescore) [![Github 全部发布版](https://img.shields.io/github/"
-"downloads/LibreScore/app-librescore/total.svg?label=下载)](https://github."
-"com/LibreScore/app-librescore/releases/latest)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate（翻译）](https://librescore.ddns.net/widgets/librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github 全部发布版](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=下载)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -430,9 +422,7 @@ msgid ""
 msgstr ""
 "> 注意：您必须先打开“允许运行脚本”，才能从快捷指令运行 JavaScript\n"
 ">\n"
-"> 1. 前往“设置” <img src=\"https://help.apple.com/assets/"
-"61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
-"492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > “快捷指令” > “高级”\n"
+"> 1. 前往“设置” <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > “快捷指令” > “高级”\n"
 "> 2. 打开“允许运行脚本”\n"
 
 #. type: Title ####

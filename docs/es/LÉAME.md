@@ -10,15 +10,15 @@
 
 [![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)
 
-Traducciones de la documentación
+Traducciones de documentación
 
 </div>
 
-## Añadir idiomas
+## Añadiendo idiomas
 
-1. Cree un archivo `XX.po`, donde `XX` es un código de idioma (por ejemplo: `pt` o `zh-Hant`) en el directorio `po/`.
+1. Cree un archivo `XX.po`, donde `XX` es un código de idioma (por ejemplo, `pt` o `zh-Hant`) en el directorio `po/`
 
-## Construcción
+## Compilación
 
 1. `./po4a.sh`
 

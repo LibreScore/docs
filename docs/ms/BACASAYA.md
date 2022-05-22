@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![ Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)
+[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)
 
 Terjemahan dokumentasi
 
@@ -18,7 +18,7 @@ Terjemahan dokumentasi
 
 1. Cipta fail `XX.po`, dengan `XX` ialah kod bahasa (cth: `pt` atau `zh-Hant`) dalam direktori `po/`
 
-## Bangunan
+## Penyusunan
 
 1. `./po4a.sh`
 
