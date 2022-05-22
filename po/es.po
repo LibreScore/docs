@@ -4,7 +4,8 @@ msgstr ""
 "POT-Creation-Date: 2022-05-22 03:43+0000\n"
 "PO-Revision-Date: 2022-05-21 05:19+0000\n"
 "Last-Translator: Felix Sarmiento <thedarkomgf@gmail.com>\n"
-"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/es/>\n"
+"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/"
+"es/>\n"
 "Language: es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -393,7 +394,7 @@ msgstr "1. Instale [Tampermonkey](https://www.tampermonkey.net)\n"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
-msgstr "> Nota: Si ya ha instalado una versión antigua del script llamada \"musescore-downloader\", \"mcsz downloader\" o \"musescore-dl\", por favor, desinstálela desde el panel de control de Tampermonkey\n"
+msgstr "> Nota: Si ya instaló una versión antigua del script llamado \"musescore-downloader\", \"mcsz downloader\" o \"musescore-dl\", por favor, desinstálelo desde el panel de control de Tampermonkey\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -403,7 +404,7 @@ msgid ""
 "3. Press the Install button\n"
 msgstr ""
 "2. Vaya al último archivo [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js)\n"
-"3. Pulse el botón instalar\n"
+"3. Pulse el botón Instalar\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
@@ -419,9 +420,9 @@ msgid ""
 "2. In Safari, when viewing a song on MuseScore, tap <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
 "3. Tap the LibreScore shortcut to activate the extension\n"
 msgstr ""
-"1. Instale [LibreScore shortcut](https://www.icloud.com/shortcuts/901d8778d2da4f7db9272d3b2232d0fe)\n"
-"2. En Safari, cuando vea una canción en MuseScore, presione <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">.\n"
-"3. Toque el acceso directo de LibreScore para activar la extensión\n"
+"1. Instale el [Atajo de LibreScore](https://www.icloud.com/shortcuts/901d8778d2da4f7db9272d3b2232d0fe)\n"
+"2. En Safari, cuando esté viendo una canción en MuseScore, toque <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">.\n"
+"3. Toque el Atajo de LibreScore para activar la extensión\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
