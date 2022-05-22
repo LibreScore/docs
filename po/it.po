@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-05-22 20:29+0000\n"
+"POT-Creation-Date: 2022-05-22 17:33-0300\n"
 "PO-Revision-Date: 2022-05-22 20:17+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Italian <https://librescore.ddns.net/projects/librescore/docs/it/>\n"
@@ -328,7 +328,7 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid ""
-"1. Go to the [README](../../../app-librescore#installation) page of the `app-librescore` repository\n"
+"1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device to install it\n"
 msgstr ""
 
