@@ -2,9 +2,10 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-05-24 18:22+0000\n"
-"PO-Revision-Date: 2022-05-24 18:13+0000\n"
+"PO-Revision-Date: 2022-05-24 18:39+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/es/>\n"
+"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/"
+"es/>\n"
 "Language: es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -182,7 +183,7 @@ msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Download the LibreScore app\n"
-msgstr "Descargue la aplicación LibreScore\n"
+msgstr "Descargar la aplicación LibreScore\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -307,7 +308,7 @@ msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Download sheet music\n"
-msgstr "Descargue partituras\n"
+msgstr "Descargar partituras\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
