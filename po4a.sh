@@ -17,6 +17,7 @@ for file in source/**/*.md; do
     while IFS="" read -r line || [ -n "$line" ]; do
         if [[ $line =~ $filere ]]; then
             newfile=${BASH_REMATCH[2]}
+            break
         fi
     done < source/titles/titles.yaml
 
