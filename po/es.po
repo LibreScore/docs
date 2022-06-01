@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-05-29 18:20+0000\n"
+"POT-Creation-Date: 2022-05-31 21:24-0300\n"
 "PO-Revision-Date: 2022-05-29 18:07+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/es/>\n"
@@ -354,10 +354,10 @@ msgstr "Aplicación"
 #, no-wrap
 msgid ""
 "1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
-"2. Follow the installation instructions for your device to install it\n"
+"2. Follow the installation instructions for your device\n"
 msgstr ""
 "1. Vaya a la página [LÉAME](https://github.com/LibreScore/app-librescore/blob/master/docs/es/LÉAME.md#instalación) del repositorio `app-librescore`\n"
-"2. Sigue las instrucciones de instalación de su dispositivo para instalarlo\n"
+"2. Sigue las instrucciones de instalación de su dispositivo\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
