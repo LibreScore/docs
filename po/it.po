@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-06-01 15:29+0000\n"
-"PO-Revision-Date: 2022-05-22 20:17+0000\n"
+"PO-Revision-Date: 2022-06-02 16:07+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Italian <https://librescore.ddns.net/projects/librescore/docs/"
 "it/>\n"
@@ -27,6 +27,8 @@ msgstr "<div dir=\"ltr\" align=\"left\">\n"
 #, no-wrap
 msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
 msgstr ""
+"[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***NON MODIFICARE SOPRA QUESTA RIGA*** "
+"/+/^^+#|#+^+#|#+^^\\+\\\"\n"
 
 #. type: Title #
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -44,13 +46,21 @@ msgstr "LibreScore ha creato l'app LibreScore come app gratuita. Questo SERVIZIO
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\n"
-msgstr "Questa pagina è utilizzata per informare i visitatori in merito alle nostre politiche, con la raccolta, l'uso e la divulgazione di informazioni personali, qualora qualcuno decidesse di utilizzare il nostro servizio.\n"
+msgstr ""
+"Questa pagina viene utilizzata per informare i visitatori in merito alle "
+"nostre politiche con la raccolta, l'uso e la divulgazione di informazioni "
+"personali qualora qualcuno decidesse di utilizzare il nostro Servizio.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\n"
 msgstr ""
+"Se scegli di utilizzare il nostro Servizio, accetti la raccolta e l'utilizzo "
+"delle informazioni in relazione a questa politica. Le informazioni personali "
+"che raccogliamo vengono utilizzate per fornire e migliorare il servizio. Non "
+"utilizzeremo né condivideremo le tue informazioni con nessuno se non come "
+"descritto nella presente Politica sulla riservatezza.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
