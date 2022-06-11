@@ -6,14 +6,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-06-11 08:05+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-06-11 23:23+0000\n"
+"Last-Translator: Remi <remi.rooms1@gmail.com>\n"
+"Language-Team: Dutch <https://librescore.ddns.net/projects/librescore/docs/"
+"nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -42,12 +46,18 @@ msgstr ""
 #, markdown-text, no-wrap
 msgid "LibreScore built the LibreScore app as a Free app. This SERVICE is provided by LibreScore at no cost and is intended for use as is.\n"
 msgstr ""
+"LibreScore heeft de LibreScore app gebouwd als een Gratis applicatie. Deze "
+"SERVICE is door LibreScore kosteloos verstrekt en is bedoeld om gebruikt te "
+"worden in de huidige staat.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, markdown-text, no-wrap
 msgid "This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\n"
 msgstr ""
+"Deze pagina is voorzien om bezoekers te informeren over ons beleid inzake de "
+"verzameling, het gebruik en het openbaar maken van Persoonlijke Informatie "
+"indien men beslist om gebruik te maken van onze dienst.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
