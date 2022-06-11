@@ -4,7 +4,8 @@ msgstr ""
 "POT-Creation-Date: 2022-06-12 08:05+0000\n"
 "PO-Revision-Date: 2022-06-02 16:07+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Italian <https://librescore.ddns.net/projects/librescore/docs/it/>\n"
+"Language-Team: Italian <https://librescore.ddns.net/projects/librescore/docs/"
+"it/>\n"
 "Language: it\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -37,7 +38,7 @@ msgstr "Politica sulla riservatezza"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "LibreScore built the LibreScore app as a Free app. This SERVICE is provided by LibreScore at no cost and is intended for use as is.\n"
-msgstr "LibreScore ha creato l'app LibreScore come app gratuita. Questo SERVIZIO è fornito da LibreScore gratuitamente ed è destinato all'uso così com'è.\n"
+msgstr "LibreScore ha creato l'app LibreScore come app Gratuita. Questo SERVIZIO è fornito da LibreScore gratuitamente ed è destinato all'uso così com'è.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
