@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-06-12 08:05+0000\n"
-"PO-Revision-Date: 2022-05-22 20:17+0000\n"
+"PO-Revision-Date: 2022-06-24 05:12+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/fr/>\n"
+"Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/"
+"fr/>\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.12.2\n"
+"X-Generator: Weblate 4.13\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -212,6 +213,27 @@ msgid ""
 "|                                            Windows (7+) (64-bit only)                                            |                                        macOS (10.11+) (Rosetta 2)                                         |                                             Android (6.0+)                                             |\n"
 "|      [Download (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Download (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Download (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 msgstr ""
+"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/"
+"Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https"
+"://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29."
+"svg\" width=\"512\"> |   <img src=\"https://upload.wikimedia.org/wikipedia/"
+"commons/3/31/Android_robot_head.svg\" width=\"512\">   |\n"
+"| :--------------------------------------------------------------------------"
+"------------------------------------: | :------------------------------------"
+"-------------------------------------------------------------------: | :-----"
+"-----------------------------------------------------------------------------"
+"------------------: |\n"
+"|                                            Windows (7+) (seulement 64 bits)"
+"                                            |"
+"                                        macOS (10.11+) (Rosetta 2)"
+"                                         |"
+"                                             Android (6.0+)"
+"                                             |\n"
+"|      [Télécharger (EXE)](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)      |  [Télécharger "
+"(DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/"
+"LibreScore.dmg)   | [Télécharger (APK)](https://github.com/LibreScore/"
+"app-librescore/releases/latest/download/LibreScore.apk) |\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -223,7 +245,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -232,12 +254,15 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
+"1. Télécharger [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)\n"
+"2. Ouvrir le fichier EXE pour l'installer\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "macOS"
-msgstr ""
+msgstr "macOS"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -253,12 +278,22 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
+"1. Télécharger [LibreScore.dmg](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.dmg)\n"
+"2. Ouvrir le fichier DMG\n"
+"3. Déplacer le fichier APP vers le dossier Applications pour l'installer\n"
+"4. Cliquer sur le fichier APP en maintenant la touche Contrôle enfoncée\n"
+"5. Cliquer sur `Ouvrir` dans le menu contextuel\n"
+"6. Cliquer sur `Ouvrir` en bas\n"
+"7. Fermer le fichier DMG\n"
+"8. Cliquer sur le fichier DMG en maintenant la touche Contrôle enfoncée\n"
+"9. Cliquer sur `Éjecter` dans le menu contextuel\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Android"
-msgstr ""
+msgstr "Android"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -267,6 +302,9 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
+"1. Télécharger [LibreScore.apk](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.apk)\n"
+"2. Ouvrir le fichier APK pour l'installer\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
