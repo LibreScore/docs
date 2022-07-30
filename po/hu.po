@@ -8,9 +8,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-07-30 03:55+0000\n"
-"PO-Revision-Date: 2022-07-30 03:53+0000\n"
+"PO-Revision-Date: 2022-07-30 05:14+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Hungarian <https://librescore.ddns.net/projects/librescore/docs/hu/>\n"
+"Language-Team: Hungarian <https://librescore.ddns.net/projects/librescore/"
+"docs/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -164,7 +165,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "LibreScore App"
-msgstr "LibreScore App"
+msgstr "LibreScore app"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -189,7 +190,7 @@ msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Download the LibreScore app\n"
-msgstr "Töltsd le a LibreScore app-et\n"
+msgstr "Töltse le a LibreScore app\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -243,7 +244,8 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. Töltse le [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
+"1. Töltse le a [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe) fájlt\n"
 "2. Nyissa meg az EXE fájlt a telepítéshez\n"
 
 #. type: Title ###
@@ -266,7 +268,8 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
-"1. Töltse le [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
+"1. Töltse le a [LibreScore.dmg](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.dmg) fájlt\n"
 "2. Nyissa meg a DMG fájlt\n"
 "3. Helyezze az APP fájlt az Alkalmazások mappába a telepítéshez\n"
 "4. Nyomja le a Control billentyűt, és kattintson az APP fájlra\n"
@@ -289,7 +292,8 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. Töltse le [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
+"1. Töltse le a [LibreScore.apk](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.apk) fájlt\n"
 "2. Nyissa meg az APK fájlt a telepítéshez\n"
 
 #. type: Plain text
