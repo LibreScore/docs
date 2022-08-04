@@ -3,9 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-07-30 05:33+0000\n"
-"PO-Revision-Date: 2022-07-30 03:53+0000\n"
+"PO-Revision-Date: 2022-08-04 21:52+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/ms/>\n"
+"Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/"
+"ms/>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -81,7 +82,14 @@ msgstr "Data Log"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\\\"IP\\\") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.\n"
-msgstr "Kami ingin memaklumkan anda bahawa setiap kali anda menggunakan Perkhidmatan kami, sekiranya berlaku ralat dalam aplikasi, kami mengumpul data dan maklumat (melalui produk pihak ketiga) pada telefon anda yang dipanggil Data Log. Data Log ini mungkin termasuk maklumat seperti alamat Protokol Internet (\\\"IP\\\") peranti anda, nama peranti, versi sistem pengendalian, konfigurasi apl semasa menggunakan Perkhidmatan kami, masa dan tarikh penggunaan Perkhidmatan oleh anda dan statistik lain.\n"
+msgstr ""
+"Kami ingin memaklumkan anda bahawa setiap kali anda menggunakan Perkhidmatan "
+"kami, sekiranya berlaku ralat dalam apl, kami mengumpul data dan maklumat ("
+"melalui produk pihak ketiga) pada telefon anda yang dipanggil Data Log. Data "
+"Log ini mungkin termasuk maklumat seperti alamat Protokol Internet (\\\"IP\\"
+"\") peranti anda, nama peranti, versi sistem pengendalian, konfigurasi apl "
+"semasa menggunakan Perkhidmatan kami, masa dan tarikh penggunaan "
+"Perkhidmatan oleh anda dan statistik lain.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -159,7 +167,7 @@ msgstr "Halaman dasar privasi ini dibuat di [privacypolicytemplate.net](https://
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "LibreScore App"
-msgstr "Aplikasi LibreScore"
+msgstr "Apl LibreScore"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -303,7 +311,19 @@ msgstr "dl-librescore"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github Semua Keluaran](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Aplikasi)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github Semua Keluaran](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Skrip+pengguna)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Alat+baris+arahan)](https://www.npmjs.com/package/dl-librescore)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/"
+"dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) "
+"[![Github Semua Keluaran](https://img.shields.io/github/downloads/LibreScore/"
+"app-librescore/total.svg?label=Apl)](https://github.com/LibreScore/"
+"app-librescore/releases/latest) [![Github Semua Keluaran](https://img.shields"
+".io/github/downloads/LibreScore/dl-librescore/total."
+"svg?label=Skrip+pengguna)](https://github.com/LibreScore/dl-librescore/"
+"releases/latest) [![npm](https://img.shields.io/npm/dt/dl-"
+"librescore?label=Alat+baris+arahan)](https://www.npmjs.com/package/dl-"
+"librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -328,12 +348,20 @@ msgid ""
 "| [Command-line tool](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
 "| [Webmscore website](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgstr ""
-"| Program                                                                            | MSCZ | MIDI | MP3 | PDF | Penukaran |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
-"| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
-"| [Aplikasi](#aplikasi)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
-"| [Skrip pengguna](#skrip-pengguna)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-"| [Alat baris arahan](#alat-baris-arahan) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [Laman web Webmscore](#laman-web-webmscore) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| Program                                                                    "
+"        | MSCZ | MIDI | MP3 | PDF | Penukaran |     | Windows | macOS | "
+"Linux | Android | iOS/iPadOS |\n"
+"| ---------------------------------------------------------------------------"
+"------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | "
+"----- | ------- | ---------- |\n"
+"| [Apl](#apl)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌"
+"         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
+"| [Skrip pengguna](#skrip-pengguna)               | ❌   | ✔️   | ✔️  | ✔️  |"
+" ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Alat baris arahan](#alat-baris-arahan) | ❌   | ✔️   | ✔️  | ✔️  | ✔️"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Laman web Webmscore](#laman-web-webmscore) | ❌   | ❌   | ❌  | ❌  | ✔️"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -349,7 +377,7 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "App"
-msgstr "Aplikasi"
+msgstr "Apl"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
