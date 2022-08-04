@@ -337,10 +337,6 @@ msgstr ""
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
-#| msgid ""
-#| "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
-#| "> Conversion targets include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgid ""
 "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
 "> Conversion types include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
