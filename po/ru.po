@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-08-04 21:56+0000\n"
+"POT-Creation-Date: 2022-08-04 21:59+0000\n"
 "PO-Revision-Date: 2022-07-30 03:53+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/ru/>\n"
@@ -315,7 +315,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
-"> Conversion targets include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
+"> Conversion types include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgstr ""
 
 #. type: Title ###

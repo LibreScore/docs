@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-08-04 21:56+0000\n"
+"POT-Creation-Date: 2022-08-04 21:59+0000\n"
 "PO-Revision-Date: 2022-08-04 21:52+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/es/>\n"
@@ -335,10 +335,13 @@ msgstr ""
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
+#| "> Conversion targets include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgid ""
 "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
-"> Conversion targets include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
+"> Conversion types include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgstr ""
 "> Nota: `Conversión` se refiere a la capacidad de convertir archivos en otros tipos de archivos, incluidos los que no se pueden descargar en el programa.\n"
 "> Los tipos de conversión incluyen: Partes individuales, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ y MSCX.\n"
