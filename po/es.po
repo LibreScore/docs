@@ -1,11 +1,10 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-07-30 05:33+0000\n"
+"POT-Creation-Date: 2022-08-04 21:56+0000\n"
 "PO-Revision-Date: 2022-08-04 21:52+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/"
-"es/>\n"
+"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/es/>\n"
 "Language: es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -38,10 +37,7 @@ msgstr "Política de privacidad"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "LibreScore built the LibreScore app as a Free app. This SERVICE is provided by LibreScore at no cost and is intended for use as is.\n"
-msgstr ""
-"LibreScore creó la app LibreScore como una app Gratuita. Este SERVICIO es "
-"proporcionado por LibreScore sin costo alguno y está destinado a ser "
-"utilizado tal cual.\n"
+msgstr "LibreScore creó la app LibreScore como una app Gratuita. Este SERVICIO es proporcionado por LibreScore sin costo alguno y está destinado a ser utilizado tal cual.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -83,15 +79,7 @@ msgstr "Datos de registro"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\\\"IP\\\") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.\n"
-msgstr ""
-"Queremos informarle que cada vez que utiliza nuestro Servicio, en caso de un "
-"error en la app, recopilamos datos e información (a través de productos de "
-"terceros) en su teléfono denominados Datos de registro. Estos Datos de "
-"registro pueden incluir información como la dirección del Protocolo de "
-"Internet (\\\"IP\\\") de su dispositivo, el nombre del dispositivo, la "
-"versión del sistema operativo, la configuración de la app cuando utiliza "
-"nuestro Servicio, la hora y la fecha de su uso del Servicio, y otras "
-"estadísticas.\n"
+msgstr "Queremos informarle que cada vez que utiliza nuestro Servicio, en caso de un error en la app, recopilamos datos e información (a través de productos de terceros) en su teléfono denominados Datos de registro. Estos Datos de registro pueden incluir información como la dirección del Protocolo de Internet (\\\"IP\\\") de su dispositivo, el nombre del dispositivo, la versión del sistema operativo, la configuración de la app cuando utiliza nuestro Servicio, la hora y la fecha de su uso del Servicio, y otras estadísticas.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -313,19 +301,7 @@ msgstr "dl-librescore"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/"
-"dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) "
-"[![GitHub todos los lanzamientos](https://img.shields.io/github/downloads/"
-"LibreScore/app-librescore/total.svg?label=App)](https://github.com/"
-"LibreScore/app-librescore/releases/latest) [![GitHub todos los "
-"lanzamientos](https://img.shields.io/github/downloads/LibreScore/"
-"dl-librescore/total.svg?label=Guión+de+usuario)](https://github.com/"
-"LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/"
-"dt/dl-librescore?label=Herramienta+de+línea-de-comandos)](https://www.npmjs."
-"com/package/dl-librescore)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![GitHub todos los lanzamientos](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![GitHub todos los lanzamientos](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Guión+de+usuario)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Herramienta+de+línea-de-comandos)](https://www.npmjs.com/package/dl-librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -350,21 +326,12 @@ msgid ""
 "| [Command-line tool](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
 "| [Webmscore website](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgstr ""
-"| Programa                                                                   "
-"         | MSCZ | MIDI | MP3 | PDF | Conversión |     | Windows | macOS | "
-"Linux | Android | iOS/iPadOS |\n"
-"| ---------------------------------------------------------------------------"
-"------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | "
-"----- | ------- | ---------- |\n"
-"| [App](#app)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌"
-"         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
-"| [Guión de usuario](#guión-de-usuario)               | ❌   | ✔️   | ✔️  | "
-"✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-"| [Herramienta de línea-de-comandos](#herramienta-de-línea-de-comandos) | ❌"
-"   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      "
-"| ❌         |\n"
-"| [Sitio web de Webmscore](#sitio-web-de-webmscore) | ❌   | ❌   | ❌  | ❌"
-"  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| Programa                                                                            | MSCZ | MIDI | MP3 | PDF | Conversión |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
+"| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
+"| [App](#app)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
+"| [Guión de usuario](#guión-de-usuario)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Herramienta de línea-de-comandos](#herramienta-de-línea-de-comandos) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Sitio web de Webmscore](#sitio-web-de-webmscore) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -373,11 +340,8 @@ msgid ""
 "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
 "> Conversion targets include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgstr ""
-"> Nota: `Conversión` se refiere a la capacidad de convertir archivos en "
-"otros tipos de archivos, incluidos los que no se pueden descargar en el "
-"programa.\n"
-"> Los tipos de conversión incluyen: Partes individuales, PDF, PNG, SVG, MP3, "
-"WAV, FLAC, OGG, MIDI, MusicXML, MSCZ y MSCX.\n"
+"> Nota: `Conversión` se refiere a la capacidad de convertir archivos en otros tipos de archivos, incluidos los que no se pueden descargar en el programa.\n"
+"> Los tipos de conversión incluyen: Partes individuales, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ y MSCX.\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -588,9 +552,7 @@ msgstr "Añadiendo idiomas"
 #: source/docs/README.md
 #, no-wrap
 msgid "1. Create a `XX.po` file, where `XX` is a language code (ex: `pt` or `zh-Hant`) in the `po/` directory\n"
-msgstr ""
-"1. Cree un archivo `XX.po`, donde `XX` es un código de idioma (p. ej., `pt` "
-"o `zh-Hant`) en el directorio `po/`\n"
+msgstr "1. Cree un archivo `XX.po`, donde `XX` es un código de idioma (p. ej., `pt` o `zh-Hant`) en el directorio `po/`\n"
 
 #. type: Plain text
 #: source/docs/README.md
@@ -640,10 +602,7 @@ msgstr ""
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:\n"
-msgstr ""
-"Antes de crear una versión de producción de su app, instale un "
-"[adaptador](https://kit.svelte.dev/docs#adapters) para su entorno de "
-"destino. Luego:\n"
+msgstr "Antes de crear una versión de producción de su app, instale un [adaptador](https://kit.svelte.dev/docs#adapters) para su entorno de destino. Luego:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
@@ -655,10 +614,7 @@ msgstr "npm run build\n"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.\n"
-msgstr ""
-"> Puede obtener una vista previa de la app creada con `npm run preview`, "
-"independientemente de si instaló un adaptador. Esto _no_ debe usarse para "
-"servir su app en producción.\n"
+msgstr "> Puede obtener una vista previa de la app creada con `npm run preview`, independientemente de si instaló un adaptador. Esto _no_ debe usarse para servir su app en producción.\n"
 
 #. type: Hash Value: PRIVACY-POLICY
 #: source/titles/titles.yaml

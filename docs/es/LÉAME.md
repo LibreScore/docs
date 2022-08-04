@@ -1,6 +1,6 @@
 <div dir="ltr" align="left">
 
-&#8206;[English](/docs/en/README.md) | &#8206;**español** | &#8206;[Melayu](/docs/ms/BACASAYA.md) | &#8206;[[+]](https://librescore.ddns.net/projects/librescore/docs)
+&#8206;[English](/docs/en/README.md) | &#8206;**español** | &#8206;[français](/docs/fr/LISEZMOI.md) | &#8206;[Melayu](/docs/ms/BACASAYA.md) | &#8206;[[+]](https://librescore.ddns.net/projects/librescore/docs)
 
 [//]: # "\+\_==!|!=_=!|!==_/+/ ***NO EDITAR ENCIMA DE ESTA LÍNEA*** /+/^^+#|#+^+#|#+^^\+\"
 
@@ -16,7 +16,7 @@ Traducciones de documentación
 
 ## Añadiendo idiomas
 
-1. Cree un archivo `XX.po`, donde `XX` es un código de idioma (por ejemplo, `pt` o `zh-Hant`) en el directorio `po/`
+1. Cree un archivo `XX.po`, donde `XX` es un código de idioma (p. ej., `pt` o `zh-Hant`) en el directorio `po/`
 
 ## Compilación
 
