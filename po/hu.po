@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
 "PO-Revision-Date: 2024-06-29 01:38+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"Last-Translator: Sámuel Léránt <lerantsamuel@gmail.com>\n"
 "Language-Team: Hungarian <https://librescore.ddns.net/projects/librescore/"
 "docs/hu/>\n"
 "Language: hu\n"
@@ -45,25 +45,40 @@ msgstr "Adatvédelmi irányelvek"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "LibreScore built the LibreScore app as a Free app. This SERVICE is provided by LibreScore at no cost and is intended for use as is.\n"
-msgstr "LibreScore a LibreScore programot ingyenes programnak fejlesztette. Ezt a SZOLGÁLTATÁST a LibreScore díjmentesen biztosítja, és ingyenes felhasználásra szánja.\n"
+msgstr ""
+"LibreScore a LibreScore programot ingyenes programnak fejlesztette. Ezt a "
+"SZOLGÁLTATÁST a LibreScore díjmentesen biztosítja, és ingyenes "
+"felhasználásra szánja.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\n"
-msgstr "Az oldal célja, hogy tájékoztassuk a látogatókat a személyes adatok gyűjtésére, felhasználására és közzétételére vonatkozó irányelveinkről, ha valaki úgy dönt, hogy igénybe veszi Szolgáltatásunkat.\n"
+msgstr ""
+"Az oldal célja, hogy tájékoztassuk a látogatókat a személyes adatok "
+"gyűjtésére, felhasználására és közzétételére vonatkozó irányelveinkről, ha "
+"valaki úgy dönt, hogy igénybe veszi Szolgáltatásunkat.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\n"
-msgstr "Ha úgy döntesz, hogy igénybe veszed a Szolgáltatásunkat, akkor elfogadod a jelen szabályzatot az információk gyűjtésére és felhasználására vonatkozóan. Az általunk gyűjtött Személyes adatokat a Szolgáltatás nyújtására és fejlesztésére használjuk fel. Az adataidat csak az Adatvédelmi szabályzatban leírtak szerint használjuk fel és osztjuk meg.\n"
+msgstr ""
+"Ha úgy döntesz, hogy igénybe veszed a Szolgáltatásunkat, akkor elfogadod a "
+"jelen szabályzatot az információk gyűjtésére és felhasználására vonatkozóan. "
+"Az általunk gyűjtött Személyes adatokat a Szolgáltatás nyújtására és "
+"fejlesztésére használjuk fel. Az adataidat csak az Adatvédelmi szabályzatban "
+"leírtak szerint használjuk fel és osztjuk meg.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at LibreScore unless otherwise defined in this Privacy Policy.\n"
-msgstr "A jelen Adatvédelmi szabályzatban használt kifejezések jelentése megegyezik a Felhasználási Feltételeinkben szereplő kifejezésekkel, amelyek a LibreScore-on érhetőek el, hacsak a jelen Adatvédelmi szabályzat másként nem rendelkezik.\n"
+msgstr ""
+"A jelen Adatvédelmi szabályzatban használt kifejezések jelentése megegyezik "
+"a Felhasználási Feltételeinkben szereplő kifejezésekkel, amelyek a "
+"LibreScore-on érhetőek el, hacsak a jelen Adatvédelmi szabályzat másként nem "
+"rendelkezik.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -75,7 +90,11 @@ msgstr "Információgyűjtés és -felhasználás"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.\n"
-msgstr "A felhasználói élmény fokozása érdekében Szolgáltatásunk használata során megkövetelhetjük, hogy megadj számunkra bizonyos személyazonosításra alkalmas adatokat. Az általunk kért információkat megőrizzük, és a jelen adatvédelmi szabályzatban leírtak szerint használjuk fel.\n"
+msgstr ""
+"A felhasználói élmény fokozása érdekében Szolgáltatásunk használata során "
+"megkövetelhetjük, hogy megadj számunkra bizonyos személyazonosításra "
+"alkalmas adatokat. Az általunk kért információkat megőrizzük, és a jelen "
+"adatvédelmi szabályzatban leírtak szerint használjuk fel.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -87,7 +106,15 @@ msgstr "Naplózott Adatok"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\\\"IP\\\") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.\n"
-msgstr "Tájékoztatunk, hogy minden alkalommal, amikor szolgáltatásunkat használod, az alkalmazásban fellépő hiba esetén adatokat és információkat gyűjtünk (harmadik féltől származó termékeken keresztül) az Te telefonodra Naplóadatok néven. Ezek a naplóadatok tartalmazhatnak olyan információkat, mint például az eszköz Internet Protokoll (\\\"IP\\\") címe, az eszköz neve, az operációs rendszer verziója, az alkalmazás beállításai a Szolgáltatásunk használatakor, a Szolgáltatás használatának időpontja és dátuma, valamint egyéb statisztikák.\n"
+msgstr ""
+"Tájékoztatunk, hogy minden alkalommal, amikor szolgáltatásunkat használod, "
+"az alkalmazásban fellépő hiba esetén adatokat és információkat gyűjtünk ("
+"harmadik féltől származó termékeken keresztül) az Te telefonodra Naplóadatok "
+"néven. Ezek a naplóadatok tartalmazhatnak olyan információkat, mint például "
+"az eszköz Internet Protokoll (\\\"IP\\\") címe, az eszköz neve, az operációs "
+"rendszer verziója, az alkalmazás beállításai a Szolgáltatásunk "
+"használatakor, a Szolgáltatás használatának időpontja és dátuma, valamint "
+"egyéb statisztikák.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -99,7 +126,13 @@ msgstr "Biztonság"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.\n"
-msgstr "Nagyra értékeljük a bizalmadat a személyes adataidnak rendelkezésünkre bocsátásával kapcsolatban, ezért igyekszünk kereskedelmileg elfogadható eszközöket alkalmazni azok védelmére. De ne feledd, hogy az interneten keresztüli adattovábbítás vagy az elektronikus adattárolás egyik módja sem 100%-ban biztonságos és megbízható, és nem tudjuk garantálni az abszolút biztonságot.\n"
+msgstr ""
+"Nagyra értékeljük a bizalmadat a személyes adataidnak rendelkezésünkre "
+"bocsátásával kapcsolatban, ezért igyekszünk kereskedelmileg elfogadható "
+"eszközöket alkalmazni azok védelmére. De ne feledd, hogy az interneten "
+"keresztüli adattovábbítás vagy az elektronikus adattárolás egyik módja sem "
+"100%-ban biztonságos és megbízható, és nem tudjuk garantálni az abszolút "
+"biztonságot.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -111,7 +144,14 @@ msgstr "Hivatkozások más oldalakra"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n"
-msgstr "Ez a szolgáltatás más webhelyekre mutató hivatkozásokat tartalmazhat. Ha rákattintasz egy harmadik fél linkjére, akkor az adott webhelyre leszel átírányítva. Vedd figyelembe, hogy ezeket a külső oldalakat nem mi üzemeltetjük. Ezért nyomatékosan javasoljuk, hogy tekintsd át ezen weboldalak adatvédelmi szabályzatát. Nincs ellenőrzésünk és nem vállalunk felelősséget harmadik felek webhelyeinek vagy szolgáltatásainak tartalma, adatvédelmi irányelvei vagy gyakorlata felett.\n"
+msgstr ""
+"Ez a szolgáltatás más webhelyekre mutató hivatkozásokat tartalmazhat. Ha "
+"rákattintasz egy harmadik fél linkjére, akkor az adott webhelyre leszel "
+"átírányítva. Vedd figyelembe, hogy ezeket a külső oldalakat nem mi "
+"üzemeltetjük. Ezért nyomatékosan javasoljuk, hogy tekintsd át ezen "
+"weboldalak adatvédelmi szabályzatát. Nincs ellenőrzésünk és nem vállalunk "
+"felelősséget harmadik felek webhelyeinek vagy szolgáltatásainak tartalma, "
+"adatvédelmi irányelvei vagy gyakorlata felett.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -123,7 +163,21 @@ msgstr "Gyermekek Személyes Adatai"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We do not knowingly collect personally identifiable information from children. We encourage all children to never submit any personally identifiable information through the Application and/or Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).\n"
-msgstr "Tudatosan nem gyűjtünk személyazonosításra alkalmas adatokat gyermekektől. Arra bátorítunk minden gyermeket, hogy soha ne adjon be semmilyen személyazonosításra alkalmas információt az Alkalmazáson és/vagy a Szolgáltatásokon keresztül. Arra biztatjuk a szülőket és törvényes gyámokat, hogy kísérjék figyelemmel gyermekeik internethasználatát, és segítsék elő a jelen Szabályzat érvényesítését azáltal, hogy utasítják gyermekeiket, hogy engedélyük nélkül soha ne adjanak személyazonosításra alkalmas adatokat az Alkalmazáson és/vagy a Szolgáltatásokon keresztül. Ha okkal feltételezed, hogy egy gyermek személyazonosításra alkalmas adatokat bocsátott rendelkezésünkre az Alkalmazáson és/vagy a Szolgáltatásokon keresztül, kérlek, vedd fel velünk a kapcsolatot. Ezenkívül legalább 16 évesnek kell lenned ahhoz, hogy hozzájárulj a személyazonosításra alkalmas adataidnak az országodban történő feldolgozásához (egyes országokban megengedhetjük, hogy ezt a gyermek szülője vagy gyámja végezze el az gyermek nevében).\n"
+msgstr ""
+"Tudatosan nem gyűjtünk személyazonosításra alkalmas adatokat gyermekektől. "
+"Arra bátorítunk minden gyermeket, hogy soha ne adjon be semmilyen "
+"személyazonosításra alkalmas információt az Alkalmazáson és/vagy a "
+"Szolgáltatásokon keresztül. Arra biztatjuk a szülőket és törvényes gyámokat, "
+"hogy kísérjék figyelemmel gyermekeik internethasználatát, és segítsék elő a "
+"jelen Szabályzat érvényesítését azáltal, hogy utasítják gyermekeiket, hogy "
+"engedélyük nélkül soha ne adjanak személyazonosításra alkalmas adatokat az "
+"Alkalmazáson és/vagy a Szolgáltatásokon keresztül. Ha okkal feltételezed, "
+"hogy egy gyermek személyazonosításra alkalmas adatokat bocsátott "
+"rendelkezésünkre az Alkalmazáson és/vagy a Szolgáltatásokon keresztül, "
+"kérlek, vedd fel velünk a kapcsolatot. Ezenkívül legalább 16 évesnek kell "
+"lenned ahhoz, hogy hozzájárulj a személyazonosításra alkalmas adataidnak az "
+"országodban történő feldolgozásához (egyes országokban megengedhetjük, hogy "
+"ezt a gyermek szülője vagy gyámja végezze el az gyermek nevében).\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -135,7 +189,11 @@ msgstr "Jelen Adatvédelmi Szabályzat Változásai"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.\n"
-msgstr "Időről időre frissíthetjük Adatvédelmi szabályzatunkat, ezért javasoljuk hogy rendszeresen ellenőrizd ezt az oldalt bármilyen változás miatt. Minden változásról az új adatvédelmi szabályzat közzétételével ezen az oldalon értesítünk.\n"
+msgstr ""
+"Időről időre frissíthetjük Adatvédelmi szabályzatunkat, ezért javasoljuk "
+"hogy rendszeresen ellenőrizd ezt az oldalt bármilyen változás miatt. Minden "
+"változásról az új adatvédelmi szabályzat közzétételével ezen az oldalon "
+"értesítünk.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -162,7 +220,11 @@ msgstr ""
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com)\n"
-msgstr "Ezt az adatvédelmi irányelveket tartalmazó oldalt a [privacypolicytemplate.net](https://privacypolicytemplate.net) webhelyen hozták létre, és az [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com) módosította/hozta létre.\n"
+msgstr ""
+"Ezt az adatvédelmi irányelveket tartalmazó oldalt a [privacypolicytemplate."
+"net](https://privacypolicytemplate.net) webhelyen hozták létre, és az [App "
+"Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com) "
+"módosította/hozta létre.\n"
 
 #. type: Title #
 #: source/app-librescore/README.md
@@ -334,7 +396,9 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr "> Megjegyzés: Lehetséges hogy feljön majd egy Play Protect üzenet, nyomd meg a legalul lévő `Telepítés mindenképp` gombot\n"
+msgstr ""
+"> Megjegyzés: Lehetséges hogy feljön majd egy Play Protect üzenet, nyomd meg "
+"a legalul lévő `Telepítés mindenképp` gombot\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
@@ -465,7 +529,10 @@ msgstr "1. Telepítse [Tampermonkey](https://www.tampermonkey.net)\n"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
-msgstr "> Megjegyzés: Ha korábban már telepítetted a \"musescore-downloader\", \"mcsz downloader\", \"mcsz downloader\" vagy \"musescore-dl\" nevű script egy régebbi verzióját, távolítsd el a Tampermonkey kezelőfalról.\n"
+msgstr ""
+"> Megjegyzés: Ha korábban már telepítetted a \"musescore-downloader\", \"mcsz"
+" downloader\", \"mcsz downloader\" vagy \"musescore-dl\" nevű script egy "
+"régebbi verzióját, távolítsd el a Tampermonkey kezelőfalról.\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
