@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-08-04 22:22+0000\n"
+"POT-Creation-Date: 2022-08-06 17:25+0000\n"
 "PO-Revision-Date: 2022-07-30 03:53+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/ru/>\n"
