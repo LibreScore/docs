@@ -8,9 +8,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-08-06 17:25+0000\n"
-"PO-Revision-Date: 2022-08-06 17:18+0000\n"
-"Last-Translator: Sámuel Léránt <lerantsamuel@gmail.com>\n"
-"Language-Team: Hungarian <https://librescore.ddns.net/projects/librescore/docs/hu/>\n"
+"PO-Revision-Date: 2022-08-06 21:18+0000\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"Language-Team: Hungarian <https://librescore.ddns.net/projects/librescore/"
+"docs/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -189,7 +190,7 @@ msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Download the LibreScore app\n"
-msgstr "Töltsd le a LibreScore alkalmazást\n"
+msgstr "Töltse le a LibreScore app\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -243,8 +244,9 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. Töltsd le a [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe) fájlt\n"
-"2. Nyisd meg az EXE fájlt a telepítéshez\n"
+"1. Töltse le a [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe) fájlt\n"
+"2. Nyissa meg az EXE fájlt a telepítéshez\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
@@ -266,15 +268,16 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
-"1. Töltsd le a [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg) fájlt\n"
-"2. Nyisd meg a DMG fájlt\n"
-"3. Helyezd az APP fájlt az Alkalmazások mappába a telepítéshez\n"
-"4. Nyomd le a Control billentyűt, és kattints az APP fájlra\n"
-"5. A helyi menüben kattints a `Megnyitás` elemre\n"
-"6. Kattints a `Megnyitás` gombra\n"
-"7. Zárd be a DMG fájlt\n"
-"8. Nyomd le a Control billentyűt, és kattints az DMG fájlra\n"
-"9. A helyi menüben kattints a `Kiadás` elemre\n"
+"1. Töltse le a [LibreScore.dmg](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.dmg) fájlt\n"
+"2. Nyissa meg a DMG fájlt\n"
+"3. Helyezze az APP fájlt az Alkalmazások mappába a telepítéshez\n"
+"4. Nyomja le a Control billentyűt, és kattintson az APP fájlra\n"
+"5. A helyi menüben kattintson a `Megnyitás` elemre\n"
+"6. Kattintson a `Megnyitás` gombra\n"
+"7. Zárja be a DMG fájlt\n"
+"8. Nyomja le a Control billentyűt, és kattintson az DMG fájlra\n"
+"9. A helyi menüben kattintson a `Kiadás` elemre\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
@@ -289,8 +292,9 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. Töltsd le a [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) fájlt\n"
-"2. Nyisd meg az APK fájlt a telepítéshez\n"
+"1. Töltse le a [LibreScore.apk](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.apk) fájlt\n"
+"2. Nyissa meg az APK fájlt a telepítéshez\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -308,7 +312,19 @@ msgstr "dl-librescore"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github minden verzió](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github minden verzió](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Parancssoros+program)](https://www.npmjs.com/package/dl-librescore)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/"
+"dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) "
+"[![Github minden verzió](https://img.shields.io/github/downloads/LibreScore/"
+"app-librescore/total.svg?label=App)](https://github.com/LibreScore/"
+"app-librescore/releases/latest) [![Github minden verzió](https://img.shields."
+"io/github/downloads/LibreScore/dl-librescore/total."
+"svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/"
+"latest) [![npm](https://img.shields.io/npm/dt/dl-"
+"librescore?label=Parancssoros+eszköz)](https://www.npmjs.com/package/dl-"
+"librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -333,12 +349,20 @@ msgid ""
 "| [Command-line tool](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
 "| [Webmscore website](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgstr ""
-"| Program                                                                            | MSCZ | MIDI | MP3 | PDF | Konvertálás |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
-"| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
-"| [App](#app)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
-"| [Userscript](#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-"| [Parancssoros program](#parancssoros-program) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [Webmscore weboldal](#webmscore-weboldal) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| Program                                                                    "
+"        | MSCZ | MIDI | MP3 | PDF | Konvertálás |     | Windows | macOS | "
+"Linux | Android | iOS/iPadOS |\n"
+"| ---------------------------------------------------------------------------"
+"------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | "
+"----- | ------- | ---------- |\n"
+"| [App](#app)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌"
+"         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
+"| [Userscript](#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Parancssoros eszköz](#parancssoros-eszköz) | ❌   | ✔️   | ✔️  | ✔️  | ✔️"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Webmscore webhely](#webmscore-webhely) | ❌   | ❌   | ❌  | ❌  | ✔️"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -347,8 +371,11 @@ msgid ""
 "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
 "> Conversion types include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgstr ""
-"> Megjegyzés: A `Konvertálás` a fájltípus megváltoztatására használható, olyan fájl típusra is konvertálhatsz amiben esetleg nem is tudtad letölteni a kottát.\n"
-"> Ezekre lehet konvertálni: Külön szólamok(szétsztedi különboző fájlba a szólamokat), PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ és MSCX.\n"
+"> Megjegyzés: A `Konvertálás` a fájltípus megváltoztatására használható, "
+"olyan fájl típusra is konvertálhatsz amiben esetleg nem is tudtad letölteni "
+"a kottát.\n"
+"> Ezekre lehet konvertálni: Külön szólamok, PDF, PNG, SVG, MP3, WAV, FLAC, "
+"OGG, MIDI, MusicXML, MSCZ és MSCX.\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -363,8 +390,10 @@ msgid ""
 "1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device\n"
 msgstr ""
-"1. Menj a `app-librescore` repository [OLVASSAEL](https://github.com/LibreScore/app-librescore/blob/master/docs/hu/OLVASSAEL.md#telepítés) oldalára\n"
-"2. Kövesd a telepítési utasításokat az eszközödhöz\n"
+"1. Menjen aa `app-librescore` tárhely [OLVASSAEL](https://github.com/"
+"LibreScore/app-librescore/blob/master/docs/hu/OLVASSAEL.md#telepítés) "
+"oldalára\n"
+"2. Kövesse a telepítési utasításokat az eszközödhöz\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -380,9 +409,11 @@ msgid ""
 ">\n"
 "> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](#bookmark) instructions instead.\n"
 msgstr ""
-"> Megjegyzés: Ha iPhone vagy iPad eszközöd van, akkor kövesd [ezeket](#shortcut) az utasításokat.\n"
+"> Megjegyzés: Ha eszköze iOS vagy iPadOS operációs rendszert használ, "
+"kövesse a [Parancsok](#parancsok) utasításokat.\n"
 ">\n"
-"> Megjegyzés: Ha nem tudod telepíteni a böngésző bővítményt az eszközödön, akkor a [Könyvjelző](#bookmark) utasításokat kövesd.\n"
+"> Megjegyzés: Ha nem tud böngésző bővítményeket telepíteni eszközére, "
+"kövesse a [Könyvjelző](#könyvjelző) utasításokat.\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
@@ -394,7 +425,7 @@ msgstr "Böngésző bővítmény"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "1. Install [Tampermonkey](https://www.tampermonkey.net)\n"
-msgstr "1. Telepítés [Tampermonkey](https://www.tampermonkey.net)\n"
+msgstr "1. Telepítse [Tampermonkey](https://www.tampermonkey.net)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -409,14 +440,16 @@ msgid ""
 "2. Go to the latest [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) file\n"
 "3. Press the Install button\n"
 msgstr ""
-"2. Keresd meg a legfrissebb [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) fájlt\n"
-"3. Nyomd meg a Telepítés gombot\n"
+"2. Nyissa meg a legújabb [dl-librescore.user.js](https://github.com/"
+"LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) "
+"fájlt\n"
+"3. Nyomja meg a Telepítés gombot\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Shortcut"
-msgstr "Parancs"
+msgstr "Parancsok"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -426,9 +459,13 @@ msgid ""
 "2. In Safari, when viewing a song on MuseScore, tap <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
 "3. Tap the LibreScore shortcut to activate the extension\n"
 msgstr ""
-"1. Telepítsd a [LibreScore parancs-ot](https://www.icloud.com/shortcuts/901d8778d2da4f7db9272d3b2232d0fe)\n"
-"2. A Safari-ban, amikor nézel egy kottát a MuseScore weboldalon nyomj rá <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
-"3. Nyomj rá a LibreScore parancs-ra a bővítmény aktiválásához\n"
+"1. Telepítse a [LibreScore parancsot](https://www.icloud.com/shortcuts/"
+"901d8778d2da4f7db9272d3b2232d0fe)\n"
+"2. A Safariban, amikor egy dalt néz meg a MuseScore-on, érintse meg a <img "
+"src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/"
+"61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height="
+"\"16\">\n"
+"3. Érintse meg a LibreScore parancsot a bővítmény aktiválásához\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -439,10 +476,14 @@ msgid ""
 "> 1. Go to Settings <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Shortcuts > Advanced\n"
 "> 2. Turn on Allow Running Scripts\n"
 msgstr ""
-"> Megjegyzés: Mielőtt futtatni tudod a JavaScript-et a paranccsal, engedélyezned kell a Szkriptek futtatását.\n"
+"> Megjegyzés: Mielőtt futtathatna JavaScriptet egy parancsból, be kell "
+"kapcsolnia Szkriptek futtatásának engedélyezése lehetőséget.\n"
 ">\n"
-"> 1. Menj a beállításokba <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Parancsok > Haladó\n"
-"> 2. Engedélyezd a \"Szkriptek futtatásának engedélyezése\" lehetőséget\n"
+"> 1. Válassza a Beállítások <img src=\"https://help.apple.com/assets/"
+"61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
+"492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Parancsok > Haladó "
+"menüpontot.\n"
+"> 2. Kapcsolja be a Szkriptek futtatásának engedélyezése lehetőséget.\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
@@ -460,17 +501,21 @@ msgid ""
 "4. Save the bookmark\n"
 "5. When viewing a song on MuseScore, click the bookmark to activate the extension\n"
 msgstr ""
-"1. Adj hozzá egy új könyvjelzőt (általában Ctrl+D)\n"
-"2. A Név mezőbe ezt add meg: `LibreScore`\n"
-"3. Az URL mezőbe a következőt add meg: `javascript:(function () {let code = document.createElement('script');code.src = 'https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js';document.body.appendChild(code);}())`\n"
-"4. Mentsd el a könyvjelzőt\n"
-"5. Amikor megnyitottál egy kottát MuseScore-on, akkor kattints a könyvjelzőre a bővítmény aktiválásához\n"
+"1. Hozzon létre egy új könyvjelzőt (általában Ctrl+D)\n"
+"2. Írja be a `LibreScore` szót a Név mezőbe\n"
+"3. Írja be a következőt `javascript:(function () {let code = document."
+"createElement('script');code.src = 'https://github.com/LibreScore/"
+"dl-librescore/releases/latest/download/dl-librescore.user.js';document.body."
+"appendChild(code);}())` az URL mezőben\n"
+"4. Mentse el a könyvjelzőt\n"
+"5. Amikor egy dalt néz meg a MuseScore-on, kattintson a könyvjelzőre a "
+"bővítmény aktiválásához\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Command-line tool"
-msgstr "Parancssoros program"
+msgstr "Parancssoros eszköz"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -480,15 +525,16 @@ msgid ""
 "2. Open a terminal (do _not_ open the Node.js application)\n"
 "3. Type `npx dl-librescore@latest`, then press `Enter ↵`\n"
 msgstr ""
-"1. Telepítsd a [Node.js LTS-t](https://nodejs.org)\n"
-"2. Nyisd meg a terminált (_NE_ nyisd meg a Node.js programot)\n"
-"3. Írd be hogy: `npx dl-librescore@latest`, majd nyomj`Enter-t ↵`\n"
+"1. Telepítse a [Node.js LTS-t](https://nodejs.org)\n"
+"2. Nyisson meg egy terminált (_ne_ nyissa meg a Node.js alkalmazást)\n"
+"3. Írja be, hogy `npx dl-librescore@latest`, majd nyomja meg az `Enter ↵` "
+"billentyűt\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Webmscore website"
-msgstr "Webmscore weboldal"
+msgstr "Webmscore webhely"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -500,7 +546,7 @@ msgstr "1. [Webmscore](https://librescore.github.io) megnyitása\n"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: You can access the website offline by installing it as a PWA\n"
-msgstr "> Megjegyzés: Hozzáférhetsz a weboldalhoz internet nélkül is, ha telepíted PWA-ként\n"
+msgstr "> Megjegyzés: A webhelyet offline is elérheti, ha PWA-ként telepíti\n"
 
 #. type: Title ##
 #: source/dl-librescore/README.md source/docs/README.md
@@ -517,9 +563,9 @@ msgid ""
 "2. `npm install` to install packages\n"
 "3. `npm run build` to build\n"
 msgstr ""
-"1. [Node.js LTS](https://nodejs.org) telepítése\n"
-"2. Használd az `npm install` parancsot a csomagok telepítéséhez\n"
-"3. Használd az `npm run build` parancsot a program összeállításához.\n"
+"1. Telepítse a [Node.js LTS-t](https://nodejs.org)\n"
+"2. `npm install` a csomagok telepítéséhez\n"
+"3. `npm run build` a fordításhoz\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -528,14 +574,14 @@ msgid ""
 "- Install `./dist/main.user.js` with Tampermonkey\n"
 "- `node ./dist/cli.js` to run command-line tool\n"
 msgstr ""
-"- Használd a `./dist/main.user.js` parancsot a Tampermonkey-val való telepítéshez\n"
-"- Használd a `node ./dist/cli.js` parancsot, a Parancssoros program futtatásához\n"
+"- Telepítse a `./dist/main.user.js` fájlt a Tampermonkey segítségével\n"
+"- `node ./dist/cli.js` a parancssori eszköz futtatásához\n"
 
 #. type: Title #
 #: source/docs/README.md
 #, no-wrap
 msgid "LibreScore Documentation"
-msgstr "LibreScore Dokumentáció"
+msgstr "LibreScore dokumentáció"
 
 #. type: Plain text
 #: source/docs/README.md
