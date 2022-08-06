@@ -8,9 +8,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-08-04 22:22+0000\n"
-"PO-Revision-Date: 2022-07-30 05:14+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Hungarian <https://librescore.ddns.net/projects/librescore/docs/hu/>\n"
+"PO-Revision-Date: 2022-08-06 17:18+0000\n"
+"Last-Translator: Sámuel Léránt <lerantsamuel@gmail.com>\n"
+"Language-Team: Hungarian <https://librescore.ddns.net/projects/librescore/"
+"docs/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -38,127 +39,192 @@ msgstr "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***NE MÓDOSÍTS SEMMIT E SOR FELETT**
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Adatvédelmi Irányelvek"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "LibreScore built the LibreScore app as a Free app. This SERVICE is provided by LibreScore at no cost and is intended for use as is.\n"
 msgstr ""
+"LibreScore a LibreScore programot ingyenes programnak fejlesztette. Ezt a "
+"SZOLGÁLTATÁST a LibreScore díjmentesen biztosítja, és ingyenes "
+"felhasználásra szánja.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\n"
 msgstr ""
+"Az oldal célja, hogy tájékoztassuk a látogatókat a személyes adatok "
+"gyűjtésére, felhasználására és közzétételére vonatkozó irányelveinkről, ha "
+"valaki úgy dönt, hogy igénybe veszi Szolgáltatásunkat.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\n"
 msgstr ""
+"Ha úgy döntesz, hogy igénybe veszed a Szolgáltatásunkat, akkor elfogadod a "
+"jelen szabályzatot az információk gyűjtésére és felhasználására vonatkozóan. "
+"Az általunk gyűjtött Személyes adatokat a Szolgáltatás nyújtására és "
+"fejlesztésére használjuk fel. Az adataidat csak az Adatvédelmi szabályzatban "
+"leírtak szerint használjuk fel és osztjuk meg.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at LibreScore unless otherwise defined in this Privacy Policy.\n"
 msgstr ""
+"A jelen Adatvédelmi szabályzatban használt kifejezések jelentése megegyezik "
+"a Felhasználási Feltételeinkben szereplő kifejezésekkel, amelyek a "
+"LibreScore-on érhetőek el, hacsak a jelen Adatvédelmi szabályzat másként nem "
+"rendelkezik.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Information Collection and Use"
-msgstr ""
+msgstr "Információgyűjtés és -felhasználás"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.\n"
 msgstr ""
+"A felhasználói élmény fokozása érdekében Szolgáltatásunk használata során "
+"megkövetelhetjük, hogy megadj számunkra bizonyos személyazonosításra "
+"alkalmas adatokat. Az általunk kért információkat megőrizzük, és a jelen "
+"adatvédelmi szabályzatban leírtak szerint használjuk fel.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Log Data"
-msgstr ""
+msgstr "Naplózott Adatok"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\\\"IP\\\") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.\n"
 msgstr ""
+"Tájékoztatunk, hogy minden alkalommal, amikor szolgáltatásunkat használod, "
+"az alkalmazásban fellépő hiba esetén adatokat és információkat gyűjtünk ("
+"harmadik féltől származó termékeken keresztül) az Te telefonodra Naplóadatok "
+"néven. Ezek a naplóadatok tartalmazhatnak olyan információkat, mint például "
+"az eszköz Internet Protokoll (\\\"IP\\\") címe, az eszköz neve, az operációs "
+"rendszer verziója, az alkalmazás beállításai a Szolgáltatásunk "
+"használatakor, a Szolgáltatás használatának időpontja és dátuma, valamint "
+"egyéb statisztikák.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Security"
-msgstr ""
+msgstr "Biztonság"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.\n"
 msgstr ""
+"Nagyra értékeljük a bizalmadat a személyes adataidnak rendelkezésünkre "
+"bocsátásával kapcsolatban, ezért igyekszünk kereskedelmileg elfogadható "
+"eszközöket alkalmazni azok védelmére. De ne feledd, hogy az interneten "
+"keresztüli adattovábbítás vagy az elektronikus adattárolás egyik módja sem "
+"100%-ban biztonságos és megbízható, és nem tudjuk garantálni az abszolút "
+"biztonságot.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Links to Other Sites"
-msgstr ""
+msgstr "Hivatkozások más oldalakra"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n"
 msgstr ""
+"Ez a szolgáltatás más webhelyekre mutató hivatkozásokat tartalmazhat. Ha "
+"rákattintasz egy harmadik fél linkjére, akkor az adott webhelyre leszel "
+"átírányítva. Vedd figyelembe, hogy ezeket a külső oldalakat nem mi "
+"üzemeltetjük. Ezért nyomatékosan javasoljuk, hogy tekintsd át ezen "
+"weboldalak adatvédelmi szabályzatát. Nincs ellenőrzésünk és nem vállalunk "
+"felelősséget harmadik felek webhelyeinek vagy szolgáltatásainak tartalma, "
+"adatvédelmi irányelvei vagy gyakorlata felett.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Children's Privacy"
-msgstr ""
+msgstr "Gyermekek Személyes Adatai"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We do not knowingly collect personally identifiable information from children. We encourage all children to never submit any personally identifiable information through the Application and/or Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).\n"
 msgstr ""
+"Tudatosan nem gyűjtünk személyazonosításra alkalmas adatokat gyermekektől. "
+"Arra bátorítunk minden gyermeket, hogy soha ne adjon be semmilyen "
+"személyazonosításra alkalmas információt az Alkalmazáson és/vagy a "
+"Szolgáltatásokon keresztül. Arra biztatjuk a szülőket és törvényes gyámokat, "
+"hogy kísérjék figyelemmel gyermekeik internethasználatát, és segítsék elő a "
+"jelen Szabályzat érvényesítését azáltal, hogy utasítják gyermekeiket, hogy "
+"engedélyük nélkül soha ne adjanak személyazonosításra alkalmas adatokat az "
+"Alkalmazáson és/vagy a Szolgáltatásokon keresztül. Ha okkal feltételezed, "
+"hogy egy gyermek személyazonosításra alkalmas adatokat bocsátott "
+"rendelkezésünkre az Alkalmazáson és/vagy a Szolgáltatásokon keresztül, "
+"kérlek, vedd fel velünk a kapcsolatot. Ezenkívül legalább 16 évesnek kell "
+"lenned ahhoz, hogy hozzájárulj a személyazonosításra alkalmas adataidnak az "
+"országodban történő feldolgozásához (egyes országokban megengedhetjük, hogy "
+"ezt a gyermek szülője vagy gyámja végezze el az gyermek nevében).\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Changes to This Privacy Policy"
-msgstr ""
+msgstr "Jelen Adatvédelmi Szabályzat Változásai"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.\n"
 msgstr ""
+"Időről időre frissíthetjük Adatvédelmi szabályzatunkat, ezért javasoljuk "
+"hogy rendszeresen ellenőrizd ezt az oldalt bármilyen változás miatt. Minden "
+"változásról az új adatvédelmi szabályzat közzétételével ezen az oldalon "
+"értesítünk.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This policy is effective as of 2021-11-01\n"
-msgstr ""
+msgstr "Ez a szabályzat 2021-11-01-től hatályos\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Contact Us"
-msgstr ""
+msgstr "Lépj velünk kapcsolatba"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [librescore@gmail.com](mailto:librescore@gmail.com).\n"
 msgstr ""
+"Ha bármilyen kérdésed vagy javaslatod van az adatvédelmi szabályzatunkkal "
+"kapcsolatban, ne habozz kapcsolatba lépni velünk a [librescore@gmail."
+"com](mailto:librescore@gmail.com) címen.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com)\n"
 msgstr ""
+"Ezt az adatvédelmi irányelveket tartalmazó oldalt a [privacypolicytemplate."
+"net](https://privacypolicytemplate.net) webhelyen hozták létre, és az [App "
+"Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com) "
+"módosította/hozta létre.\n"
 
 #. type: Title #
 #: source/app-librescore/README.md
@@ -189,7 +255,7 @@ msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Download the LibreScore app\n"
-msgstr "Töltse le a LibreScore app\n"
+msgstr "Töltsd le a LibreScore alkalmazást\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -243,8 +309,9 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. Töltse le a [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe) fájlt\n"
-"2. Nyissa meg az EXE fájlt a telepítéshez\n"
+"1. Töltsd le a [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe) fájlt\n"
+"2. Nyisd meg az EXE fájlt a telepítéshez\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
@@ -266,15 +333,16 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
-"1. Töltse le a [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg) fájlt\n"
-"2. Nyissa meg a DMG fájlt\n"
-"3. Helyezze az APP fájlt az Alkalmazások mappába a telepítéshez\n"
-"4. Nyomja le a Control billentyűt, és kattintson az APP fájlra\n"
-"5. A helyi menüben kattintson a `Megnyitás` elemre\n"
-"6. Kattintson a `Megnyitás` gombra\n"
-"7. Zárja be a DMG fájlt\n"
-"8. Nyomja le a Control billentyűt, és kattintson az DMG fájlra\n"
-"9. A helyi menüben kattintson a `Kiadás` elemre\n"
+"1. Töltsd le a [LibreScore.dmg](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.dmg) fájlt\n"
+"2. Nyisd meg a DMG fájlt\n"
+"3. Helyezd az APP fájlt az Alkalmazások mappába a telepítéshez\n"
+"4. Nyomd le a Control billentyűt, és kattints az APP fájlra\n"
+"5. A helyi menüben kattints a `Megnyitás` elemre\n"
+"6. Kattints a `Megnyitás` gombra\n"
+"7. Zárd be a DMG fájlt\n"
+"8. Nyomd le a Control billentyűt, és kattints az DMG fájlra\n"
+"9. A helyi menüben kattints a `Kiadás` elemre\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
@@ -289,14 +357,17 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. Töltse le a [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) fájlt\n"
-"2. Nyissa meg az APK fájlt a telepítéshez\n"
+"1. Töltsd le a [LibreScore.apk](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.apk) fájlt\n"
+"2. Nyisd meg az APK fájlt a telepítéshez\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr "> Megjegyzés: Lehetséges hogy feljön majd egy Play Protect üzenet, nyomd meg a `Telepítés mindenképp` gombot legalul\n"
+msgstr ""
+"> Megjegyzés: Lehetséges hogy feljön majd egy Play Protect üzenet, nyomd meg "
+"a legalul lévő `Telepítés mindenképp` gombot\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
@@ -347,8 +418,12 @@ msgid ""
 "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
 "> Conversion types include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgstr ""
-"> Megjegyzés: A `Konvertálás` a fájltípus megváltoztatására használható, olyan fájl típusra is konvertálhatsz amiben esetleg nem is tudtad letölteni a kottát.\n"
-"> Ezekre lehet konvertálni: Külön szólamok, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ és MSCX.\n"
+"> Megjegyzés: A `Konvertálás` a fájltípus megváltoztatására használható, "
+"olyan fájl típusra is konvertálhatsz amiben esetleg nem is tudtad letölteni "
+"a kottát.\n"
+"> Ezekre lehet konvertálni: Külön szólamok(szétsztedi különboző fájlba a "
+"szólamokat), PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ és "
+"MSCX.\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -363,7 +438,9 @@ msgid ""
 "1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device\n"
 msgstr ""
-"1. Menjen a `app-librescore` repository [OLVASSAEL](https://github.com/LibreScore/app-librescore/blob/master/docs/hu/OLVASSAEL.md#telepítés) oldalára\n"
+"1. Menj a `app-librescore` repository [OLVASSAEL](https://github.com/"
+"LibreScore/app-librescore/blob/master/docs/hu/OLVASSAEL.md#telepítés) "
+"oldalára\n"
 "2. Kövesd a telepítési utasításokat az eszközödhöz\n"
 
 #. type: Title ###
@@ -380,24 +457,32 @@ msgid ""
 ">\n"
 "> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](#bookmark) instructions instead.\n"
 msgstr ""
+"> Megjegyzés: Ha iPhone vagy iPad eszközöd van, akkor kövesd "
+"[ezeket](#shortcut) az utasításokat.\n"
+">\n"
+"> Megjegyzés: Ha nem tudod telepíteni a böngésző bővítményt az eszközödön, "
+"akkor a [Könyvjelző](#bookmark) utasításokat kövesd.\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Browser extension"
-msgstr ""
+msgstr "Böngésző bővítmény"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "1. Install [Tampermonkey](https://www.tampermonkey.net)\n"
-msgstr ""
+msgstr "1. Telepítés [Tampermonkey](https://www.tampermonkey.net)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
 msgstr ""
+"> Megjegyzés: Ha korábban már telepítetted a \"musescore-downloader\", \"mcsz"
+" downloader\", \"mcsz downloader\" vagy \"musescore-dl\" nevű script egy "
+"régebbi verzióját, távolítsd el a Tampermonkey kezelőfalról.\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -406,12 +491,16 @@ msgid ""
 "2. Go to the latest [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) file\n"
 "3. Press the Install button\n"
 msgstr ""
+"2. Keresd meg a legfrissebb [dl-librescore.user.js](https://github.com/"
+"LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) "
+"fájlt\n"
+"3. Nyomd meg a Telepítés gombot\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Shortcut"
-msgstr ""
+msgstr "Parancs"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -421,6 +510,13 @@ msgid ""
 "2. In Safari, when viewing a song on MuseScore, tap <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
 "3. Tap the LibreScore shortcut to activate the extension\n"
 msgstr ""
+"1. Telepítsd a [LibreScore parancs-ot](https://www.icloud.com/shortcuts/"
+"901d8778d2da4f7db9272d3b2232d0fe)\n"
+"2. A Safari-ban, amikor nézel egy kottát a MuseScore weboldalon nyomj rá "
+"<img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/"
+"61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height="
+"\"16\">\n"
+"3. Nyomj rá a LibreScore parancs-ra a bővítmény aktiválásához\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -431,12 +527,19 @@ msgid ""
 "> 1. Go to Settings <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Shortcuts > Advanced\n"
 "> 2. Turn on Allow Running Scripts\n"
 msgstr ""
+"> Megjegyzés: Mielőtt futtatni tudod a JavaScript-et a paranccsal, "
+"engedélyezned kell a Szkriptek futtatását.\n"
+">\n"
+"> 1. Menj a beállításokba <img src=\"https://help.apple.com/assets/"
+"61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
+"492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Parancsok > Haladó\n"
+"> 2. Engedélyezd a \"Szkriptek futtatásának engedélyezése\" lehetőséget\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Bookmark"
-msgstr ""
+msgstr "Könyvjelző"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -448,12 +551,21 @@ msgid ""
 "4. Save the bookmark\n"
 "5. When viewing a song on MuseScore, click the bookmark to activate the extension\n"
 msgstr ""
+"1. Adj hozzá egy új könyvjelzőt (általában Ctrl+D)\n"
+"2. A Név mezőbe ezt add meg: `LibreScore`\n"
+"3. Az URL mezőbe a következőt add meg: `javascript:(function () {let code = "
+"document.createElement('script');code.src = 'https://github.com/LibreScore/"
+"dl-librescore/releases/latest/download/dl-librescore.user.js';document.body."
+"appendChild(code);}())`\n"
+"4. Mentsd el a könyvjelzőt\n"
+"5. Amikor megnyitottál egy kottát MuseScore-on, akkor kattints a "
+"könyvjelzőre a bővítmény aktiválásához\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Command-line tool"
-msgstr ""
+msgstr "Parancssoros program"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -463,31 +575,36 @@ msgid ""
 "2. Open a terminal (do _not_ open the Node.js application)\n"
 "3. Type `npx dl-librescore@latest`, then press `Enter ↵`\n"
 msgstr ""
+"1. Telepítsd a [Node.js LTS-t](https://nodejs.org)\n"
+"2. Nyisd meg a terminált (_NE_ nyisd meg a Node.js programot)\n"
+"3. Írd be hogy: `npx dl-librescore@latest`, majd nyomj`Enter-t ↵`\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Webmscore website"
-msgstr ""
+msgstr "Webmscore weboldal"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "1. Open [Webmscore](https://librescore.github.io)\n"
-msgstr ""
+msgstr "1. [Webmscore](https://librescore.github.io) megnyitása\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: You can access the website offline by installing it as a PWA\n"
 msgstr ""
+"> Megjegyzés: Hozzáférhetsz a weboldalhoz internet nélkül is, ha telepíted "
+"PWA-ként\n"
 
 #. type: Title ##
 #: source/dl-librescore/README.md source/docs/README.md
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Building"
-msgstr ""
+msgstr "Összeállítás"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -497,6 +614,9 @@ msgid ""
 "2. `npm install` to install packages\n"
 "3. `npm run build` to build\n"
 msgstr ""
+"1. [Node.js LTS](https://nodejs.org) telepítése\n"
+"2. Használd az `npm install` parancsot a csomagok telepítéséhez\n"
+"3. Használd az `npm run build` parancsot a program összeállításához.\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -505,66 +625,80 @@ msgid ""
 "- Install `./dist/main.user.js` with Tampermonkey\n"
 "- `node ./dist/cli.js` to run command-line tool\n"
 msgstr ""
+"- Használd a `./dist/main.user.js` parancsot a Tampermonkey-val való "
+"telepítéshez\n"
+"- Használd a `node ./dist/cli.js` parancsot, a Parancssoros program "
+"futtatásához\n"
 
 #. type: Title #
 #: source/docs/README.md
 #, no-wrap
 msgid "LibreScore Documentation"
-msgstr ""
+msgstr "LibreScore Dokumentáció"
 
 #. type: Plain text
 #: source/docs/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\n"
 msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/"
+"docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\n"
 
 #. type: Plain text
 #: source/docs/README.md
 #, no-wrap
 msgid "Documentation translations\n"
-msgstr ""
+msgstr "Dokumentáció fordításai\n"
 
 #. type: Title ##
 #: source/docs/README.md
 #, no-wrap
 msgid "Adding languages"
-msgstr ""
+msgstr "Nyelv hozzáadása"
 
 #. type: Plain text
 #: source/docs/README.md
 #, no-wrap
 msgid "1. Create a `XX.po` file, where `XX` is a language code (ex: `pt` or `zh-Hant`) in the `po/` directory\n"
 msgstr ""
+"1. Készíts egy `XX.po` fájlt, ahol az `XX` helyére a nyelv kódját "
+"helyettesítsd be(például: `pt` vagy `zh-Hant`) a `po/` mappába\n"
 
 #. type: Plain text
 #: source/docs/README.md
 #, no-wrap
 msgid "1. `./po4a.sh`\n"
-msgstr ""
+msgstr "1. `./po4a.sh`\n"
 
 #. type: Title #
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Webmscore PWA"
-msgstr ""
+msgstr "Webmscore PWA"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "The official frontend for the webmscore tool: <https://librescore.github.io>\n"
 msgstr ""
+"A webmscore eszköz hivatalos weboldala: <https://librescore.github.io>\n"
 
 #. type: Title ##
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Developing"
-msgstr ""
+msgstr "Fejlesztés"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:\n"
 msgstr ""
+"Miután csináltál egy új projektet és telepítetted a függőségeket az `npm "
+"install` (vagy az `pnpm install` vagy `yarn`) paranccsal, indítsd el a "
+"fejlesztői szervert:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
@@ -575,30 +709,41 @@ msgid ""
 "# or start the server and open the app in a new browser tab\n"
 "npm run dev -- --open\n"
 msgstr ""
+"npm run dev\n"
+"\n"
+"# vagy indítsd el a szervert és nyisd meg a programot egy új böngésző "
+"ablakban\n"
+"npm run dev -- --open\n"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:\n"
 msgstr ""
+"Mielőtt készítenél egy felhasználóknak szánt verziót a programodnak, "
+"telepítsd az [adaptert](https://kit.svelte.dev/docs#adapters) a kiválasztott "
+"felhasználói környezetnek. Utána:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "npm run build\n"
-msgstr ""
+msgstr "npm run build\n"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.\n"
 msgstr ""
+"> Az adapter telepítésétől függetlenül megtekintheted a programod előnézetét "
+"a `npm run preview` paranccsal. Ez _NEM_ javasolt a felhasználóknak szánt "
+"programod helyettesítésére.\n"
 
 #. type: Hash Value: PRIVACY-POLICY
 #: source/titles/titles.yaml
 #, no-wrap
 msgid "PRIVACY-POLICY"
-msgstr ""
+msgstr "ADATVÉDELMI IRÁNYELVEK"
 
 #. type: Hash Value: README
 #: source/titles/titles.yaml
