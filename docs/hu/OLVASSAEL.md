@@ -4,7 +4,7 @@
 
 [//]: # "\+\_==!|!=_=!|!==_/+/ ***NE MÓDOSÍTS SEMMIT E SOR FELETT*** /+/^^+#|#+^+#|#+^^\+\"
 
-# LibreScore Dokumentáció
+# LibreScore dokumentáció
 
 <div align="center">
 
