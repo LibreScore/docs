@@ -8,9 +8,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-08-06 21:19+0000\n"
-"PO-Revision-Date: 2022-08-06 21:18+0000\n"
+"PO-Revision-Date: 2022-08-07 00:52+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Hungarian <https://librescore.ddns.net/projects/librescore/docs/hu/>\n"
+"Language-Team: Hungarian <https://librescore.ddns.net/projects/librescore/"
+"docs/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -38,7 +39,7 @@ msgstr "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***NE MÓDOSÍTS SEMMIT E SOR FELETT**
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Privacy Policy"
-msgstr "Adatvédelmi Irányelvek"
+msgstr "Adatvédelmi irányelvek"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -347,8 +348,11 @@ msgid ""
 "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
 "> Conversion types include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgstr ""
-"> Megjegyzés: A `Konvertálás` a fájltípus megváltoztatására használható, olyan fájl típusra is konvertálhatsz amiben esetleg nem is tudtad letölteni a kottát.\n"
-"> Ezekre lehet konvertálni: Külön szólamok, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ és MSCX.\n"
+"> Megjegyzés: A `Konvertálás` a fájltípus megváltoztatására használható, "
+"olyan fájl típusra is konvertálhatsz amiben esetleg nem is tudtad letölteni "
+"a kottát.\n"
+"> Ezekre lehet konvertálni: Külön kivonatok, PDF, PNG, SVG, MP3, WAV, FLAC, "
+"OGG, MIDI, MusicXML, MSCZ és MSCX.\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -541,7 +545,11 @@ msgstr "LibreScore dokumentáció"
 #: source/docs/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/"
+"docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\n"
 
 #. type: Plain text
 #: source/docs/README.md
@@ -559,7 +567,9 @@ msgstr "Nyelv hozzáadása"
 #: source/docs/README.md
 #, no-wrap
 msgid "1. Create a `XX.po` file, where `XX` is a language code (ex: `pt` or `zh-Hant`) in the `po/` directory\n"
-msgstr "1. Készíts egy `XX.po` fájlt, ahol az `XX` helyére a nyelv kódját helyettesítsd be(például: `pt` vagy `zh-Hant`) a `po/` mappába\n"
+msgstr ""
+"1. Hozzon létre egy \"XX.po\" fájlt, ahol az `XX` egy nyelvi kód (pl. `pt` "
+"vagy `zh-Hant`) a `po/` mappában\n"
 
 #. type: Plain text
 #: source/docs/README.md
@@ -577,7 +587,8 @@ msgstr "Webmscore PWA"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "The official frontend for the webmscore tool: <https://librescore.github.io>\n"
-msgstr "A webmscore eszköz hivatalos weboldala: <https://librescore.github.io>\n"
+msgstr ""
+"A webmscore eszköz hivatalos kezelőfelülete: <https://librescore.github.io>\n"
 
 #. type: Title ##
 #: source/webmscore-pwa/README.md
@@ -589,7 +600,10 @@ msgstr "Fejlesztés"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:\n"
-msgstr "Miután csináltál egy új projektet és telepítetted a függőségeket az `npm install` (vagy az `pnpm install` vagy `yarn`) paranccsal, indítsd el a fejlesztői szervert:\n"
+msgstr ""
+"Miután csináltál egy új projektet és telepítetted a függőségeket az `npm "
+"install` (vagy az `pnpm install` vagy `yarn`) paranccsal, indítsd el egy "
+"fejlesztői szervert:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
@@ -602,14 +616,18 @@ msgid ""
 msgstr ""
 "npm run dev\n"
 "\n"
-"# vagy indítsd el a szervert és nyisd meg a programot egy új böngésző ablakban\n"
+"# vagy indítsa el a szervert, és nyissa meg az alkalmazást egy új "
+"böngészőlapon\n"
 "npm run dev -- --open\n"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:\n"
-msgstr "Mielőtt készítenél egy felhasználóknak szánt verziót a programodnak, telepítsd az [adaptert](https://kit.svelte.dev/docs#adapters) a kiválasztott felhasználói környezetnek. Utána:\n"
+msgstr ""
+"Mielőtt létrehozná az alkalmazás általános elérhetőségi kiadását, telepítsen "
+"egy [adaptert](https://kit.svelte.dev/docs#adapters) a célkörnyezethez. "
+"Utána:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
@@ -621,13 +639,17 @@ msgstr "npm run build\n"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.\n"
-msgstr "> Az adapter telepítésétől függetlenül megtekintheted a programod előnézetét a `npm run preview` paranccsal. Ez _NEM_ javasolt a felhasználóknak szánt programod helyettesítésére.\n"
+msgstr ""
+"> Megtekintheti a most elkészített alkalmazás előnézetét az `npm run preview`"
+" segítségével, függetlenül attól, hogy telepített-e adaptert. Ezt _nem_ "
+"szabad arra használni, hogy általánosan elérhető állapotban jelenítse meg az "
+"alkalmazást.\n"
 
 #. type: Hash Value: PRIVACY-POLICY
 #: source/titles/titles.yaml
 #, no-wrap
 msgid "PRIVACY-POLICY"
-msgstr "ADATVÉDELMI IRÁNYELVEK"
+msgstr "ADATVÉDELMI-IRÁNYELVEK"
 
 #. type: Hash Value: README
 #: source/titles/titles.yaml
