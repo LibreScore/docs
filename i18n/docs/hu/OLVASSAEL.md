@@ -16,7 +16,7 @@ Dokumentáció fordításai
 
 ## Nyelv hozzáadása
 
-1. Készíts egy `XX.po` fájlt, ahol az `XX` helyére a nyelv kódját helyettesítsd be(például: `pt` vagy `zh-Hant`) a `po/` mappába
+1. Hozzon létre egy "XX.po" fájlt, ahol az `XX` egy nyelvi kód (pl. `pt` vagy `zh-Hant`) a `po/` mappában
 
 ## Összeállítás
 
