@@ -27,6 +27,7 @@ jobs:
               run:  |
                   mkdir $HOME/repos
                   echo "docs\ndl-librescore\napp-librescore\nwebmscore-pwa" | xargs -I {} bash -c "curl -d '{\"lock\":\"true\"}' -H 'Content-Type: application/json' -H 'Authorization: Token ${{ secrets.WEBLATE_TOKEN }}' https://librescore.ddns.net/api/components/librescore/{}/lock/"
+                  curl -d '{"operation":"commit"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://librescore.ddns.net/api/components/librescore/repository/
                   curl -d '{"operation":"push"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://librescore.ddns.net/api/components/librescore/repository/
                   curl -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/${{ secrets.LIBRESCORE_USER }}:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -I {} bash -c "if [[ {} =~ /(docs|dl-librescore|app-librescore|webmscore-pwa).git$ ]]; then git -C $HOME/repos clone {} --single-branch --no-tags --depth=1 ; fi"
                   rm -R -f $HOME/repos/*/docs
