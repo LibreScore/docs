@@ -6,14 +6,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-09-18 09:46+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-09-19 03:45+0000\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"Language-Team: Turkish <https://librescore.ddns.net/projects/librescore/docs/"
+"tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -21,7 +25,7 @@ msgstr ""
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "<div dir=\"ltr\" align=\"left\">\n"
-msgstr ""
+msgstr "<div dir=\"ltr\" align=\"left\">\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -186,7 +190,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Download the LibreScore app\n"
-msgstr "LibreScore Uygulamasını İndir\n"
+msgstr "LibreScore uygulamasını indirme\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -199,7 +203,9 @@ msgstr ""
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "> DISCLAIMER: This is not an officially endorsed MuseScore product\n"
-msgstr "> SORUMLULUK REDDİ: Bu, resmi olarak onaylanmış bir MuseScore ürünü değildir\n"
+msgstr ""
+"> SORUMLULUK REDDİ: Bu, resmi olarak onaylanmış bir MuseScore ürünü "
+"değildir\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md
@@ -236,8 +242,9 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. İndir [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
-"2. Kurmak için EXE dosyasını aç\n"
+"1. [LibreScore.exe'yi](https://github.com/LibreScore/app-librescore/releases/"
+"latest/download/LibreScore.exe) indirin\n"
+"2. Yüklemek için EXE dosyasını açın\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
@@ -247,7 +254,7 @@ msgstr "macOS"
 
 #. type: Plain text
 #: source/app-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "1. Download [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
 "2. Open the DMG file\n"
@@ -259,15 +266,16 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
-"1. İndir [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
+"1. [LibreScore.dmg'yi](https://github.com/LibreScore/app-librescore/releases/"
+"latest/download/LibreScore.dmg) indirin\n"
 "2. DMG dosyasını açın\n"
-"3. Kurmak için APP dosyasını Applications (Uygulamalar) Klasörüne Taşıyın\n"
-"4. APP dosyasına Control + Tıklama yapın\n"
-"5. Kısayol menüsünde `Open` 'a tıklayın\n"
-"6. Alttaki `Open` 'a tıklayın\n"
-"7. DMG dosyasını kapayın\n"
-"8. DMG dosyasına Control + Tıklama yapın\n"
-"9. Kısayol menüsünde `Eject` 'e tıklayın\n"
+"3. APP dosyasını yüklemek için Uygulamalar klasörüne taşıyın\n"
+"4. Kontrol tuşuna basarak APP dosyasına tıklayın\n"
+"5. Kısayol menüsünde `Aç`'ı tıklayın\n"
+"6. En alttaki `Aç`'ı tıklayın\n"
+"7. DMG dosyasını kapatın\n"
+"8. Kontrol tuşuna basarak DMG dosyasına tıklayın\n"
+"9. Kısayol menüsünde `Çıkar`'ı tıklayın\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
@@ -282,14 +290,17 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. İndir [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
-"2. Kurmak için APK dosyasını açın\n"
+"1. [LibreScore.apk'yi](https://github.com/LibreScore/app-librescore/releases/"
+"latest/download/LibreScore.apk) indirin\n"
+"2. Yüklemek için APK dosyasını açın\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr "> Not: Play Protect hakkında bir mesaj görünebilir. En Alttaki `Install Anyway` seçeneğine dokunun\n"
+msgstr ""
+"> Not: Play Protect hakkında bir mesaj görünebilir. En alttaki `Yine de "
+"Yükle` seçeneğine dokunun\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
@@ -301,13 +312,24 @@ msgstr "dl-librescore"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/"
+"dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) "
+"[![GitHub Tüm Yayınlar](https://img.shields.io/github/downloads/LibreScore/"
+"app-librescore/total.svg?label=Uygulama)](https://github.com/LibreScore/"
+"app-librescore/releases/latest) [![GitHub Tüm Yayınlar](https://img.shields."
+"io/github/downloads/LibreScore/dl-librescore/total."
+"svg?label=Kullanıcı+yazısı)](https://github.com/LibreScore/dl-librescore/"
+"releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label"
+"=Komut-satırı+aracı)](https://www.npmjs.com/package/dl-librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Download sheet music\n"
-msgstr "Nota indirin\n"
+msgstr "Notalar indirme\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -353,37 +375,42 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Userscript"
-msgstr "Userscript"
+msgstr "Kullanıcı yazısı"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "> Note: If your device is on iOS or iPadOS, please follow the [Shortcut](#shortcut) instructions.\n"
 ">\n"
 "> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](#bookmark) instructions instead.\n"
 msgstr ""
-"> Not: Eğer cihaınız iOS veya iPadOS ise, lütfen [Shortcut](#shortcut) talimatlarını takip edin.\n"
+"> Not: Cihazınız iOS veya iPadOS kullanıyorsa, lütfen [Kestirme](#kestirme) "
+"talimatlarını takip edin.\n"
 ">\n"
-"> Not: Eğer cihazınıza tarayıcı uzantılarını ekleyemiyorsanız, lütfen[Bookmark](#bookmark) talimatlarını takip edin.\n"
+"> Not: Tarayıcı uzantılarını cihazınıza yükleyemiyorsanız, bunun yerine "
+"lütfen [Yer İşaretleri](#yer-işaretleri) talimatlarını takip edin.\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Browser extension"
-msgstr "Tarayıcı Uzantısı"
+msgstr "Tarayıcı uzantısı"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "1. Install [Tampermonkey](https://www.tampermonkey.net)\n"
-msgstr "1. İndir [Tampermonkey](https://www.tampermonkey.net)\n"
+msgstr "1. [Tampermonkey'i](https://www.tampermonkey.net) yükleyin\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
-msgstr "> Not: Eğer zaten \"musescore-downloader\", \"mcsz downloader\", ya da \"musescore-dl\" 'lerin eski bir sürümünü yüklediyseniz, lütfen Tampermonkey kontrol panelinden kaldırın\n"
+msgstr ""
+"> Not: \"musescore-downloader\", \"mcsz downloader\" veya \"musescore-dl\" "
+"adlı komut dosyasının eski bir sürümünü zaten yüklediyseniz, lütfen "
+"Tampermonkey kontrol panelinden kaldırın\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -392,14 +419,16 @@ msgid ""
 "2. Go to the latest [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) file\n"
 "3. Press the Install button\n"
 msgstr ""
-"2. En yeni [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) dosyasına gidin \n"
-"3. İndir butonuna tıklayın\n"
+"2. En yeni [dl-librescore.user.js](https://github.com/LibreScore/"
+"dl-librescore/releases/latest/download/dl-librescore.user.js) dosyasına "
+"gidin\n"
+"3. Yükle düğmesine basın\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Shortcut"
-msgstr "Kısayol"
+msgstr "Kestirme"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -586,10 +615,10 @@ msgstr ""
 #: source/titles/titles.yaml
 #, no-wrap
 msgid "PRIVACY-POLICY"
-msgstr "GİZLİLİK POLİTİKASI"
+msgstr "GİZLİLİK-POLİTİKASI"
 
 #. type: Hash Value: README
 #: source/titles/titles.yaml
 #, no-wrap
 msgid "README"
-msgstr "BENİ OKU"
+msgstr "BENİOKU"
