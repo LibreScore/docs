@@ -26,10 +26,10 @@ jobs:
             - name: Fetch source files
               run:  |
                   mkdir $HOME/repos
-                  echo "docs\ndl-librescore\napp-librescore\nwebmscore-pwa" | xargs -I {} bash -c "curl -d '{\"lock\":\"true\"}' -H 'Content-Type: application/json' -H 'Authorization: Token ${{ secrets.WEBLATE_TOKEN }}' https://librescore.ddns.net/api/components/librescore/{}/lock/"
-                  curl -d '{"operation":"commit"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://librescore.ddns.net/api/components/librescore/repository/
-                  curl -d '{"operation":"push"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://librescore.ddns.net/api/components/librescore/repository/
-                  curl -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/${{ secrets.LIBRESCORE_USER }}:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -I {} bash -c "if [[ {} =~ /(docs|dl-librescore|app-librescore|webmscore-pwa).git$ ]]; then git -C $HOME/repos clone {} --single-branch --no-tags --depth=1 ; fi"
+                  echo "docs\ndl-librescore\napp-librescore\nwebmscore-pwa" | xargs -I {} bash -c "curl -s -d '{\"lock\":\"true\"}' -H 'Content-Type: application/json' -H 'Authorization: Token ${{ secrets.WEBLATE_TOKEN }}' https://librescore.ddns.net/api/components/librescore/{}/lock/"
+                  curl -s -d '{"operation":"commit"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://librescore.ddns.net/api/components/librescore/repository/
+                  curl -s -d '{"operation":"push"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://librescore.ddns.net/api/components/librescore/repository/
+                  curl -s -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/${{ secrets.LIBRESCORE_USER }}:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -I {} bash -c "if [[ {} =~ /(docs|dl-librescore|app-librescore|webmscore-pwa).git$ ]]; then git -C $HOME/repos clone {} --single-branch --no-tags --depth=1 ; fi"
                   rm -R -f $HOME/repos/*/docs
                   rm -R -f $HOME/repos/docs/i18n
                   mv -f $HOME/repos/docs/source/titles $HOME/repos/titles
@@ -57,8 +57,8 @@ jobs:
                       git add -A
                       git commit -m "chore: update translations"
                       git push
-                      curl -d '{"operation":"pull"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://librescore.ddns.net/api/components/librescore/docs/repository/
-                      curl -d '{"lock":"false"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://librescore.ddns.net/api/components/librescore/docs/lock/
+                      curl -s -d '{"operation":"pull"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://librescore.ddns.net/api/components/librescore/docs/repository/
+                      curl -s -d '{"lock":"false"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://librescore.ddns.net/api/components/librescore/docs/lock/
                   fi
             - name: Push to remote repos
               run: |
@@ -81,13 +81,13 @@ jobs:
                               git add -A
                               git commit -m "chore: update translations"
                               git push
-                              curl -d '{"operation":"pull"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://librescore.ddns.net/api/components/librescore/$repo/repository/
-                              curl -d '{"lock":"false"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://librescore.ddns.net/api/components/librescore/$repo/lock/
+                              curl -s -d '{"operation":"pull"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://librescore.ddns.net/api/components/librescore/$repo/repository/
+                              curl -s -d '{"lock":"false"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://librescore.ddns.net/api/components/librescore/$repo/lock/
                           fi
                           cd $GITHUB_WORKSPACE
                       fi
                   done
                   shopt -u nullglob
                   if [[ $updated -eq 0 ]]; then
-                      curl -i -u ${{ secrets.LIBRESCORE_USER }}:${{ secrets.LIBRESCORE_TOKEN }} -d '{"event_type":"delete_action","client_payload":{"run_id":"'"${{ github.run_id }}"'","repo":"LibreScore/docs"}}' -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/LibreScore/actions/dispatches
+                      curl -s -i -u ${{ secrets.LIBRESCORE_USER }}:${{ secrets.LIBRESCORE_TOKEN }} -d '{"event_type":"delete_action","client_payload":{"run_id":"'"${{ github.run_id }}"'","repo":"LibreScore/docs"}}' -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/LibreScore/actions/dispatches
                   fi
