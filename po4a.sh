@@ -35,7 +35,7 @@ for file in source/**/*.md; do
     repo=${file#*/}
     repo=${repo%%/*}
 
-    headre="^[‎,‏];"
+    headre="^[‎,‏]"
     if [[ $(sed '3q;d' $file) =~ $headre ]]; then
         sed -i '2,3d' $file
     fi
