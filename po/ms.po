@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-09-27 03:07+0000\n"
+"POT-Creation-Date: 2022-09-27 03:10+0000\n"
 "PO-Revision-Date: 2022-08-04 22:04+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/ms/>\n"
@@ -561,12 +561,6 @@ msgstr "1. Cipta fail `XX.po`, dengan `XX` ialah kod bahasa (cth: `pt` atau `zh-
 #, no-wrap
 msgid "1. `./po4a.sh`\n"
 msgstr "1. `./po4a.sh`\n"
-
-#. type: Plain text
-#: source/webmscore-pwa/README.md
-#, no-wrap
-msgid "&#8206;[العربية](/docs/ar/اقرأني.md) | &#8206;**English** | &#8206;[español](/docs/es/LÉAME.md) | &#8206;[français](/docs/fr/LISEZMOI.md) | &#8206;[magyar](/docs/hu/OLVASSAEL.md) | &#8206;[Melayu](/docs/ms/BACASAYA.md) | &#8206;[[+]](https://librescore.ddns.net/projects/librescore/docs)\n"
-msgstr ""
 
 #. type: Title #
 #: source/webmscore-pwa/README.md
