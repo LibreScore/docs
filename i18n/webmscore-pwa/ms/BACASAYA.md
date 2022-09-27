@@ -2,6 +2,8 @@
 
 ‎[العربية](/docs/ar/اقرأني.md) | ‎[English](/docs/en/README.md) | ‎[español](/docs/es/LÉAME.md) | ‎[français](/docs/fr/LISEZMOI.md) | ‎[magyar](/docs/hu/OLVASSAEL.md) | ‎**Melayu** | ‎[[+]](https://librescore.ddns.net/projects/librescore/docs)
 
+&#8206;[العربية](/docs/ar/اقرأني.md) | &#8206;**English** | &#8206;[español](/docs/es/LÉAME.md) | &#8206;[français](/docs/fr/LISEZMOI.md) | &#8206;[magyar](/docs/hu/OLVASSAEL.md) | &#8206;[Melayu](/docs/ms/BACASAYA.md) | &#8206;[[+]](https://librescore.ddns.net/projects/librescore/docs)
+
 [//]: # "\+\_==!|!=_=!|!==_/+/ ***JANGAN EDIT DI ATAS BARIS INI*** /+/^^+#|#+^+#|#+^^\+\"
 
 # PWA Webmscore
