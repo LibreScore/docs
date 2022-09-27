@@ -81,9 +81,9 @@ for file in i18n/**/*.md; do
     dirre="<div[[:space:]]dir=\"([lrt]{3})\"[[:space:]]align=\"([efghilrt]{4,5})\">"
     if [[ $(sed '1q;d' $file) =~ $dirre ]]; then
         if [[ ${BASH_REMATCH[1]} == "ltr" ]]; then
-            dir="\&#8206;"
+            dir="‎"
         else
-            dir="\&#8207;"
+            dir="‏"
         fi
     fi
 
