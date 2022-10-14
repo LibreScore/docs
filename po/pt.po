@@ -568,10 +568,10 @@ msgstr ""
 #: source/titles/titles.yaml
 #, no-wrap
 msgid "PRIVACY-POLICY"
-msgstr ""
+msgstr "Política de privacidade"
 
 #. type: Hash Value: README
 #: source/titles/titles.yaml
 #, no-wrap
 msgid "README"
-msgstr ""
+msgstr "Leia-me"
