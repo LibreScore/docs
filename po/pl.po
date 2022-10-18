@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
 "PO-Revision-Date: 2024-06-29 01:38+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"Last-Translator: Maciej Klupp <maciej.klupp@gmail.com>\n"
 "Language-Team: Polish <https://librescore.ddns.net/projects/librescore/docs/"
 "pl/>\n"
 "Language: pl\n"
@@ -279,7 +279,8 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. Pobierz [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
+"1. Pobierz [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)\n"
 "2. Uruchom plik EXE, aby zainstalować aplikację\n"
 
 #. type: Title ###
@@ -347,14 +348,17 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. Pobierz [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
+"1. Pobierz [LibreScore.apk](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.apk)\n"
 "2. Otwórz plik APK, aby zainstalować aplikację\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr "> Uwaga: Może pojawić się wiadomość na temat Play Protect. Dotknij przycisku `Zainstaluj mimo to`\n"
+msgstr ""
+"> Uwaga: Może pojawić się wiadomość na temat Play Protect. Dotknij przycisku "
+"`Zainstaluj mimo to`\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
@@ -427,8 +431,10 @@ msgid ""
 "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
 "> Conversion types include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgstr ""
-"> Uwaga: `Konwersja` dotyczy możliwości konwertowania plików, nie tylko tych pobranych za pomocą programu, do innych formatów.\n"
-"> Wspierane są następujące formaty plików: Poszczególne części, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ oraz MSCX.\n"
+"> Uwaga: `Konwersja` dotyczy możliwości konwertowania plików, nie tylko tych "
+"pobranych za pomocą programu, do innych formatów.\n"
+"> Wspierane są następujące formaty plików: Poszczególne części, PDF, PNG, "
+"SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ oraz MSCX.\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
