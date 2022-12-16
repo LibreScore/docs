@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
 "PO-Revision-Date: 2024-06-29 01:38+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"Last-Translator: iZuhn <rohlikstudio@gmail.com>\n"
 "Language-Team: Czech <https://librescore.ddns.net/projects/librescore/docs/"
 "cs/>\n"
 "Language: cs\n"
@@ -280,7 +280,8 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. Stáhni [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
+"1. Stáhni [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)\n"
 "2. Otevři soubor EXE pro instalaci\n"
 
 #. type: Title ###
@@ -604,7 +605,9 @@ msgstr "1. Otevřete [Webmscore](https://webmscore-pwa.librescore.org)\n"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: You can access the website offline by installing it as a PWA\n"
-msgstr "> Poznámka: K webu můžete přistupovat offline, pokud si jej nainstalujete jako PWA\n"
+msgstr ""
+"> Poznámka: K webu můžete přistupovat offline, pokud si jej nainstalujete "
+"jako PWA\n"
 
 #. type: Title ##
 #: source/dl-librescore/README.md source/docs/README.md
@@ -667,7 +670,9 @@ msgstr "Přidávání jazyků"
 #: source/docs/README.md
 #, no-wrap
 msgid "1. Create a `XX.po` file, where `XX` is a language code (ex: `pt` or `zh-Hant`) in the `po/` directory\n"
-msgstr "1. Vytvořte soubor `XX.po`, kde `XX` je kód jazyka (např.: `pt` nebo `zh-Hant`) v adresáři `po/`\n"
+msgstr ""
+"1. Vytvořte soubor `XX.po`, kde `XX` je kód jazyka (např.: `pt` nebo `zh-"
+"Hant`) v adresáři `po/`\n"
 
 #. type: Plain text
 #: source/docs/README.md
