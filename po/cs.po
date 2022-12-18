@@ -7,11 +7,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2022-12-18 03:18+0000\n"
+"POT-Creation-Date: 2022-12-18 07:26+0000\n"
 "PO-Revision-Date: 2022-12-18 07:10+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Czech <https://librescore.ddns.net/projects/librescore/docs/"
-"cs/>\n"
+"Language-Team: Czech <https://librescore.ddns.net/projects/librescore/docs/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -184,14 +183,7 @@ msgstr "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/"
-"app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)"
-" [![GitHub Všechna Vydání](https://img.shields.io/github/downloads/"
-"LibreScore/app-librescore/total.svg?label=Stahování)](https://github.com/"
-"LibreScore/app-librescore/releases/latest)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/app-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![GitHub Všechna Vydání](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Stahování)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -227,27 +219,10 @@ msgid ""
 "|                                            Windows (7+) (64-bit only)                                            |                                        macOS (10.11+) (Rosetta 2)                                         |                                             Android (6.0+)                                             |\n"
 "|      [Download (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Download (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Download (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 msgstr ""
-"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/"
-"Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https"
-"://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29."
-"svg\" width=\"512\"> |   <img src=\"https://upload.wikimedia.org/wikipedia/"
-"commons/3/31/Android_robot_head.svg\" width=\"512\">   |\n"
-"| :--------------------------------------------------------------------------"
-"------------------------------------: | :------------------------------------"
-"-------------------------------------------------------------------: | :-----"
-"-----------------------------------------------------------------------------"
-"------------------: |\n"
-"|                                            Windows (7+) (pouze 64bitové)"
-"                                            |"
-"                                        macOS (10.11+) (Rosetta 2)"
-"                                         |"
-"                                             Android (6.0+)"
-"                                             |\n"
-"|      [Stáhnout (EXE)](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.exe)      |  [Stáhnout "
-"(DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/"
-"LibreScore.dmg)   | [Stáhnout (APK)](https://github.com/LibreScore/"
-"app-librescore/releases/latest/download/LibreScore.apk) |\n"
+"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg\" width=\"512\"> |   <img src=\"https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg\" width=\"512\">   |\n"
+"| :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |\n"
+"|                                            Windows (7+) (pouze 64bitové)                                            |                                        macOS (10.11+) (Rosetta 2)                                         |                                             Android (6.0+)                                             |\n"
+"|      [Stáhnout (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Stáhnout (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Stáhnout (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -291,8 +266,7 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
-"1. Stáhněte si [LibreScore.dmg](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.dmg)\n"
+"1. Stáhněte si [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
 "2. Otevřete soubor DMG\n"
 "3. Přesuňte soubor APP do složky Aplikace a nainstalujte jej\n"
 "4. Podržte klávesu Ctrl, klikněte na soubor APP\n"
@@ -315,17 +289,14 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. Stáhněte si [LibreScore.apk](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.apk)\n"
+"1. Stáhněte si [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Otevřete soubor APK a nainstalujte jej\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr ""
-"> Poznámka: Může se zobrazit zpráva o Play Protect. V dolní části klepněte "
-"na `Přesto nainstalovat`.\n"
+msgstr "> Poznámka: Může se zobrazit zpráva o Play Protect. V dolní části klepněte na `Přesto nainstalovat`.\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
@@ -337,19 +308,7 @@ msgstr "dl-librescore"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/"
-"dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) "
-"[![GitHub Všechna Vydání](https://img.shields.io/github/downloads/LibreScore/"
-"app-librescore/total.svg?label=App)](https://github.com/LibreScore/"
-"app-librescore/releases/latest) [![GitHub Všechna Vydání](https://img.shields"
-".io/github/downloads/LibreScore/dl-librescore/total."
-"svg?label=Uživatelský+skript)](https://github.com/LibreScore/dl-librescore/"
-"releases/latest) [![npm](https://img.shields.io/npm/dt/dl-"
-"librescore?label=Nástroj+příkazového+řádku)](https://www.npmjs.com/package/"
-"dl-librescore)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://librescore.ddns.net/engage/librescore) [![GitHub Všechna Vydání](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![GitHub Všechna Vydání](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Uživatelský+skript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Nástroj+příkazového+řádku)](https://www.npmjs.com/package/dl-librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -374,22 +333,12 @@ msgid ""
 "| [Command-line tool](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
 "| [Webmscore website](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgstr ""
-"| Program                                                                    "
-"        | MSCZ | MIDI | MP3 | PDF | Konverze |     | Windows | macOS | Linux "
-"| Android | iOS/iPadOS |\n"
-"| ---------------------------------------------------------------------------"
-"------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | "
-"----- | ------- | ---------- |\n"
-"| [Aplikace](#aplikace)                             | ✔️   | ✔️   | ✔️  | ❌"
-"  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
-"| [Uživatelský skript](#uživatelský-skript)               | ❌   | ✔️   | ✔️"
-"  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |"
-"\n"
-"| [Nástroj příkazového řádku](#nástroj-příkazového-řádku) | ❌   | ✔️   | ✔️"
-"  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |"
-"\n"
-"| [Webové stránky Webmscore](#webové-stránky-webmscore) | ❌   | ❌   | ❌  |"
-" ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| Program                                                                            | MSCZ | MIDI | MP3 | PDF | Konverze |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
+"| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
+"| [Aplikace](#aplikace)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ❌    | ✔️      | ❌         |\n"
+"| [Uživatelský skript](#uživatelský-skript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Nástroj příkazového řádku](#nástroj-příkazového-řádku) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Webové stránky Webmscore](#webové-stránky-webmscore) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -398,10 +347,8 @@ msgid ""
 "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
 "> Conversion types include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgstr ""
-"> Poznámka: `Konverze` odkazuje na schopnost převádět soubory na jiné typy "
-"souborů, včetně těch, které nelze stáhnout v programu.\n"
-"> Mezi typy převodu patří: Jednotlivé části, PDF, PNG, SVG, MP3, WAV, FLAC, "
-"OGG, MIDI, MusicXML, MSCZ a MSCX.\n"
+"> Poznámka: `Konverze` odkazuje na schopnost převádět soubory na jiné typy souborů, včetně těch, které nelze stáhnout v programu.\n"
+"> Mezi typy převodu patří: Jednotlivé části, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ a MSCX.\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -416,8 +363,7 @@ msgid ""
 "1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device\n"
 msgstr ""
-"1. Přejděte na stránku [PŘEČTĚTEMĚ](https://github.com/LibreScore/app-"
-"librescore#installation) v repozitáři `app-librescore`\n"
+"1. Přejděte na stránku [PŘEČTĚTEMĚ](https://github.com/LibreScore/app-librescore#installation) v repozitáři `app-librescore`\n"
 "2. Postupujte podle pokynů k instalaci vašeho zařízení\n"
 
 #. type: Title ###
@@ -434,11 +380,9 @@ msgid ""
 ">\n"
 "> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](#bookmark) instructions instead.\n"
 msgstr ""
-"> Poznámka: Pokud máte zařízení se systémem iOS nebo iPadOS, postupujte "
-"podle pokynů [Zkratka](#zkratka).\n"
+"> Poznámka: Pokud máte zařízení se systémem iOS nebo iPadOS, postupujte podle pokynů [Zkratka](#zkratka).\n"
 ">\n"
-"> Poznámka: Pokud do zařízení nemůžete nainstalovat rozšíření prohlížeče, "
-"postupujte podle pokynů [Záložka](#záložka).\n"
+"> Poznámka: Pokud do zařízení nemůžete nainstalovat rozšíření prohlížeče, postupujte podle pokynů [Záložka](#záložka).\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
@@ -456,10 +400,7 @@ msgstr "1. Nainstalujte [Tampermonkey](https://www.tampermonkey.net)\n"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
-msgstr ""
-"> Poznámka: Pokud jste již nainstalovali starou verzi skriptu s názvem "
-"„musescore-downloader“, „mcsz downloader“ nebo „musescore-dl“, odinstalujte "
-"ji prosím z řídicího panelu Tampermonkey\n"
+msgstr "> Poznámka: Pokud jste již nainstalovali starou verzi skriptu s názvem „musescore-downloader“, „mcsz downloader“ nebo „musescore-dl“, odinstalujte ji prosím z řídicího panelu Tampermonkey\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -468,8 +409,7 @@ msgid ""
 "2. Go to the latest [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) file\n"
 "3. Press the Install button\n"
 msgstr ""
-"2. Přejděte na nejnovější soubor [dl-librescore.user.js](https://github.com/"
-"LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js)\n"
+"2. Přejděte na nejnovější soubor [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js)\n"
 "3. Stiskněte tlačítko Instalovat\n"
 
 #. type: Title ####
@@ -486,11 +426,8 @@ msgid ""
 "2. In Safari, when viewing a song on MuseScore, tap <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
 "3. Tap the LibreScore shortcut to activate the extension\n"
 msgstr ""
-"1. Nainstalujte [zkratku LibreScore](https://www.icloud.com/shortcuts/"
-"901d8778d2da4f7db9272d3b2232d0fe)\n"
-"2. V Safari při prohlížení skladby na MuseScore klepněte na <img src=\"https"
-"://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/"
-"en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
+"1. Nainstalujte [zkratku LibreScore](https://www.icloud.com/shortcuts/901d8778d2da4f7db9272d3b2232d0fe)\n"
+"2. V Safari při prohlížení skladby na MuseScore klepněte na <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
 "3. Klepnutím na zkratku LibreScore aktivujte rozšíření\n"
 
 #. type: Plain text
@@ -502,12 +439,9 @@ msgid ""
 "> 1. Go to Settings <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Shortcuts > Advanced\n"
 "> 2. Turn on Allow Running Scripts\n"
 msgstr ""
-"> Poznámka: Před spuštěním JavaScriptu pomocí zkratky musíte zapnout volbu "
-"Povolit spouštění skriptů\n"
+"> Poznámka: Před spuštěním JavaScriptu pomocí zkratky musíte zapnout volbu Povolit spouštění skriptů\n"
 ">\n"
-"> 1. Přejděte do Nastavení <img src=\"https://help.apple.com/assets/"
-"61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
-"492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Zkratky > Pokročilé\n"
+"> 1. Přejděte do Nastavení <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Zkratky > Pokročilé\n"
 "> 2. Zapněte „Povolit spouštění skriptů“\n"
 
 #. type: Title ####
@@ -528,13 +462,9 @@ msgid ""
 msgstr ""
 "1. Vytvořte novou záložku (obvykle Ctrl+D)\n"
 "2. Do pole Název napište `LibreScore`\n"
-"3. Zadejte `javascript:(function () {let code = document."
-"createElement('script');code.src = 'https://github.com/LibreScore/"
-"dl-librescore/releases/latest/download/dl-librescore.user.js';document.body."
-"appendChild(code);}())` pro pole URL\n"
+"3. Zadejte `javascript:(function () {let code = document.createElement('script');code.src = 'https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js';document.body.appendChild(code);}())` pro pole URL\n"
 "4. Uložte záložku\n"
-"5. Při prohlížení skladby v MuseScore aktivujte rozšíření kliknutím na "
-"záložku\n"
+"5. Při prohlížení skladby v MuseScore aktivujte rozšíření kliknutím na záložku\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -611,11 +541,7 @@ msgstr "Dokumentace LibreScore"
 #: source/docs/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/"
-"docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://librescore.ddns.net/widgets/librescore/-/docs/svg-badge.svg)](https://librescore.ddns.net/engage/librescore)\n"
 
 #. type: Plain text
 #: source/docs/README.md
@@ -651,8 +577,7 @@ msgstr "Progresivní webové aplikace Webmscore"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "The official frontend for the webmscore tool: <https://librescore.github.io>\n"
-msgstr ""
-"Oficiální rozhraní pro nástroj webmscore: <https://librescore.github.io>\n"
+msgstr "Oficiální rozhraní pro nástroj webmscore: <https://librescore.github.io>\n"
 
 #. type: Title ##
 #: source/webmscore-pwa/README.md
