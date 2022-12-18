@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2022-11-28 09:21+0000\n"
-"PO-Revision-Date: 2022-12-16 18:10+0000\n"
-"Last-Translator: iZuhn <rohlikstudio@gmail.com>\n"
+"PO-Revision-Date: 2022-12-18 03:10+0000\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Czech <https://librescore.ddns.net/projects/librescore/docs/"
 "cs/>\n"
 "Language: cs\n"
@@ -34,6 +34,8 @@ msgstr "<div dir=\"ltr\" align=\"left\">\n"
 #, no-wrap
 msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
 msgstr ""
+"[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***NEUPRAVUJTE NAD TENTO ŘÁDEK*** "
+"/+/^^+#|#+^+#|#+^^\\+\\\"\n"
 
 #. type: Title #
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -165,20 +167,22 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "LibreScore App"
-msgstr ""
+msgstr "Aplikace LibreScore"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #: source/docs/README.md
 #, no-wrap
 msgid "<div align=\"center\">\n"
-msgstr ""
+msgstr "<div align=\"center\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
 msgstr ""
+"<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo."
+"png\" width=\"256\" alt=\"Logo LibreScore\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -190,7 +194,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Download the LibreScore app\n"
-msgstr ""
+msgstr "Stáhnout aplikaci LibreScore\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -678,10 +682,10 @@ msgstr ""
 #: source/titles/titles.yaml
 #, no-wrap
 msgid "PRIVACY-POLICY"
-msgstr ""
+msgstr "ZÁSADY-OCHRANY-OSOBNÍCH-ÚDAJŮ"
 
 #. type: Hash Value: README
 #: source/titles/titles.yaml
 #, no-wrap
 msgid "README"
-msgstr ""
+msgstr "PŘEČTĚTEMĚ"
