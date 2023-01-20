@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-01-11 11:13+0000\n"
+"POT-Creation-Date: 2023-01-20 21:36+0000\n"
 "PO-Revision-Date: 2023-01-11 10:48+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Czech <https://librescore.ddns.net/projects/librescore/docs/cs/>\n"
@@ -284,10 +284,15 @@ msgstr "Linux"
 
 #. type: Plain text
 #: source/app-librescore/README.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "1. Install `fuse2` for your distribution\n"
+#| "2. Download [LibreScore.AppImage](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage)\n"
+#| "3. Run `chmod a+x ./LibreScore.AppImage` to make it executable\n"
+#| "4. Run `./LibreScore.AppImage --install` to install it\n"
 msgid ""
-"1. Install `fuse2` for your distribution\n"
-"2. Download [LibreScore.AppImage](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage)\n"
+"1. Download [LibreScore.AppImage](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage)\n"
+"2. Install `fuse2` for your distribution\n"
 "3. Run `chmod a+x ./LibreScore.AppImage` to make it executable\n"
 "4. Run `./LibreScore.AppImage --install` to install it\n"
 msgstr ""
