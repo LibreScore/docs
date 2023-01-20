@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-01-20 23:15+0000\n"
+"POT-Creation-Date: 2023-01-20 23:39+0000\n"
 "PO-Revision-Date: 2022-09-27 02:27+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Arabic <https://librescore.ddns.net/projects/librescore/docs/ar/>\n"
@@ -536,8 +536,9 @@ msgstr "تطبيق ويب تقدمي ويبمسكور"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
-#, no-wrap
-msgid "The official frontend for the webmscore tool: <https://librescore.github.io>\n"
+#, fuzzy, no-wrap
+#| msgid "The official frontend for the webmscore tool: <https://librescore.github.io>\n"
+msgid "The official frontend for the webmscore tool: <https://webmscore-pwa.librescore.org>\n"
 msgstr "الواجهة الرسمية لأداة ويبمسكور: <https://librescore.github.io>\n"
 
 #. type: Title ##

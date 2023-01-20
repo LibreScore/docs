@@ -4,7 +4,7 @@
 
 # Webmscore PWA
 
-The official frontend for the webmscore tool: <https://librescore.github.io>
+The official frontend for the webmscore tool: <https://webmscore-pwa.librescore.org>
 
 ## Developing
 

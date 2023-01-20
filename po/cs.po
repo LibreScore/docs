@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-01-20 23:15+0000\n"
+"POT-Creation-Date: 2023-01-20 23:39+0000\n"
 "PO-Revision-Date: 2023-01-20 22:58+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Czech <https://librescore.ddns.net/projects/librescore/docs/cs/>\n"
@@ -595,8 +595,9 @@ msgstr "Progresivní webové aplikace Webmscore"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
-#, no-wrap
-msgid "The official frontend for the webmscore tool: <https://librescore.github.io>\n"
+#, fuzzy, no-wrap
+#| msgid "The official frontend for the webmscore tool: <https://librescore.github.io>\n"
+msgid "The official frontend for the webmscore tool: <https://webmscore-pwa.librescore.org>\n"
 msgstr "Oficiální rozhraní pro nástroj webmscore: <https://librescore.github.io>\n"
 
 #. type: Title ##
