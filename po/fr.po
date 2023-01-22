@@ -1,11 +1,10 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-01-20 23:39+0000\n"
+"POT-Creation-Date: 2023-01-22 04:39+0000\n"
 "PO-Revision-Date: 2023-01-22 04:32+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/"
-"fr/>\n"
+"Language-Team: French <https://librescore.ddns.net/projects/librescore/docs/fr/>\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -506,8 +505,9 @@ msgstr "Site web de Webmscore"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, no-wrap
-msgid "1. Open [Webmscore](https://librescore.github.io)\n"
+#, fuzzy, no-wrap
+#| msgid "1. Open [Webmscore](https://librescore.github.io)\n"
+msgid "1. Open [Webmscore](https://webmscore-pwa.librescore.org)\n"
 msgstr "1. Ouvrez [Webmscore](https://librescore.github.io)\n"
 
 #. type: Plain text
@@ -591,9 +591,7 @@ msgstr "App web progressive de Webmscore"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "The official frontend for the webmscore tool: <https://webmscore-pwa.librescore.org>\n"
-msgstr ""
-"L'interface officielle de l'outil webmscore : <https://webmscore-pwa."
-"librescore.org>\n"
+msgstr "L'interface officielle de l'outil webmscore : <https://webmscore-pwa.librescore.org>\n"
 
 #. type: Title ##
 #: source/webmscore-pwa/README.md

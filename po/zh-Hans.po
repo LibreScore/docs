@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-01-20 23:39+0000\n"
+"POT-Creation-Date: 2023-01-22 04:39+0000\n"
 "PO-Revision-Date: 2023-01-20 22:58+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/librescore/docs/zh_Hans/>\n"
@@ -486,7 +486,7 @@ msgstr "韦贝姆斯科尔网站"
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
-msgid "1. Open [Webmscore](https://librescore.github.io)\n"
+msgid "1. Open [Webmscore](https://webmscore-pwa.librescore.org)\n"
 msgstr ""
 
 #. type: Plain text

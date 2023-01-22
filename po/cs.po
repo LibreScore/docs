@@ -7,11 +7,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-01-20 23:39+0000\n"
+"POT-Creation-Date: 2023-01-22 04:39+0000\n"
 "PO-Revision-Date: 2023-01-22 04:33+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Czech <https://librescore.ddns.net/projects/librescore/docs/"
-"cs/>\n"
+"Language-Team: Czech <https://librescore.ddns.net/projects/librescore/docs/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -513,8 +512,9 @@ msgstr "Webové stránky Webmscore"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, no-wrap
-msgid "1. Open [Webmscore](https://librescore.github.io)\n"
+#, fuzzy, no-wrap
+#| msgid "1. Open [Webmscore](https://librescore.github.io)\n"
+msgid "1. Open [Webmscore](https://webmscore-pwa.librescore.org)\n"
 msgstr "1. Otevřete [Webmscore](https://librescore.github.io)\n"
 
 #. type: Plain text
@@ -598,9 +598,7 @@ msgstr "Progresivní webové aplikace Webmscore"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "The official frontend for the webmscore tool: <https://webmscore-pwa.librescore.org>\n"
-msgstr ""
-"Oficiální rozhraní pro nástroj webmscore: <https://webmscore-pwa.librescore."
-"org>\n"
+msgstr "Oficiální rozhraní pro nástroj webmscore: <https://webmscore-pwa.librescore.org>\n"
 
 #. type: Title ##
 #: source/webmscore-pwa/README.md
