@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-01-22 04:39+0000\n"
-"PO-Revision-Date: 2023-01-22 04:32+0000\n"
+"PO-Revision-Date: 2023-01-26 10:49+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Hungarian <https://librescore.ddns.net/projects/librescore/docs/hu/>\n"
+"Language-Team: Hungarian <https://librescore.ddns.net/projects/librescore/"
+"docs/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15\n"
+"X-Generator: Weblate 4.15.1\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -512,10 +513,9 @@ msgstr "Webmscore webhely"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
-#| msgid "1. Open [Webmscore](https://librescore.github.io)\n"
+#, no-wrap
 msgid "1. Open [Webmscore](https://webmscore-pwa.librescore.org)\n"
-msgstr "1. [Webmscore](https://librescore.github.io) megnyitása\n"
+msgstr "1. [Webmscore](https://webmscore-pwa.librescore.org) megnyitása\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
