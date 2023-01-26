@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
-"PO-Revision-Date: 2024-06-29 01:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-06-29 01:38+0000\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Arabic <https://librescore.ddns.net/projects/librescore/docs/"
 "ar/>\n"
 "Language: ar\n"
@@ -174,7 +174,9 @@ msgstr "<div align=\"center\">\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
-msgstr "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"شعار ليبريسكور\">\n"
+msgstr ""
+"<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo."
+"png\" width=\"256\" alt=\"شعار ليبريسكور\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -417,9 +419,12 @@ msgid ""
 "> 1. Go to Settings <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Shortcuts > Advanced\n"
 "> 2. Turn on Allow Running Scripts\n"
 msgstr ""
-"> ملاحظة: حتى تتمكن من تشغيل JavaScript من الاختصار، يجب عليك تشغيل السماح بتشغيل البرامج النصية\n"
+"> ملاحظة: حتى تتمكن من تشغيل JavaScript من الاختصار، يجب عليك تشغيل السماح "
+"بتشغيل البرامج النصية\n"
 ">\n"
-"> ١. انتقل إلى الإعدادات <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > الاختصارات > متقدم\n"
+"> ١. انتقل إلى الإعدادات <img src=\"https://help.apple.com/assets/"
+"61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
+"492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > الاختصارات > متقدم\n"
 "> ٢. شغّل السماح بتشغيل البرامج النصية\n"
 
 #. type: Title ####
@@ -548,7 +553,8 @@ msgstr ""
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "The official frontend for the webmscore tool: <https://webmscore-pwa.librescore.org>\n"
-msgstr "الواجهة الرسمية لأداة ويبمسكور: <https://webmscore-pwa.librescore.org>\n"
+msgstr ""
+"الواجهة الرسمية لأداة ويبمسكور: <https://webmscore-pwa.librescore.org>\n"
 
 #. type: Title ##
 #: source/webmscore-pwa/README.md
@@ -560,7 +566,9 @@ msgstr "النامية"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:\n"
-msgstr "بمجرد إنشاء مشروع وتثبيت التبعيات باستخدام `npm install` (أو `pnpm install` أو `yarn`) ، ابدأ خادم تطوير:\n"
+msgstr ""
+"بمجرد إنشاء مشروع وتثبيت التبعيات باستخدام `npm install` (أو `pnpm install` "
+"أو `yarn`) ، ابدأ خادم تطوير:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
@@ -580,7 +588,9 @@ msgstr ""
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:\n"
-msgstr "قبل إنشاء إصدار إنتاج من تطبيقك ، قم بتثبيت [محول](https://kit.svelte.dev/docs#adapters) لبيئتك المستهدفة. ثم:\n"
+msgstr ""
+"قبل إنشاء إصدار إنتاج من تطبيقك ، قم بتثبيت [محول](https://kit.svelte.dev/"
+"docs#adapters) لبيئتك المستهدفة. ثم:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
@@ -592,7 +602,10 @@ msgstr "npm run build\n"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.\n"
-msgstr "> يمكنك معاينة التطبيق المدمج باستخدام `npm run preview` ، بغض النظر عما إذا كنت قد قمت بتثبيت محول أم لا. يجب _ألا_ يتم استخدام هذا لخدمة تطبيقك في الإنتاج.\n"
+msgstr ""
+"> يمكنك معاينة التطبيق المدمج باستخدام `npm run preview` ، بغض النظر عما إذا "
+"كنت قد قمت بتثبيت محول أم لا. يجب _ألا_ يتم استخدام هذا لخدمة تطبيقك في "
+"الإنتاج.\n"
 
 #. type: Hash Value: PRIVACY-POLICY
 #: source/titles/titles.yaml
