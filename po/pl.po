@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
 "PO-Revision-Date: 2024-06-29 01:38+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Polish <https://librescore.ddns.net/projects/librescore/docs/"
 "pl/>\n"
 "Language: pl\n"
@@ -181,13 +181,22 @@ msgstr "<div align=\"center\">\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
-msgstr "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"Logo LibreScore\">\n"
+msgstr ""
+"<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo."
+"png\" width=\"256\" alt=\"Logo LibreScore\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github Wszystkie wydania](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Pobrane)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
+"app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/"
+"librescore) [![Github Wszystkie wydania](https://img.shields.io/github/"
+"downloads/LibreScore/app-librescore/total.svg?label=Pobrane)](https://github."
+"com/LibreScore/app-librescore/releases/latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -293,7 +302,8 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
-"1. Pobierz [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
+"1. Pobierz [LibreScore.dmg](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.dmg)\n"
 "2. Otwórz plik DMG\n"
 "3. Przenieś plik APP do folderu Aplikacje, aby go zainstalować\n"
 "4. Kliknij plik APP, trzymając naciśnięty klawisz Control\n"
@@ -318,7 +328,8 @@ msgid ""
 "3. Run `chmod a+x ./LibreScore.AppImage` to make it executable\n"
 "4. Run `./LibreScore.AppImage --install` to install it\n"
 msgstr ""
-"1. Pobierz [LibreScore.AppImage](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage)\n"
+"1. Pobierz [LibreScore.AppImage](https://github.com/LibreScore/"
+"app-librescore/releases/latest/download/LibreScore.AppImage)\n"
 "2. Zainstaluj `fuse2` dla swojej dystrybucji\n"
 "3. Uruchom `chmod a+x ./LibreScore.AppImage`, aby uczynić go wykonywalnym\n"
 "4. Uruchom `./LibreScore.AppImage --install`, aby go zainstalować\n"
@@ -355,7 +366,19 @@ msgstr "dl-librescore"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![GitHub Wszystkie wydania](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Aplikacja)](https://github.com/LibreScore/app-librescore/releases/latest) [![GitHub Wszystkie wydania](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Narzędzie-wiersza+poleceń)](https://www.npmjs.com/package/dl-librescore)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
+"dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/"
+"librescore) [![GitHub Wszystkie wydania](https://img.shields.io/github/"
+"downloads/LibreScore/app-librescore/total."
+"svg?label=Aplikacja)](https://github.com/LibreScore/app-librescore/releases/"
+"latest) [![GitHub Wszystkie wydania](https://img.shields.io/github/downloads/"
+"LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/"
+"LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/"
+"dt/dl-librescore?label=Narzędzie-wiersza+poleceń)](https://www.npmjs.com/"
+"package/dl-librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -380,12 +403,22 @@ msgid ""
 "| [Command-line tool](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
 "| [Webmscore website](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgstr ""
-"| Program                                                                           | MSCZ | MIDI | MP3 | PDF | Konwersja |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
-"| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
-"| [Aplikacja](#app)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [Userscript](#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-"| [Narzędzie-wiersza poleceń](#narzędzie-wiersza-poleceń) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [Strona internetowa Webmscore](#strona-internetowa-webmscore) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| Program                                                                    "
+"       | MSCZ | MIDI | MP3 | PDF | Konwersja |     | Windows | macOS | Linux "
+"| Android | iOS/iPadOS |\n"
+"| ---------------------------------------------------------------------------"
+"------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | "
+"----- | ------- | ---------- |\n"
+"| [Aplikacja](#app)                             | ✔️   | ✔️   | ✔️  | ❌  | "
+"❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Userscript](#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Narzędzie-wiersza poleceń](#narzędzie-wiersza-poleceń) | ❌   | ✔️   | ✔️"
+"  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |"
+"\n"
+"| [Strona internetowa Webmscore](#strona-internetowa-webmscore) | ❌   | ❌"
+"   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️"
+"         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -561,7 +594,11 @@ msgstr ""
 #: source/docs/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
+"docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
 
 #. type: Plain text
 #: source/docs/README.md
@@ -597,7 +634,12 @@ msgstr ""
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
+"webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/"
+"librescore)\n"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
