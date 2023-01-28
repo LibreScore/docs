@@ -111,7 +111,7 @@ for file in i18n/**/*.md; do
             sed -i '3s@$@'"$dir[$newlang](/docs/$curlang$postlang/$newfile.md) | "'@' $file
         fi
     done
-    sed -i '3s@$@'"$dir[[+]](https://librescore.ddns.net/projects/librescore/docs)\\n"'@' $file
+    sed -i '3s@$@'"$dir[[+]](https://weblate.librescore.org/projects/librescore/docs)\\n"'@' $file
 done
 
 shopt -u globstar
