@@ -3,7 +3,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
 "PO-Revision-Date: 2024-06-29 01:38+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/"
 "librescore/docs/zh_Hans/>\n"
 "Language: zh-Hans\n"
@@ -175,13 +175,22 @@ msgstr "<div align=\"center\">\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
-msgstr "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore 标志\">\n"
+msgstr ""
+"<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo."
+"png\" width=\"256\" alt=\"LibreScore 标志\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate（翻译）](https://weblate.librescore.org/widgets/librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github 全部发布版](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=下载)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate（翻译）](https://weblate.librescore.org/widgets/"
+"librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/"
+"engage/librescore) [![Github 全部发布版](https://img.shields.io/github/"
+"downloads/LibreScore/app-librescore/total.svg?label=下载)](https://github."
+"com/LibreScore/app-librescore/releases/latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -264,7 +273,8 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. 下载 [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
+"1. 下载 [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)\n"
 "2. 打开EXE文件安装它\n"
 
 #. type: Title ###
@@ -287,7 +297,8 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
-"1. 下载 [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
+"1. 下载 [LibreScore.dmg](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.dmg)\n"
 "2. 打开 DMG 文件\n"
 "3. 将 APP 文件移动到 Applications 文件夹进行安装\n"
 "4. 按住 Control 键点按 APP 文件\n"
@@ -312,7 +323,8 @@ msgid ""
 "3. Run `chmod a+x ./LibreScore.AppImage` to make it executable\n"
 "4. Run `./LibreScore.AppImage --install` to install it\n"
 msgstr ""
-"1. 下载 [LibreScore.AppImage](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage)\n"
+"1. 下载 [LibreScore.AppImage](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.AppImage)\n"
 "2. 为你的发行版安装 `fuse2`\n"
 "3. 运行 `chmod a+x ./LibreScore.AppImage` 使其可执行\n"
 "4. 运行 `./LibreScore.AppImage --install` 进行安装\n"
@@ -330,7 +342,8 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. 下载 [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
+"1. 下载 [LibreScore.apk](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.apk)\n"
 "2. 打开APK文件安装它\n"
 
 #. type: Plain text
@@ -349,7 +362,18 @@ msgstr "dl-librescore"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate（翻译）](https://weblate.librescore.org/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github 全部发布版](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=应用)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github 全部发布版](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=用户脚本)](https://github.com/LibreScore/dl-librescore/releases/latest) [![node包管理器](https://img.shields.io/npm/dt/dl-librescore?label=命令行工具)](https://www.npmjs.com/package/dl-librescore)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate（翻译）](https://weblate.librescore.org/widgets/"
+"librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/"
+"engage/librescore) [![Github 全部发布版](https://img.shields.io/github/"
+"downloads/LibreScore/app-librescore/total.svg?label=应用)](https://github."
+"com/LibreScore/app-librescore/releases/latest) [![Github "
+"全部发布版](https://img.shields.io/github/downloads/LibreScore/dl-librescore/"
+"total.svg?label=用户脚本)](https://github.com/LibreScore/dl-librescore/"
+"releases/latest) [![node包管理器](https://img.shields.io/npm/dt/dl-"
+"librescore?label=命令行工具)](https://www.npmjs.com/package/dl-librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -374,12 +398,20 @@ msgid ""
 "| [Command-line tool](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
 "| [Webmscore website](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgstr ""
-"| 程序                                                                            | MSCZ | MIDI | MP3 | PDF | 转换 |     | Windows | macOS | Linux | 安卓 | iOS/iPadOS |\n"
-"| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
-"| [应用程序](#应用程序)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [用户脚本](#用户脚本)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-"| [命令行工具](#命令行工具) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [Webmscore 尔网站](#webmscore-尔网站) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| 程序                                                                       "
+"     | MSCZ | MIDI | MP3 | PDF | 转换 |     | Windows | macOS | Linux | 安卓 "
+"| iOS/iPadOS |\n"
+"| ---------------------------------------------------------------------------"
+"------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | "
+"----- | ------- | ---------- |\n"
+"| [应用程序](#应用程序)                             | ✔️   | ✔️   | ✔️  | ❌"
+"  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [用户脚本](#用户脚本)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         "
+"|     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [命令行工具](#命令行工具) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️"
+"      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Webmscore 尔网站](#webmscore-尔网站) | ❌   | ❌   | ❌  | ❌  | ✔️"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -491,7 +523,9 @@ msgid ""
 msgstr ""
 "> 注意：您必须先打开“允许运行脚本”，才能从快捷指令运行 JavaScript\n"
 ">\n"
-"> 1. 前往“设置” <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > “快捷指令” > “高级”\n"
+"> 1. 前往“设置” <img src=\"https://help.apple.com/assets/"
+"61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
+"492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > “快捷指令” > “高级”\n"
 "> 2. 打开“允许运行脚本”\n"
 
 #. type: Title ####
@@ -594,7 +628,12 @@ msgstr "LibreScore 说明文件"
 #: source/docs/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate（翻译）](https://weblate.librescore.org/widgets/librescore/-/docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate（翻译）](https://weblate.librescore.org/widgets/"
+"librescore/-/docs/svg-badge.svg)](https://weblate.librescore.org/engage/"
+"librescore)\n"
 
 #. type: Plain text
 #: source/docs/README.md
@@ -631,7 +670,12 @@ msgstr "Webmscore 渐进式Web应用"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate（翻译）](https://weblate.librescore.org/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate（翻译）](https://weblate.librescore.org/widgets/"
+"librescore/-/webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/"
+"engage/librescore)\n"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
