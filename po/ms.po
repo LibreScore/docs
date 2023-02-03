@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-02-03 21:13+0000\n"
-"PO-Revision-Date: 2023-01-28 10:01+0000\n"
+"PO-Revision-Date: 2023-02-03 22:32+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/ms/>\n"
+"Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/"
+"ms/>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.15.1\n"
+"X-Generator: Weblate 4.15.2\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -145,10 +146,12 @@ msgstr "Hubungi Kami"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
-#, fuzzy, no-wrap
-#| msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [librescore@gmail.com](mailto:librescore@gmail.com).\n"
+#, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
-msgstr "Jika anda mempunyai sebarang soalan atau cadangan tentang Dasar Privasi kami, sila menghubungi kami di [librescore@gmail.com](mailto:librescore@gmail.com).\n"
+msgstr ""
+"Jika anda mempunyai sebarang soalan atau cadangan tentang Dasar Privasi "
+"kami, sila menghubungi kami di [contact@librescore."
+"org](mailto:contact@librescore.org).\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
