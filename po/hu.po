@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-01-28 10:12+0000\n"
+"POT-Creation-Date: 2023-02-03 21:13+0000\n"
 "PO-Revision-Date: 2023-01-28 10:01+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Hungarian <https://librescore.ddns.net/projects/librescore/docs/hu/>\n"
@@ -150,8 +150,9 @@ msgstr "Lépj velünk kapcsolatba"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
-#, no-wrap
-msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [librescore@gmail.com](mailto:librescore@gmail.com).\n"
+#, fuzzy, no-wrap
+#| msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [librescore@gmail.com](mailto:librescore@gmail.com).\n"
+msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
 msgstr "Ha bármilyen kérdésed vagy javaslatod van az adatvédelmi szabályzatunkkal kapcsolatban, ne habozz kapcsolatba lépni velünk a [librescore@gmail.com](mailto:librescore@gmail.com) címen.\n"
 
 #. type: Plain text

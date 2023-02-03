@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-01-28 10:12+0000\n"
+"POT-Creation-Date: 2023-02-03 21:13+0000\n"
 "PO-Revision-Date: 2022-09-19 03:45+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: German <https://librescore.ddns.net/projects/librescore/docs/de/>\n"
@@ -151,7 +151,7 @@ msgstr ""
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
-msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [librescore@gmail.com](mailto:librescore@gmail.com).\n"
+msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
 msgstr ""
 
 #. type: Plain text

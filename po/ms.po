@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-01-28 10:12+0000\n"
+"POT-Creation-Date: 2023-02-03 21:13+0000\n"
 "PO-Revision-Date: 2023-01-28 10:01+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/ms/>\n"
@@ -145,8 +145,9 @@ msgstr "Hubungi Kami"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
-#, no-wrap
-msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [librescore@gmail.com](mailto:librescore@gmail.com).\n"
+#, fuzzy, no-wrap
+#| msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [librescore@gmail.com](mailto:librescore@gmail.com).\n"
+msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
 msgstr "Jika anda mempunyai sebarang soalan atau cadangan tentang Dasar Privasi kami, sila menghubungi kami di [librescore@gmail.com](mailto:librescore@gmail.com).\n"
 
 #. type: Plain text
