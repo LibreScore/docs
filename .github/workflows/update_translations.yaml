@@ -30,7 +30,7 @@ jobs:
                   echo "docs\ndl-librescore\napp-librescore\nwebmscore-pwa" | xargs -I {} bash -c "curl -s -d '{\"lock\":\"true\"}' -H 'Content-Type: application/json' -H 'Authorization: Token ${{ secrets.WEBLATE_TOKEN }}' https://weblate.librescore.org/api/components/librescore/{}/lock/"
                   curl -s -d '{"operation":"commit"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://weblate.librescore.org/api/components/librescore/repository/
                   curl -s -d '{"operation":"push"}' -H "Content-Type: application/json" -H "Authorization: Token ${{ secrets.WEBLATE_TOKEN }}" https://weblate.librescore.org/api/components/librescore/repository/
-                  curl -s -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/${{ secrets.LIBRESCORE_USER }}:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -I {} bash -c "if [[ {} =~ /(docs|dl-librescore|app-librescore|webmscore-pwa).git$ ]]; then git -C $HOME/repos clone {} --single-branch --no-tags --depth=1 ; fi"
+                  curl -s -H "Accept: application/vnd.github.v3+json" "https://api.github.com/orgs/LibreScore/repos?per_page=100" | grep -e 'git_url*' | cut -d \" -f 4 | sed -e 's/^git:\/\//https:\/\/${{ secrets.LIBRESCORE_USERNAME }}:${{ secrets.LIBRESCORE_TOKEN }}@/g' | xargs -I {} bash -c "if [[ {} =~ /(docs|dl-librescore|app-librescore|webmscore-pwa).git$ ]]; then git -C $HOME/repos clone {} --single-branch --no-tags --depth=1 ; fi"
                   rm -R -f $HOME/repos/*/docs
                   rm -R -f $HOME/repos/docs/i18n
                   mv -f $HOME/repos/docs/source/titles $HOME/repos/titles || echo "failed=true" >> $GITHUB_ENV
@@ -72,7 +72,7 @@ jobs:
                       repo=${dir#*/}
                       repo=${repo%/}
                       if ! [[ $repo =~ ^(docs|titles)$ ]]; then
-                          git -C $HOME clone --single-branch --no-tags --depth=1 https://${{ secrets.LIBRESCORE_USER }}:${{ secrets.LIBRESCORE_TOKEN }}@github.com/LibreScore/$repo
+                          git -C $HOME clone --single-branch --no-tags --depth=1 https://${{ secrets.LIBRESCORE_USERNAME }}:${{ secrets.LIBRESCORE_TOKEN }}@github.com/LibreScore/$repo
                           mkdir -p $HOME/$repo/docs
                           rm -R -f $HOME/$repo/docs/*
                           cp -a $dir/* $HOME/$repo/docs/ -v
@@ -95,4 +95,4 @@ jobs:
             - name: Delete workflow run
               if: env.updated != 'true'
               run: |
-                curl -s -i -u ${{ secrets.LIBRESCORE_USER }}:${{ secrets.LIBRESCORE_TOKEN }} -d '{"event_type":"delete_action","client_payload":{"run_id":"'"${{ github.run_id }}"'","repo":"LibreScore/docs"}}' -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/LibreScore/actions/dispatches
+                curl -s -i -u ${{ secrets.LIBRESCORE_USERNAME }}:${{ secrets.LIBRESCORE_TOKEN }} -d '{"event_type":"delete_action","client_payload":{"run_id":"'"${{ github.run_id }}"'","repo":"LibreScore/docs"}}' -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/LibreScore/actions/dispatches
