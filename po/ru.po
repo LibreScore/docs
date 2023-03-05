@@ -2,14 +2,16 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-02-20 23:16+0000\n"
-"PO-Revision-Date: 2022-07-30 03:53+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/ru/>\n"
+"PO-Revision-Date: 2023-03-05 09:08+0000\n"
+"Last-Translator: Danil <danilkostenkov38@gmail.com>\n"
+"Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/"
+"ru/>\n"
 "Language: ru\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.13.1\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.15.2\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -146,6 +148,9 @@ msgstr ""
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
 msgstr ""
+"Если у вас есть какие-либо вопросы или предложения по поводу нашей политики "
+"конфиденциальности, не стесняйтесь обращаться к нам по адресу [contact@"
+"librescore.org ](mailto:contact@librescore.org ).↵\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -157,7 +162,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "LibreScore App"
-msgstr ""
+msgstr "Приложение LibreScore"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -182,7 +187,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Download the LibreScore app\n"
-msgstr ""
+msgstr "Скачать приложение LibreScore↵\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -196,12 +201,13 @@ msgstr "</div>\n"
 #, no-wrap
 msgid "> DISCLAIMER: This is not an officially endorsed MuseScore product\n"
 msgstr ""
+"> ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ: Это не официально одобренный продукт MuseScore↵\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Download"
-msgstr ""
+msgstr "Скачать"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -217,13 +223,13 @@ msgstr ""
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "Installation"
-msgstr ""
+msgstr "Установка"
 
 #. type: Title ###
 #: source/app-librescore/README.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -232,12 +238,15 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
+"1. Скачайте [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)↵\n"
+"2. Откройте EXE-файл, чтобы установить его↵\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "macOS"
-msgstr ""
+msgstr "macOS"
 
 #. type: Plain text
 #: source/app-librescore/README.md
