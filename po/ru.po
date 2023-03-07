@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-02-20 23:16+0000\n"
-"PO-Revision-Date: 2023-03-06 18:15+0000\n"
+"PO-Revision-Date: 2023-03-07 21:47+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/"
 "ru/>\n"
@@ -227,7 +227,7 @@ msgstr "Установка"
 
 #. type: Title ###
 #: source/app-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Windows"
 msgstr "Windows"
 
@@ -244,7 +244,7 @@ msgstr ""
 
 #. type: Title ###
 #: source/app-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "macOS"
 msgstr "macOS"
 
@@ -275,7 +275,7 @@ msgstr ""
 
 #. type: Title ###
 #: source/app-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Linux"
 msgstr "Linux"
 
@@ -297,7 +297,7 @@ msgstr ""
 
 #. type: Title ###
 #: source/app-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Android"
 msgstr "Android"
 
@@ -322,7 +322,7 @@ msgstr ""
 
 #. type: Title #
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "dl-librescore"
 msgstr "dl-librescore"
 
