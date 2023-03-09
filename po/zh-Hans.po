@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-02-20 23:16+0000\n"
-"PO-Revision-Date: 2023-01-28 10:01+0000\n"
+"PO-Revision-Date: 2023-03-09 04:47+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/librescore/docs/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/"
+"librescore/docs/zh_Hans/>\n"
 "Language: zh-Hans\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.15.1\n"
+"X-Generator: Weblate 4.16.1\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -157,7 +158,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "LibreScore App"
-msgstr "利布蕾斯科尔应用"
+msgstr "LibreScore 应用"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -182,7 +183,7 @@ msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Download the LibreScore app\n"
-msgstr "下载利布蕾斯科尔应用\n"
+msgstr "下载 LibreScore 应用\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
