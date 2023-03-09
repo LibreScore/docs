@@ -1,16 +1,14 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-02-20 23:16+0000\n"
+"POT-Creation-Date: 2023-03-09 04:53+0000\n"
 "PO-Revision-Date: 2023-03-07 21:47+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/"
-"ru/>\n"
+"Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/ru/>\n"
 "Language: ru\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.16.1\n"
 
 #. type: Plain text
@@ -147,10 +145,7 @@ msgstr ""
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
-msgstr ""
-"Если у вас есть какие-либо вопросы или предложения по поводу нашей политики "
-"конфиденциальности, не стесняйтесь обращаться к нам по адресу "
-"[contact@librescore.org](mailto:contact@librescore.org).\n"
+msgstr "Если у вас есть какие-либо вопросы или предложения по поводу нашей политики конфиденциальности, не стесняйтесь обращаться к нам по адресу [contact@librescore.org](mailto:contact@librescore.org).\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -200,8 +195,7 @@ msgstr "</div>\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "> DISCLAIMER: This is not an officially endorsed MuseScore product\n"
-msgstr ""
-"> ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ: Это не официально одобренный продукт MuseScore↵\n"
+msgstr "> ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ: Это не официально одобренный продукт MuseScore↵\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md
@@ -238,8 +232,7 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. Скачайте [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.exe)\n"
+"1. Скачайте [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Откройте EXE-файл, чтобы установить его.\n"
 
 #. type: Title ###
@@ -262,8 +255,7 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
-"1. Скачайте [LibreScore.dmg](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.dmg)\n"
+"1. Скачайте [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
 "2. Откройте файл DMG\n"
 "3. Переместите файл APP в папку Программы, чтобы установить его\n"
 "4. Удерживая клавишу Control, нажмите на файл APP\n"
@@ -288,11 +280,9 @@ msgid ""
 "3. Run `chmod a+x ./LibreScore.AppImage` to make it executable\n"
 "4. Run `./LibreScore.AppImage --install` to install it\n"
 msgstr ""
-"1. Скачайте [LibreScore.AppImage](https://github.com/LibreScore/"
-"app-librescore/releases/latest/download/LibreScore.AppImage)\n"
+"1. Скачайте [LibreScore.AppImage](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage)\n"
 "2. Установите `fuse2` для вашего дистрибутива\n"
-"3. Запустите `chmod a+x ./LibreScore.AppImage`, чтобы сделать его "
-"исполняемым\n"
+"3. Запустите `chmod a+x ./LibreScore.AppImage`, чтобы сделать его исполняемым\n"
 "4. Запустите `./LibreScore.AppImage --install`, чтобы установить его\n"
 
 #. type: Title ###
@@ -308,17 +298,14 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. Скачайте [LibreScore.apk](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.apk)\n"
+"1. Скачайте [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Откройте APK-файл, чтобы установить его\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr ""
-"> Примечание: Может появиться сообщение о Play Защита. Нажмите `Все равно "
-"установить` внизу\n"
+msgstr "> Примечание: Может появиться сообщение о Play Защита. Нажмите `Все равно установить` внизу\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
@@ -355,21 +342,12 @@ msgid ""
 "| [Command-line tool](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
 "| [Webmscore website](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgstr ""
-"| Программа                                                                  "
-"          | MSCZ | MIDI | MP3 | PDF | Преобразование |     | Windows | macOS "
-"| Linux | Android | iOS/iPadOS |\n"
-"| ---------------------------------------------------------------------------"
-"------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | "
-"----- | ------- | ---------- |\n"
-"| [Приложение](#приложение)                             | ✔️   | ✔️   | ✔️  |"
-" ❌  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [Юзерскрипт](#юзерскрипт)               | ❌   | ✔️   | ✔️  | ✔️  | ❌"
-"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-"| [Инструмент командной-строки](#инструмент-командной-строки) | ❌   | ✔️   |"
-" ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌"
-"         |\n"
-"| [Веб-сайт Вэбмскор](#веб-сайт-вэбмскор) | ❌   | ❌   | ❌  | ❌  | ✔️"
-"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| Программа                                                                            | MSCZ | MIDI | MP3 | PDF | Преобразование |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
+"| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
+"| [Приложение](#приложение)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Юзерскрипт](#юзерскрипт)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Инструмент командной-строки](#инструмент-командной-строки) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Веб-сайт Вэбмскор](#веб-сайт-вэбмскор) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -378,10 +356,8 @@ msgid ""
 "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
 "> Conversion types include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgstr ""
-"> Примечание: `Преобразование` относится к возможности преобразовывать файлы "
-"в другие типы файлов, в том числе те, которые нельзя загрузить в программе.\n"
-"> Типы преобразования включают: отдельные партии, PDF, PNG, SVG, MP3, WAV, "
-"FLAC, OGG, MIDI, MusicXML, MSCZ и MSCX.\n"
+"> Примечание: `Преобразование` относится к возможности преобразовывать файлы в другие типы файлов, в том числе те, которые нельзя загрузить в программе.\n"
+"> Типы преобразования включают: отдельные партии, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ и MSCX.\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -396,9 +372,7 @@ msgid ""
 "1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device\n"
 msgstr ""
-"1. Перейдите на страницу [ПРОЧТИМЕНЯ](https://github.com/LibreScore/"
-"app-librescore/blob/master/docs/ru/ПРОЧТИМЕНЯ.md#установка) репозитория `app-"
-"librescore`\n"
+"1. Перейдите на страницу [ПРОЧТИМЕНЯ](https://github.com/LibreScore/app-librescore/blob/master/docs/ru/ПРОЧТИМЕНЯ.md#установка) репозитория `app-librescore`\n"
 "2. Следуйте инструкциям по установке для вашего устройства\n"
 
 #. type: Title ###
@@ -415,11 +389,9 @@ msgid ""
 ">\n"
 "> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](#bookmark) instructions instead.\n"
 msgstr ""
-"> Примечание: Если ваше устройство работает под управлением iOS или iPadOS, "
-"следуйте инструкциям [Быстрая команда](#быстрая-команда).\n"
+"> Примечание: Если ваше устройство работает под управлением iOS или iPadOS, следуйте инструкциям [Быстрая команда](#быстрая-команда).\n"
 ">\n"
-"> Примечание: Если вы не можете установить расширения браузера на свое "
-"устройство, следуйте инструкциям [Закладка](#закладка).\n"
+"> Примечание: Если вы не можете установить расширения браузера на свое устройство, следуйте инструкциям [Закладка](#закладка).\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
@@ -437,10 +409,7 @@ msgstr "1. Установите [Tampermonkey](https://www.tampermonkey.net/?loc
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
-msgstr ""
-"> Примечание: Если вы уже установили старую версию скрипта под названием "
-"«musescore-downloader», «mscz downloader» или «musescore-dl», удалите ее с "
-"панели инструментов Tampermonkey\n"
+msgstr "> Примечание: Если вы уже установили старую версию скрипта под названием «musescore-downloader», «mscz downloader» или «musescore-dl», удалите ее с панели инструментов Tampermonkey\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -449,8 +418,7 @@ msgid ""
 "2. Go to the latest [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) file\n"
 "3. Press the Install button\n"
 msgstr ""
-"2. Перейдите к последнему файлу [dl-librescore.user.js](https://github.com/"
-"LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js)\n"
+"2. Перейдите к последнему файлу [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js)\n"
 "3. Нажмите кнопку Установить\n"
 
 #. type: Title ####
