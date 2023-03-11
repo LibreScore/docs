@@ -2,9 +2,10 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-03-10 11:51+0000\n"
-"PO-Revision-Date: 2023-03-09 04:47+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/librescore/docs/zh_Hans/>\n"
+"PO-Revision-Date: 2023-03-11 05:47+0000\n"
+"Last-Translator: Choi Cheuk Hin <s15002400@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/"
+"librescore/docs/zh_Hans/>\n"
 "Language: zh-Hans\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -146,6 +147,8 @@ msgstr ""
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
 msgstr ""
+"如果您對我們的隱私政策有任何疑問或建議，請隨時通過 [contact@librescore."
+"org](mailto:contact@librescore.org) 與我們聯繫。\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -273,7 +276,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Linux"
-msgstr ""
+msgstr "Linux 系統"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -360,6 +363,10 @@ msgid ""
 "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
 "> Conversion types include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgstr ""
+"> 注意：`轉換`是指將文件轉換為其他文件類型的能力，包括那些不能在此程式中下載"
+"的文件。\n"
+"> 轉換類型包括：樂譜中的單個樂器、PDF、PNG、SVG、MP3、WAV、FLAC、OGG、MIDI、M"
+"usicXML、MSCZ 和 MSCX。\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
