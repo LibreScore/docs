@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-07-30 06:05+0000\n"
+"POT-Creation-Date: 2023-07-30 03:35-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -23,12 +23,12 @@ msgstr ""
 msgid "<div dir=\"ltr\" align=\"left\">\n"
 msgstr ""
 
-#. type: Link reference
+#. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
 #: source/dl-librescore/README.md source/docs/README.md
 #: source/webmscore-pwa/README.md
 #, no-wrap
-msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\""
+msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
 msgstr ""
 
 #. type: Title #
