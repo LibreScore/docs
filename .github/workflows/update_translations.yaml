@@ -16,6 +16,9 @@ jobs:
             - name: Install po4a
               run: |
                   git -C $HOME clone --single-branch --recurse-submodules --shallow-submodules --no-tags --depth=1 https://github.com/mquinson/po4a
+                  git -C $HOME/po4a fetch --no-tags --depth=1 origin 5766962c0c67703d68d45c02da13600adbf08e61
+                  git -C $HOME/po4a checkout 5766962c0c67703d68d45c02da13600adbf08e61
+                  git -C $HOME/po4a branch -D @{-1}
                   mkdir -p $HOME/.local/bin
                   echo '#!/bin/bash
                   PERLLIB='"$HOME"'/po4a/lib '"$HOME"'/po4a/po4a "$@"' > $HOME/.local/bin/po4a
