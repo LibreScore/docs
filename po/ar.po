@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-07-30 03:00-0300\n"
+"POT-Creation-Date: 2023-07-30 06:05+0000\n"
 "PO-Revision-Date: 2023-03-06 18:15+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Arabic <https://librescore.ddns.net/projects/librescore/docs/ar/>\n"
@@ -19,12 +19,13 @@ msgstr ""
 msgid "<div dir=\"ltr\" align=\"left\">\n"
 msgstr "<div dir=\"rtl\" align=\"right\">\n"
 
-#. type: Plain text
+#. type: Link reference
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
 #: source/dl-librescore/README.md source/docs/README.md
 #: source/webmscore-pwa/README.md
-#, no-wrap
-msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
+#, fuzzy, no-wrap
+#| msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
+msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\""
 msgstr "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***لا تعدل فوق هذا السطر*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
 
 #. type: Title #
