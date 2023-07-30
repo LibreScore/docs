@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-07-30 05:47+0000\n"
+"POT-Creation-Date: 2023-07-30 03:00-0300\n"
 "PO-Revision-Date: 2023-07-23 10:39+0000\n"
 "Last-Translator: Wout Van den Bossche <woutvdb@icloud.com>\n"
 "Language-Team: Dutch <https://librescore.ddns.net/projects/librescore/docs/nl/>\n"
@@ -26,12 +26,12 @@ msgstr ""
 msgid "<div dir=\"ltr\" align=\"left\">\n"
 msgstr "<div dir=\"ltr\" align=\"left\">\n"
 
-#. type: Link reference
+#. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
 #: source/dl-librescore/README.md source/docs/README.md
 #: source/webmscore-pwa/README.md
 #, no-wrap
-msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\""
+msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
 msgstr ""
 
 #. type: Title #
@@ -248,7 +248,7 @@ msgstr ""
 
 #. type: Plain text
 #: source/app-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "1. Download [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
 "2. Open the DMG file\n"
