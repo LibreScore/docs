@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-08-15 05:54+0000\n"
-"PO-Revision-Date: 2023-08-24 20:16+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"PO-Revision-Date: 2023-08-24 20:18+0000\n"
+"Last-Translator: Wout Van den Bossche <woutvdb@icloud.com>\n"
 "Language-Team: Dutch <https://librescore.ddns.net/projects/librescore/docs/"
 "nl/>\n"
 "Language: nl\n"
@@ -249,7 +249,7 @@ msgstr ""
 
 #. type: Plain text
 #: source/app-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "1. Download [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
 "2. Open the DMG file\n"
@@ -265,6 +265,12 @@ msgstr ""
 "releases/latest/download/LibreScore.dmg)\n"
 "2. Open het DMG bestand\n"
 "3. Verplaats het APP bestand naar de Applicaties map om het te installeren\n"
+"4. Control-klik het APP bestand\n"
+"5. Klik `Open` in het snelkoppeling menu\n"
+"6. Klik onderaan op `Open`\n"
+"7. Sluit het DMG bestand\n"
+"8. Control-klik het DMG bestand\n"
+"9. Klik op `Eject` in het snelkoppeling menu\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
