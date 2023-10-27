@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-08-24 20:39+0000\n"
-"PO-Revision-Date: 2023-10-22 02:09+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"PO-Revision-Date: 2023-10-27 12:58+0000\n"
+"Last-Translator: Mine_My <me@minemy.me>\n"
 "Language-Team: Korean <https://librescore.ddns.net/projects/librescore/docs/"
 "ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.0.2\n"
+"X-Generator: Weblate 5.1\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -149,6 +149,9 @@ msgstr ""
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
 msgstr ""
+"우리의 개인정보취급방침에 대해 질문이나 건의사항이 있다면, "
+"[contact@librescore.org](mailto:contact@librescore.org)를 통해 우리에게 "
+"연락해 주세요.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -174,12 +177,21 @@ msgstr "<div align=\"center\">\n"
 #, no-wrap
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
 msgstr ""
+"<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo."
+"png\" width=\"256\" alt=\"LibreScore 로고\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
 msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
+"app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/"
+"librescore) [![Github의 모든 릴리즈](https://img.shields.io/github/downloads/"
+"LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/"
+"LibreScore/app-librescore/releases/latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -198,7 +210,7 @@ msgstr "</div>\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "> DISCLAIMER: This is not an officially endorsed MuseScore product\n"
-msgstr ""
+msgstr "> 면책 조항: 이것은 공식적으로 승인된 MuseScore 제품이 아닙니다\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md
@@ -215,6 +227,34 @@ msgid ""
 "|                                            Windows (7+) (64-bit only)                                            |                                        macOS (10.14+) (Rosetta 2)                                         |                                               Linux (64-bit only)                                                |                                             Android (6.0+)                                             |\n"
 "|      [Download (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Download (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Download (AppImage)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage) | [Download (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 msgstr ""
+"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/"
+"Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https"
+"://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29."
+"svg\" width=\"512\"> |               <img src=\"https://upload.wikimedia.org/"
+"wikipedia/commons/3/35/Tux.svg\" width=\"512\">                |   <img src="
+"\"https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head."
+"svg\" width=\"512\">   |\n"
+"| :--------------------------------------------------------------------------"
+"------------------------------------: | :------------------------------------"
+"-------------------------------------------------------------------: | :-----"
+"-----------------------------------------------------------------------------"
+"----------------------------: | :--------------------------------------------"
+"--------------------------------------------------------: |\n"
+"|                                            Windows (7 이상) (64비트 전용)"
+"                                            |"
+"                                        macOS (10.14 이상) (Rosetta 2)"
+"                                         |"
+"                                               Linux (64비트 전용)"
+"                                                |"
+"                                             Android (6.0 이상)"
+"                                             |\n"
+"|      [다운로드 (EXE)](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)      |  [다운로드 "
+"(DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/"
+"LibreScore.dmg)   | [다운로드 (AppImage)](https://github.com/LibreScore/"
+"app-librescore/releases/latest/download/LibreScore.AppImage) | [다운로드 "
+"(APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/"
+"LibreScore.apk) |\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -235,16 +275,19 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
+"1. [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/"
+"latest/download/LibreScore.exe)를 다운로드 하세요\n"
+"2. EXE 파일을 열어 실행하세요\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "macOS"
-msgstr ""
+msgstr "macOS"
 
 #. type: Plain text
 #: source/app-librescore/README.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "1. Download [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
 "2. Open the DMG file\n"
@@ -256,12 +299,22 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
+"1. [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/"
+"latest/download/LibreScore.dmg)를 다운로드 하세요\n"
+"2. DMG 파일을 여세요\n"
+"3. APP 파일을 응용 프로그램 폴더로 끌어 설치하세요\n"
+"4. APP 파일을 Control-클릭하세요\n"
+"5. 단축 메뉴에서 `열기` 를 클릭하세요\n"
+"6. 아래의 `열기` 를 클릭하세요\n"
+"7. DMG 파일을 닫으세요\n"
+"8. DMG 파일을 Control-클릭하세요\n"
+"9. 단축 메뉴에서 `추출` 을 클릭하세요\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -272,12 +325,18 @@ msgid ""
 "3. Run `chmod a+x ./LibreScore.AppImage` to make it executable\n"
 "4. Run `./LibreScore.AppImage --install` to install it\n"
 msgstr ""
+"1. [LibreScore.AppImage](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.AppImage)를 다운로드 하세요\n"
+"2. 당신의 배포판에 `fuse2` 를 설치하세요\n"
+"3. 명령어 `chmod a+x ./LibreScore.AppImage` 를 입력하여 실행가능 파일로 "
+"만드세요\n"
+"4. 명령어 `./LibreScore.AppImage --install` 를 입력하여 설치하세요\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Android"
-msgstr ""
+msgstr "Android"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -286,40 +345,55 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
+"1. [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/"
+"latest/download/LibreScore.apk)를 다운로드 하세요\n"
+"2. APK 파일을 열어 설치합니다\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr ""
+msgstr "> 노트: Play Protect에 관련된 메시지가 표시된다면  아래의 `무시하고 계속하기`"
+" 를 탭하세요\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "dl-librescore"
-msgstr ""
+msgstr "dl-librescore"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
 msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
+"dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/"
+"librescore) [![Github의 모든 배포](https://img.shields.io/github/downloads/"
+"LibreScore/app-librescore/total.svg?label=App)](https://github.com/"
+"LibreScore/app-librescore/releases/latest) [![Github의 모든 배포](https://img"
+".shields.io/github/downloads/LibreScore/dl-librescore/total."
+"svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/"
+"latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-"
+"line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Download sheet music\n"
-msgstr ""
+msgstr "음악 악보를 다운로드할 수 있습니다\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "There are 4 different installable programs:\n"
-msgstr ""
+msgstr "4개의 다른 설치가능한 프로그램이 있습니다:\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "| Program                                                                            | MSCZ | MIDI | MP3 | PDF | Conversion |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
 "| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
@@ -328,6 +402,20 @@ msgid ""
 "| [Command-line tool](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
 "| [Webmscore website](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgstr ""
+"| 프로그램                                                                   "
+"         | MSCZ | MIDI | MP3 | PDF | Conversion |     | Windows | macOS | "
+"Linux | Android | iOS/iPadOS |\n"
+"| ---------------------------------------------------------------------------"
+"------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | "
+"----- | ------- | ---------- |\n"
+"| [애플리케이션](#app)                             | ✔️   | ✔️   | ✔️  | ❌  "
+"| ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [유저스크립트](#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [커맨드라인 도구](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Webmscore 웹사이트](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -341,7 +429,7 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "App"
-msgstr ""
+msgstr "애플리케이션"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -383,6 +471,9 @@ msgstr ""
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
 msgstr ""
+"> 노트: \"musescore-downloader\", \"mcsz downloader\", 또는 \"musescore-"
+"dl\"라고 불리는 구버전 스크립트가 설치되어 있다면 Tampermonkey 대시보드에서 "
+"제거하세요\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -506,12 +597,16 @@ msgstr ""
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
 msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
+"docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
 
 #. type: Plain text
 #: source/docs/README.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Documentation translations\n"
-msgstr ""
+msgstr "문서 번역\n"
 
 #. type: Title ##
 #: source/docs/README.md
@@ -524,24 +619,31 @@ msgstr ""
 #, no-wrap
 msgid "1. Create a `XX.po` file, where `XX` is a language code (ex: `pt` or `zh-Hant`) in the `po/` directory\n"
 msgstr ""
+"1. `po/` 디렉토리에 `XX.po` 파일을 만드세요. `XX`는 언어 코드입니다 (예: `pt`"
+" 또는 `zh-Hant`)\n"
 
 #. type: Plain text
 #: source/docs/README.md
 #, no-wrap
 msgid "1. `./po4a.sh`\n"
-msgstr ""
+msgstr "1. `./po4a.sh`\n"
 
 #. type: Title #
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Webmscore PWA"
-msgstr ""
+msgstr "Webmscore PWA"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
 msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
+"webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/"
+"librescore)\n"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
