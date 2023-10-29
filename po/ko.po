@@ -2,9 +2,10 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-10-27 13:22+0000\n"
-"PO-Revision-Date: 2023-10-27 12:58+0000\n"
+"PO-Revision-Date: 2023-10-29 04:58+0000\n"
 "Last-Translator: Mine_My <me@minemy.me>\n"
-"Language-Team: Korean <https://librescore.ddns.net/projects/librescore/docs/ko/>\n"
+"Language-Team: Korean <https://librescore.ddns.net/projects/librescore/docs/"
+"ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -374,12 +375,15 @@ msgid ""
 "1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device\n"
 msgstr ""
+"1. `app-librescore` 저장소의 [README](https://github.com/LibreScore/app-"
+"librescore#installation) 페이지로 이동하세요\n"
+"2. 기기에 맞는 지침을 따릅니다\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Userscript"
-msgstr ""
+msgstr "유저스크립트"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -389,18 +393,22 @@ msgid ""
 ">\n"
 "> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](#bookmark) instructions instead.\n"
 msgstr ""
+"> 노트: 기기가 iOS나iPadOS라면 [단축어](#shortcut) 지침을 따르세요.\n"
+">\n"
+"> 노트: 디바이스에 확장 프로그램을 설치할 수 없는 경우 대신 "
+"[북마크](#bookmark) 지침을 따르세요.\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Browser extension"
-msgstr ""
+msgstr "브라우저 확장프로그램"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "1. Install [Tampermonkey](https://www.tampermonkey.net)\n"
-msgstr ""
+msgstr "1. [Tampermonkey](https://www.tampermonkey.net)를 설치하세요\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -415,12 +423,16 @@ msgid ""
 "2. Go to the latest [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) file\n"
 "3. Press the Install button\n"
 msgstr ""
+"2. 최신 버전의 [dl-librescore.user.js](https://github.com/LibreScore/"
+"dl-librescore/releases/latest/download/dl-librescore.user.js) 파일로 "
+"이동하세요\n"
+"3. 설치 버튼을 누릅니다\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Shortcut"
-msgstr ""
+msgstr "단축어"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
