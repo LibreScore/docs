@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-10-27 13:22+0000\n"
-"PO-Revision-Date: 2023-10-29 04:58+0000\n"
-"Last-Translator: Mine_My <me@minemy.me>\n"
+"PO-Revision-Date: 2023-11-03 20:14+0000\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Korean <https://librescore.ddns.net/projects/librescore/docs/"
 "ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.1\n"
+"X-Generator: Weblate 5.1.1\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -338,7 +338,7 @@ msgstr "4개의 다른 설치가능한 프로그램이 있습니다:\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "| Program                                                                            | MSCZ | MIDI | MP3 | PDF | Conversion |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
 "| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
@@ -347,12 +347,21 @@ msgid ""
 "| [Command-line tool](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
 "| [Webmscore website](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgstr ""
-"| 프로그램                                                                            | MSCZ | MIDI | MP3 | PDF | Conversion |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
-"| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
-"| [애플리케이션](#app)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [유저스크립트](#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-"| [커맨드라인 도구](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [Webmscore 웹사이트](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| 프로그램                                                                   "
+"         | MSCZ | 미디 | MP3 | PDF | 변환 |     | 윈도우 | 맥 OS | 리눅스 | "
+"안드로이드 | iOS/아이패드OS |\n"
+"| ---------------------------------------------------------------------------"
+"------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | "
+"----- | ------- | ---------- |\n"
+"| [애플리케이션](#애플리케이션)                             | ✔️   | ✔️   | "
+"✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌"
+"         |\n"
+"| [유저스크립트](#유저스크립트)               | ❌   | ✔️   | ✔️  | ✔️  | ❌"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [명령줄 도구](#명령줄-도구) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | "
+"✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [웹엠스코어 웹사이트](#웹엠스코어-웹사이트) | ❌   | ❌   | ❌  | ❌  | ✔️"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -370,13 +379,14 @@ msgstr "애플리케이션"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device\n"
 msgstr ""
-"1. `app-librescore` 저장소의 [README](https://github.com/LibreScore/app-"
-"librescore#installation) 페이지로 이동하세요\n"
+"1. `app-librescore` 저장소의 [저를읽으세요](https://github.com/LibreScore/"
+"app-librescore/blob/master/docs/ko/저를읽으세요.md#설치) 페이지로 "
+"이동하세요\n"
 "2. 기기에 맞는 지침을 따릅니다\n"
 
 #. type: Title ###
@@ -393,16 +403,16 @@ msgid ""
 ">\n"
 "> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](#bookmark) instructions instead.\n"
 msgstr ""
-"> 노트: 기기가 iOS나iPadOS라면 [단축어](#shortcut) 지침을 따르세요.\n"
+"> 노트: 기기가 iOS나iPadOS라면 [단축어](#단축어) 지침을 따르세요.\n"
 ">\n"
-"> 노트: 디바이스에 확장 프로그램을 설치할 수 없는 경우 대신 "
-"[북마크](#bookmark) 지침을 따르세요.\n"
+"> 노트: 디바이스에 확장 프로그램을 설치할 수 없는 경우 대신 [북마크](#북마크)"
+" 지침을 따르세요.\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Browser extension"
-msgstr "브라우저 확장프로그램"
+msgstr "브라우저 확장"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -493,13 +503,13 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Webmscore website"
-msgstr ""
+msgstr "웹엠스코어 웹사이트"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "1. Open [Webmscore](https://webmscore-pwa.librescore.org)\n"
-msgstr ""
+msgstr "1. [웹엠스코어](https://webmscore-pwa.librescore.org)를 여세요\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -571,13 +581,18 @@ msgstr "1. `./po4a.sh`\n"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Webmscore PWA"
-msgstr "Webmscore PWA"
+msgstr "웹엠스코어 프로그레시브 웹 애플리케이션"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
-msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
+msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
+"webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/"
+"librescore)\n"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
@@ -633,6 +648,6 @@ msgstr "개인정보처리방침"
 
 #. type: Hash Value: README
 #: source/titles/titles.yaml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "README"
-msgstr "이것을읽어라"
+msgstr "저를읽으세요"
