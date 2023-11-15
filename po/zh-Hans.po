@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
-"PO-Revision-Date: 2023-03-27 04:47+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/librescore/docs/zh_Hans/>\n"
+"PO-Revision-Date: 2023-11-15 14:03+0000\n"
+"Last-Translator: Chiloven Bustiangle <yan_hun233@outlook.com>\n"
+"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/"
+"librescore/docs/zh_Hans/>\n"
 "Language: zh-Hans\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.16.4\n"
+"X-Generator: Weblate 5.1.1\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -376,6 +377,9 @@ msgid ""
 "1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device\n"
 msgstr ""
+"1. 前往 [README](https://github.com/LibreScore/app-librescore#installation) "
+"页面找到 `app-librescore` 储存库\n"
+"2. 按照您设备的安装流程进行安装\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -402,13 +406,15 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "1. Install [Tampermonkey](https://www.tampermonkey.net)\n"
-msgstr ""
+msgstr "1. 安装 [Tampermonkey](https://www.tampermonkey.net)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
 msgstr ""
+"> 提示：如果您已经安装了名为“musescore-downloader”、“mcsz downloader”或"
+"“musescore-dl”的旧版本脚本，请从Tampermonkey管理面板中卸载它\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -417,12 +423,15 @@ msgid ""
 "2. Go to the latest [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) file\n"
 "3. Press the Install button\n"
 msgstr ""
+"2. 访问最新的 [dl-librescore.user.js](https://github.com/LibreScore/"
+"dl-librescore/releases/latest/download/dl-librescore.user.js) 文件\n"
+"3. 按下安装按钮\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Shortcut"
-msgstr ""
+msgstr "快捷方式"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -432,6 +441,12 @@ msgid ""
 "2. In Safari, when viewing a song on MuseScore, tap <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
 "3. Tap the LibreScore shortcut to activate the extension\n"
 msgstr ""
+"1. 安装 [LibreScore快捷方式](https://www.icloud.com/shortcuts/"
+"901d8778d2da4f7db9272d3b2232d0fe)\n"
+"2. 在Safari中，当在MuseScore上查看歌曲时，点击<img src=\"https://help.apple."
+"com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
+"01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
+"3. 点击LibreScore快捷方式激活扩展\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -451,7 +466,7 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Bookmark"
-msgstr ""
+msgstr "书签"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -463,6 +478,14 @@ msgid ""
 "4. Save the bookmark\n"
 "5. When viewing a song on MuseScore, click the bookmark to activate the extension\n"
 msgstr ""
+"1. 创建一个新书签(通常是Ctrl+D)\n"
+"2. 在Name字段中输入 `LibreScore`\n"
+"3. 键入 `javascript:(function () {let code = document."
+"createElement('script');code.src = 'https://github.com/LibreScore/"
+"dl-librescore/releases/latest/download/dl-librescore.user.js';document.body."
+"appendChild(code);}())` 用于URL字段\n"
+"4. 保存书签\n"
+"5. 在MuseScore上查看歌曲时，单击书签以激活扩展\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
