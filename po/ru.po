@@ -2,14 +2,16 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
-"PO-Revision-Date: 2023-03-27 04:47+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/ru/>\n"
+"PO-Revision-Date: 2024-03-11 03:42+0000\n"
+"Last-Translator: foa vzgio <shamoonkhalifa158@gmail.com>\n"
+"Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/"
+"ru/>\n"
 "Language: ru\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.16.4\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.4.2\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -171,18 +173,27 @@ msgstr "<div align=\"center\">\n"
 #, no-wrap
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
 msgstr ""
+"<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo."
+"png\" width=\"256\" alt=\"LibreScore лого\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
 msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
+"app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/"
+"librescore) [![Github All Releases](https://img.shields.io/github/downloads/"
+"LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/"
+"LibreScore/app-librescore/releases/latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Download the LibreScore app\n"
-msgstr "Скачать приложение ЛибрэСкор\n"
+msgstr "Скачать приложение LibreScore\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -195,7 +206,7 @@ msgstr "</div>\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "> DISCLAIMER: This is not an officially endorsed MuseScore product\n"
-msgstr "> ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ: Это не официально одобренный продукт MuseScore↵\n"
+msgstr "> ДИСКЛЕЙМЕР: Это не официально одобренный продукт MuseScore↵\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md
@@ -212,6 +223,33 @@ msgid ""
 "|                                            Windows (7+) (64-bit only)                                            |                                        macOS (10.14+) (Rosetta 2)                                         |                                               Linux (64-bit only)                                                |                                             Android (6.0+)                                             |\n"
 "|      [Download (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Download (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Download (AppImage)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage) | [Download (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 msgstr ""
+"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/"
+"Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https"
+"://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29."
+"svg\" width=\"512\"> |               <img src=\"https://upload.wikimedia.org/"
+"wikipedia/commons/3/35/Tux.svg\" width=\"512\">                |   <img src="
+"\"https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head."
+"svg\" width=\"512\">   |\n"
+"| :--------------------------------------------------------------------------"
+"------------------------------------: | :------------------------------------"
+"-------------------------------------------------------------------: | :-----"
+"-----------------------------------------------------------------------------"
+"----------------------------: | :--------------------------------------------"
+"--------------------------------------------------------: |\n"
+"|                                            Windows (7+) (64-bit only)"
+"                                            |"
+"                                        macOS (10.14+) (Rosetta 2)"
+"                                         |"
+"                                               Linux (64-bit only)"
+"                                                |"
+"                                             Android (6.0+)"
+"                                             |\n"
+"|      [Скачать (EXE)](https://github.com/LibreScore/app-librescore/releases/"
+"latest/download/LibreScore.exe)      |  [Скачать (DMG)](https://github.com/"
+"LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | ["
+"Скачать (AppImage)](https://github.com/LibreScore/app-librescore/releases/"
+"latest/download/LibreScore.AppImage) | [Скачать (APK)](https://github.com/"
+"LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md source/dl-librescore/README.md
