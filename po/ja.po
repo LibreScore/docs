@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
-"PO-Revision-Date: 2022-07-30 03:53+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Japanese <https://librescore.ddns.net/projects/librescore/docs/ja/>\n"
+"PO-Revision-Date: 2024-03-13 14:33+0000\n"
+"Last-Translator: xbact <applesaportplas@gmail.com>\n"
+"Language-Team: Japanese <https://librescore.ddns.net/projects/librescore/"
+"docs/ja/>\n"
 "Language: ja\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.13.1\n"
+"X-Generator: Weblate 5.4.2\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -26,6 +27,8 @@ msgstr "<div dir=\"ltr\" align=\"left\">\n"
 #, no-wrap
 msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
 msgstr ""
+"[//]:# \"◆+_=!|!=_=!|!==_/+/***この行より上は編集しないでください。*** "
+"/+/^^+#|#+^+#|#+^+\"\n"
 
 #. type: Title #
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -73,7 +76,7 @@ msgstr ""
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Log Data"
-msgstr ""
+msgstr "ログ"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -85,7 +88,7 @@ msgstr ""
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Security"
-msgstr ""
+msgstr "セキュリティ"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -121,7 +124,7 @@ msgstr ""
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Changes to This Privacy Policy"
-msgstr ""
+msgstr "プライバシーポリシーの変更"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -146,6 +149,8 @@ msgstr ""
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
 msgstr ""
+"当社の個人情報保護方針についてご質問やご提案がございましたら、[contact@libres"
+"core.org](mailto:contact@librescore.org) までご連絡ください。\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -157,7 +162,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "LibreScore App"
-msgstr ""
+msgstr "LibreScoreアプリ"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -171,18 +176,28 @@ msgstr "<div align=\"center\">\n"
 #, no-wrap
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
 msgstr ""
+"<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo."
+"png\" width=\"256\" alt=\"LibreScore logo\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
 msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![ウェブレート](https://weblate.librescore.org/widgets/"
+"librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/"
+"engage/librescore) [![Githubのすべてのリリース](https://img.shields.io/"
+"github/downloads/LibreScore/app-librescore/total."
+"svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/"
+"latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Download the LibreScore app\n"
-msgstr ""
+msgstr "LibreScoreアプリをダウンロード\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -201,7 +216,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -223,7 +238,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -338,7 +353,7 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "App"
-msgstr ""
+msgstr "アプリ"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -393,7 +408,7 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Shortcut"
-msgstr ""
+msgstr "ショートカット"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -422,7 +437,7 @@ msgstr ""
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Bookmark"
-msgstr ""
+msgstr "ブックマーク"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -434,6 +449,14 @@ msgid ""
 "4. Save the bookmark\n"
 "5. When viewing a song on MuseScore, click the bookmark to activate the extension\n"
 msgstr ""
+"1.新しいブックマークの作成（通常Ctrl+D）\n"
+"2.名前フィールドに `LibreScore` と入力\n"
+"3.URLフィールドに`javascript:(function () {let code = document."
+"createElement('script');code.src = 'https://github.com/LibreScore/"
+"dl-librescore/releases/latest/download/dl-librescore.user.js';document.body."
+"appendChild(code);}())`と入力\n"
+"4.ブックマークを保存\n"
+"5.MuseScoreで曲表示時に、ブックマークをクリックすると拡張機能が有効\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -473,7 +496,7 @@ msgstr ""
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Building"
-msgstr ""
+msgstr "建築物"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -514,7 +537,7 @@ msgstr ""
 #: source/docs/README.md
 #, no-wrap
 msgid "Adding languages"
-msgstr ""
+msgstr "言語を追加"
 
 #. type: Plain text
 #: source/docs/README.md
