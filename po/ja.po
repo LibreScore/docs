@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
-"PO-Revision-Date: 2024-03-13 14:33+0000\n"
+"PO-Revision-Date: 2024-03-17 11:33+0000\n"
 "Last-Translator: xbact <applesaportplas@gmail.com>\n"
 "Language-Team: Japanese <https://librescore.ddns.net/projects/librescore/"
 "docs/ja/>\n"
@@ -273,7 +273,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -284,12 +284,17 @@ msgid ""
 "3. Run `chmod a+x ./LibreScore.AppImage` to make it executable\n"
 "4. Run `./LibreScore.AppImage --install` to install it\n"
 msgstr ""
+"1.LibreScore.AppImage](https://github.com/LibreScore/app-librescore/releases/"
+"latest/download/LibreScore.AppImage)をダウンロード。\n"
+"2.使用しているディストリビューション用に `fuse2` をインストールする。\n"
+"3.chmod `chmod a+x ./LibreScore.AppImage` を実行して実行可能にする。\n"
+"4.`./LibreScore.AppImage --install` を実行してインストールする。\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Android"
-msgstr ""
+msgstr "Android"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -298,36 +303,53 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
+"1.[LibreScore.apk]をダウンロード(https://github.com/LibreScore/"
+"app-librescore/releases/latest/download/LibreScore.apk)\n"
+"2.APKファイルを開いてインストールする。\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
 msgstr ""
+"> 注意：Play "
+"Protectにメッセージが表示される場合があります。その場合、一番下の「 `Install "
+"Anyway` 」をタップしてください。\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "dl-librescore"
-msgstr ""
+msgstr "dl-librescore"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
 msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![公式サイト](https://weblate.librescore.org/widgets/librescore/"
+"-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/"
+"librescore) [![Github All Releases](https://img.shields.io/github/downloads/"
+"LibreScore/app-librescore/total.svg?label=App)](https://github.com/"
+"LibreScore/app-librescore/releases/latest) [![Githubのリリース](https://img."
+"shields.io/github/downloads/LibreScore/dl-librescore/total."
+"svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/"
+"latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-"
+"line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Download sheet music\n"
-msgstr ""
+msgstr "楽譜のダウンロード\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "There are 4 different installable programs:\n"
-msgstr ""
+msgstr "インストール可能なプログラムは4種類あります：\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
