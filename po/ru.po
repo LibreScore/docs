@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
-"PO-Revision-Date: 2024-04-29 21:33+0000\n"
+"PO-Revision-Date: 2024-04-30 10:33+0000\n"
 "Last-Translator: DKOTOFFEY <dimkakotoff@gmail.com>\n"
 "Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/"
 "ru/>\n"
@@ -231,7 +231,8 @@ msgstr "</div>\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "> DISCLAIMER: This is not an officially endorsed MuseScore product\n"
-msgstr "> ДИСКЛЕЙМЕР: Это не официально одобренный продукт MuseScore↵\n"
+msgstr ""
+"> ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ: Это не официально одобренный продукт MuseScore↵\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md
@@ -381,6 +382,17 @@ msgstr "dl-librescore"
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
 msgstr ""
+"[![ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ](https://img.shields.io/discord/77449165664367412"
+"2?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https"
+"://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/"
+"librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/"
+"engage/librescore) [![Github All Releases](https://img.shields.io/github/"
+"downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/"
+"LibreScore/app-librescore/releases/latest) [![Github All "
+"Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/"
+"total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/"
+"releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label"
+"=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
