@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
-"PO-Revision-Date: 2024-04-30 12:33+0000\n"
+"PO-Revision-Date: 2024-04-30 20:33+0000\n"
 "Last-Translator: DKOTOFFEY <dimkakotoff@gmail.com>\n"
 "Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/"
 "ru/>\n"
@@ -40,66 +40,96 @@ msgstr "Политика конфиденциальности"
 #, no-wrap
 msgid "LibreScore built the LibreScore app as a Free app. This SERVICE is provided by LibreScore at no cost and is intended for use as is.\n"
 msgstr ""
+"ЛибрэСкор собрало приложение ЛибрэСкор как свободное и бесплатное "
+"приложение. Этот СЕРВИС предоставляется ЛибрэСкор абсолютно бесплатно и "
+"запланировано для использования как оно есть.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\n"
 msgstr ""
+"Эта страница использована для уведомления пользователей  о нашей политике в "
+"отношении использования, хранения и раскрытия личной информации, если кто-то "
+"захочет использовать наш Сервис\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\n"
 msgstr ""
+"Если вы решили использовать наш Сервис, тогда вы соглашаетесь на сбор и "
+"использовать информации в отношении нашей политики. Персональная Информация, "
+"которую мы собираем, используется для улучшения Сервиса. Мы не будем "
+"использовать или делиться вашей информацией с другими, исключая то, что "
+"написано в этой Политике Конфиденциальности.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at LibreScore unless otherwise defined in this Privacy Policy.\n"
 msgstr ""
+"Термины, используемые в этой Политике Конфиденциальности имеют такое же "
+"определение, что и в наших Условиях Использования, которые применимы к "
+"ЛибрэСкор , если иное не определено в этой Политике конфиденциальности.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Information Collection and Use"
-msgstr ""
+msgstr "Сбор и использование информации"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.\n"
 msgstr ""
+"Для лучшего опыта во время использования нашего Сервиса, мы можем запросить "
+"вас предоставить нам конкретную персональную информацию. Информация, которую "
+"мы запрашиваем будет храниться нами и использоваться как описано в этой "
+"политике конфиденциальности.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Log Data"
-msgstr ""
+msgstr "Данные журнала"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\\\"IP\\\") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.\n"
 msgstr ""
+"Мы хотим сообщить вам, что каждый раз, когда вы используете наш Сервис, в "
+"случае обнаружении ошибки в приложении мы собираем данные и информацию ("
+"через сторонние продукты) на вашем телефоне в раздел «Данные журнала». Эти "
+"данные могут включать такую информацию, как адрес интернет-протокола вашего "
+"устройства («IP»), имя устройства, версию операционной системы, конфигурацию "
+"приложения при использовании нашего Сервиса, время и дату использования вами "
+"Сервиса, а также другую статистику.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Security"
-msgstr ""
+msgstr "Безопасность"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.\n"
 msgstr ""
+"Мы ценим ваше доверие к предоставлению нам вашей личной информации, поэтому "
+"мы стремимся использовать коммерчески приемлемые средства ее защиты. Но "
+"помните, что ни один метод передачи через Интернет, ни один метод "
+"электронного хранения не на 100% безопасен и надежен, и мы не можем "
+"гарантировать его абсолютную безопасность.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Links to Other Sites"
-msgstr ""
+msgstr "Ссылки на Другие Сайты"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -675,31 +705,39 @@ msgstr "1. `./po4a.sh`\n"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Webmscore PWA"
-msgstr ""
+msgstr "Webmscore PWA (прогрессивное веб-приложение)"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
 msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
+"webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/"
+"librescore)\n"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "The official frontend for the webmscore tool: <https://webmscore-pwa.librescore.org>\n"
 msgstr ""
+"Официальный интерфейс webmscore: <https://webmscore-pwa.librescore.org>\n"
 
 #. type: Title ##
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Developing"
-msgstr ""
+msgstr "Разработка"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:\n"
 msgstr ""
+"Как только вы создали проект и установили зависимости при помощи команды `"
+"npm install` (или `pnpm install,` или `yarn`), запустите сервер разработки:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
@@ -710,12 +748,18 @@ msgid ""
 "# or start the server and open the app in a new browser tab\n"
 "npm run dev -- --open\n"
 msgstr ""
+"npm run dev\n"
+"\n"
+"# или запустите сервер и откройте приложение в новой вкладке браузера\n"
+"npm run dev -- --open\n"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:\n"
 msgstr ""
+"Перед созданием версии вашего приложения, установите [адаптер](https://kit."
+"svelte.dev/docs#adapters) для вашей целевой оболочки. Тогда:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
@@ -728,6 +772,9 @@ msgstr "npm run build\n"
 #, no-wrap
 msgid "> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.\n"
 msgstr ""
+"> Вы можете сделать предпросмотр приложения, выполнив команду `npm run "
+"preview`, независимо от того установили вы или нет адаптер. _Не_ используйте "
+"это для конечной версии продукта.\n"
 
 #. type: Hash Value: PRIVACY-POLICY
 #: source/titles/titles.yaml
