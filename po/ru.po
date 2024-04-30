@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
-"PO-Revision-Date: 2024-04-30 10:33+0000\n"
+"PO-Revision-Date: 2024-04-30 12:33+0000\n"
 "Last-Translator: DKOTOFFEY <dimkakotoff@gmail.com>\n"
 "Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/"
 "ru/>\n"
@@ -464,9 +464,11 @@ msgid ""
 ">\n"
 "> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](#bookmark) instructions instead.\n"
 msgstr ""
-"> Примечание: Если ваше устройство работает под управлением iOS или iPadOS, следуйте инструкциям [Быстрая команда](#быстрая-команда).\n"
+"> Примечание: Если ваше устройство работает под управлением iOS или iPadOS, "
+"следуйте инструкциям [Быстрая команда](#быстрая-команда).\n"
 ">\n"
-"> Примечание: Если вы не можете установить расширения браузера на свое устройство, следуйте инструкциям [Закладка](#закладка).\n"
+"> Примечание: Если вы не можете установить расширения браузера на своё "
+"устройство, следуйте инструкциям [Закладка](#закладка).\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
@@ -484,7 +486,10 @@ msgstr "1. Установите [Tampermonkey](https://www.tampermonkey.net/?loc
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
-msgstr "> Примечание: Если вы уже установили старую версию скрипта под названием «musescore-downloader», «mscz downloader» или «musescore-dl», удалите ее с панели инструментов Tampermonkey\n"
+msgstr ""
+"> Примечание: Если вы уже установили старую версию скрипта под названием "
+"«musescore-downloader», «mscz downloader» или «musescore-dl», удалите её с "
+"панели инструментов Tampermonkey\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -510,6 +515,12 @@ msgid ""
 "2. In Safari, when viewing a song on MuseScore, tap <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
 "3. Tap the LibreScore shortcut to activate the extension\n"
 msgstr ""
+"1. Установите [ярлык LibreScore] (https://www.icloud.com/shortcuts/"
+"901d8778d2da4f7db9272d3b2232d0fe).\n"
+"2. В Safari при просмотре песни на MuseScore нажмите <img src=\"https://help."
+"apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
+"01f5a9889bbecc202d8cbb3067a261ad.png height=\" 16\">\n"
+"3. Нажмите ярлык LibreScore, чтобы активировать расширение\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -541,6 +552,15 @@ msgid ""
 "4. Save the bookmark\n"
 "5. When viewing a song on MuseScore, click the bookmark to activate the extension\n"
 msgstr ""
+"1. Создайте новуб закладку (обычно Ctrl+D)\n"
+"2. Введите `LibreScore` для поля Name\n"
+"3. Введите `javascript:(function () {let code = document."
+"createElement('script');code.src = 'https://github.com/LibreScore/"
+"dl-librescore/releases/latest/download/dl-librescore.user.js';document.body."
+"appendChild(code);}())` для поля URL\n"
+"4. Сохраните закладку\n"
+"5. Во время просмотра песни на MuseScore, кликните на закладку, чтобы "
+"активировать расширение\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -556,6 +576,9 @@ msgid ""
 "2. Open a terminal (do _not_ open the Node.js application)\n"
 "3. Type `npx dl-librescore@latest`, then press `Enter ↵`\n"
 msgstr ""
+"1. Установите [Node.js LTS](https://nodejs.org).\n"
+"2. Откройте терминал (не открывайте приложение Node.js)\n"
+"3. Введите `npx dl-librescore@latest`, затем нажмите `Enter ↵`\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -574,13 +597,15 @@ msgstr ""
 #, no-wrap
 msgid "> Note: You can access the website offline by installing it as a PWA\n"
 msgstr ""
+"> Примечание. Вы можете получить доступ к веб-сайту в автономном режиме, "
+"установив его как PWA.\n"
 
 #. type: Title ##
 #: source/dl-librescore/README.md source/docs/README.md
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Building"
-msgstr ""
+msgstr "Сборка"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -590,7 +615,7 @@ msgid ""
 "2. `npm install` to install packages\n"
 "3. `npm run build` to build\n"
 msgstr ""
-"1. Истановите [Node.js LTS](https://nodejs.org/ru)\n"
+"1.Установите [Node.js LTS](https://nodejs.org/ru)\n"
 "2. `npm install`,чтобы установить пакеты\n"
 "3. `npm run build` чтобы собрать\n"
 
@@ -601,42 +626,50 @@ msgid ""
 "- Install `./dist/main.user.js` with Tampermonkey\n"
 "- `node ./dist/cli.js` to run command-line tool\n"
 msgstr ""
+"- Установите `./dist/main.user.js`, используя Tampermonkey\n"
+"- Введите `node ./dist/cli.js`, чтобы запустить командную строку\n"
 
 #. type: Title #
 #: source/docs/README.md
 #, no-wrap
 msgid "LibreScore Documentation"
-msgstr ""
+msgstr "Документация по LibreScore"
 
 #. type: Plain text
 #: source/docs/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
 msgstr ""
+"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
+"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
+"DKu7cUZ4XQ) [![Weblate]( https://weblate.librescore.org/widgets/librescore/-/"
+"docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
 
 #. type: Plain text
 #: source/docs/README.md
 #, no-wrap
 msgid "Documentation translations\n"
-msgstr ""
+msgstr "Переводы документации\n"
 
 #. type: Title ##
 #: source/docs/README.md
 #, no-wrap
 msgid "Adding languages"
-msgstr ""
+msgstr "Добавить языки"
 
 #. type: Plain text
 #: source/docs/README.md
 #, no-wrap
 msgid "1. Create a `XX.po` file, where `XX` is a language code (ex: `pt` or `zh-Hant`) in the `po/` directory\n"
 msgstr ""
+"1. Создайте файл `XX.po`, где `XX` — это код языка (например, `pt` или `zh-"
+"Hant`) в директории `po/`\n"
 
 #. type: Plain text
 #: source/docs/README.md
 #, no-wrap
 msgid "1. `./po4a.sh`\n"
-msgstr ""
+msgstr "1. `./po4a.sh`\n"
 
 #. type: Title #
 #: source/webmscore-pwa/README.md
