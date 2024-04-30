@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
-"PO-Revision-Date: 2024-04-30 20:33+0000\n"
+"PO-Revision-Date: 2024-04-30 22:33+0000\n"
 "Last-Translator: DKOTOFFEY <dimkakotoff@gmail.com>\n"
 "Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/"
 "ru/>\n"
@@ -49,7 +49,7 @@ msgstr ""
 #, no-wrap
 msgid "This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\n"
 msgstr ""
-"Эта страница использована для уведомления пользователей  о нашей политике в "
+"Эта страница использована для уведомления пользователей о нашей политике в "
 "отношении использования, хранения и раскрытия личной информации, если кто-то "
 "захочет использовать наш Сервис\n"
 
@@ -192,7 +192,7 @@ msgstr "Данная политика действительна с 1 ноябр
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Contact Us"
-msgstr "Контакты для связи"
+msgstr "Контакты для связи с нами"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -545,7 +545,7 @@ msgid ""
 "2. In Safari, when viewing a song on MuseScore, tap <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
 "3. Tap the LibreScore shortcut to activate the extension\n"
 msgstr ""
-"1. Установите [ярлык LibreScore] (https://www.icloud.com/shortcuts/"
+"1. Установите [ярлык LibreScore](https://www.icloud.com/shortcuts/"
 "901d8778d2da4f7db9272d3b2232d0fe).\n"
 "2. В Safari при просмотре песни на MuseScore нажмите <img src=\"https://help."
 "apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
@@ -620,7 +620,7 @@ msgstr "Веб-сайт Вэбмскор"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "1. Open [Webmscore](https://webmscore-pwa.librescore.org)\n"
-msgstr ""
+msgstr "1. Откройте [Webmscore](https://webmscore-pwa.librescore.org)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
