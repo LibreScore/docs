@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
-"PO-Revision-Date: 2024-04-30 22:33+0000\n"
+"PO-Revision-Date: 2024-06-08 13:15+0000\n"
 "Last-Translator: DKOTOFFEY <dimkakotoff@gmail.com>\n"
 "Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/"
 "ru/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.5.2\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -58,9 +58,9 @@ msgstr ""
 #, no-wrap
 msgid "If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\n"
 msgstr ""
-"Если вы решили использовать наш Сервис, тогда вы соглашаетесь на сбор и "
-"использовать информации в отношении нашей политики. Персональная Информация, "
-"которую мы собираем, используется для улучшения Сервиса. Мы не будем "
+"Если вы выбрали использовать наш Сервис, тогда вы соглашаетесь собирать и "
+"использовать информацию в отношнии нашей политики. Персональная Информация, "
+"которую мы собираем, используется для уличшения Сервиса. Мы не будем "
 "использовать или делиться вашей информацией с другими, исключая то, что "
 "написано в этой Политике Конфиденциальности.\n"
 
@@ -100,13 +100,12 @@ msgstr "Данные журнала"
 #, no-wrap
 msgid "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\\\"IP\\\") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.\n"
 msgstr ""
-"Мы хотим сообщить вам, что каждый раз, когда вы используете наш Сервис, в "
-"случае обнаружении ошибки в приложении мы собираем данные и информацию ("
-"через сторонние продукты) на вашем телефоне в раздел «Данные журнала». Эти "
-"данные могут включать такую информацию, как адрес интернет-протокола вашего "
-"устройства («IP»), имя устройства, версию операционной системы, конфигурацию "
-"приложения при использовании нашего Сервиса, время и дату использования вами "
-"Сервиса, а также другую статистику.\n"
+"Мы хотим уведомить вас, что, когда угодно используя Сервис, во время ошибки "
+"в приложении мы собираем данные и информацию (через продукты третьих лиц) на "
+"вашем телефоне, называемой Журнал данных. Этот Журнал Данных может включать "
+"информацию об IP адресе вашего девайса, имени девайса, версии операционной "
+"системы, конфигурации приложения во время использования Сервиса, а также "
+"другую статистику.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -136,12 +135,12 @@ msgstr "Ссылки на Другие Сайты"
 #, no-wrap
 msgid "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n"
 msgstr ""
-"Этот Сервис может содержать ссылки на сторонние сайты. Если вы нажмёте на "
-"данную ссылку, вы будете перенаправлены на этот сайт. Обратите внимание, что "
-"сторонние сайты не управляются нами. Поэтому мы настоятельно рекомендуем вам "
-"ознакомиться с Политикой конфиденциальности этих веб-сайтов. Мы не "
-"контролируем и не несём ответственности за контент, политику "
-"конфиденциальности или действия любых сторонних сайтов или сервисов.\n"
+"Этот Сервис может содержать ссылки на другие сайты. Если вы кликните на "
+"ссылку третьего лица, вы будете перенаправленны на тот сайт. Учтите, что те "
+"внешние сайты управляются не нами. Поэтому мы настоятельно рекомендуем "
+"ознакомиться с Политикой Конфиденциальности тех сайтов. У нас нет контроля "
+"над контентом, политиками или практиками любых сайтов или сервисов третьих "
+"лиц.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -154,33 +153,32 @@ msgstr "Безопасность детей"
 #, no-wrap
 msgid "We do not knowingly collect personally identifiable information from children. We encourage all children to never submit any personally identifiable information through the Application and/or Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).\n"
 msgstr ""
-"Мы не собираем личную информацию от детей. Мы настоятельно просим всех детей "
-"никогда не предоставлять какую-либо личную информацию через Приложение и/или "
-"Сервисы. Мы настоятельно просим родителей и законных опекунов следить за "
-"использованием Интернета своими детьми и способствовать обеспечению "
-"соблюдения настоящей Политики, проинформируйте своих детей никогда не "
-"предоставлять личную информацию через Приложение и/или Сервисы без вашего "
-"разрешения. Если у вас есть основания полагать, что ребёнок предоставил нам "
-"личную информацию через Приложение и/или Сервисы, свяжитесь с нами. Вам "
-"также должно быть не менее 16 лет, чтобы дать согласие на обработку вашей "
-"личной информации в вашей стране (в некоторых странах мы можем разрешить "
-"вашему родителю или опекуну делать это от вашего имени).\n"
+"Мы сознательно не собираем личную информацию от детей. Мы призываем всех "
+"детей никогда не представлять личную информацию через приложение и/или "
+"службы. Мы призываем родителей и законных опекунов следить за использованием "
+"Интернета их детей и помочь в реализации этой политики, поручив их детям "
+"никогда не предоставлять личную информацию через приложение и/или услуги без "
+"их разрешения. Если у вас есть основания полагать, что ребенок предоставил "
+"нам личную информацию через приложение и/или услуги, пожалуйста, свяжитесь с "
+"нами. Вы также должны быть не менее 16 лет, чтобы дать согласие на обработку "
+"вашей личной информации в вашей стране (в некоторых странах мы можем "
+"позволить вашему родителю или опекуну сделать это от вашего имени).\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Changes to This Privacy Policy"
-msgstr "Изменения Политики Конфиденциальности"
+msgstr "Изменения к Этой Политике Конфиденциальности"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.\n"
 msgstr ""
-"Мы можем обновлять Политику Конфиденциальности время от временя. "
-"Следовательно, время от времени вы будите получать информацию о на наличие "
-"изменений Политики Конфиденциальности. О любых изменениях Политики "
-"Конфиденциальности мы будем информировать вас на данной странице.\n"
+"Мы можем обновлять нашу Политику Конфиденциальности время от временя. "
+"Следовательно, вы проконсультированны на перепросмотр этой страницы время от "
+"времени на наличие изменений. Мы будем уведомлять вас о любых изменениях "
+"посредством публикации новой Политики Конфиденциальности на этой странице.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -192,7 +190,7 @@ msgstr "Данная политика действительна с 1 ноябр
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Contact Us"
-msgstr "Контакты для связи с нами"
+msgstr "Связаться с нами"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -205,10 +203,10 @@ msgstr "Если у вас есть какие-либо вопросы или п
 #, no-wrap
 msgid "This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com)\n"
 msgstr ""
-"Данная политика конфиденциальности была создана на сайте "
-"[privacypolicytemplate.net](https://privacypolicytemplate.net) и "
-"модифицирована/сгенерирована с помощью [App Privacy Policy Generator](https"
-"://app-privacy-policy-generator.nisrulz.com)\n"
+"Эта политика конфиденциальности была сделана на сайте [privacypolicytemplate."
+"net](https://privacypolicytemplate.net) и модифицированна/сгенерированна с "
+"помощью [App Privacy Policy Generator](https://app-privacy-policy-generator."
+"nisrulz.com)\n"
 
 #. type: Title #
 #: source/app-librescore/README.md
@@ -229,7 +227,7 @@ msgstr "<div align=\"center\">\n"
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
 msgstr ""
 "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo."
-"png\" width=\"256\" alt=\"LibreScore лого\">\n"
+"png\" width=\"256\" alt=\"Логотип ЛибрэСкор\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -240,7 +238,7 @@ msgstr ""
 "bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
 "DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
 "app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/"
-"librescore) [![Github All Releases](https://img.shields.io/github/downloads/"
+"librescore) [![Github Все выпуски](https://img.shields.io/github/downloads/"
 "LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/"
 "LibreScore/app-librescore/releases/latest)\n"
 
@@ -657,7 +655,7 @@ msgid ""
 "- `node ./dist/cli.js` to run command-line tool\n"
 msgstr ""
 "- Установите `./dist/main.user.js`, используя Tampermonkey\n"
-"- Введите `node ./dist/cli.js`, чтобы запустить командную строку\n"
+"- Введите `node ./dist/cli.js`, чтобы запустить утилиту командной строки\n"
 
 #. type: Title #
 #: source/docs/README.md
@@ -672,7 +670,7 @@ msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F
 msgstr ""
 "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
 "bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate]( https://weblate.librescore.org/widgets/librescore/-/"
+"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
 "docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
 
 #. type: Plain text
@@ -772,9 +770,9 @@ msgstr "npm run build\n"
 #, no-wrap
 msgid "> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.\n"
 msgstr ""
-"> Вы можете сделать предпросмотр приложения, выполнив команду `npm run "
-"preview`, независимо от того установили вы или нет адаптер. _Не_ используйте "
-"это для конечной версии продукта.\n"
+"> Вы можете сделать предпросмотр приложения, выполнив `npm run preview`, "
+"независимо от того установили вы или не установили адаптер. _Не_ желательно "
+"использовать это для конечной версии продукта.\n"
 
 #. type: Hash Value: PRIVACY-POLICY
 #: source/titles/titles.yaml
