@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
 "PO-Revision-Date: 2024-06-29 01:38+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/"
 "ms/>\n"
 "Language: ms\n"
@@ -28,7 +28,9 @@ msgstr "<div dir=\"ltr\" align=\"left\">\n"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
-msgstr "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***JANGAN EDIT DI ATAS BARIS INI*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
+msgstr ""
+"[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***JANGAN EDIT DI ATAS BARIS INI*** "
+"/+/^^+#|#+^+#|#+^^\\+\\\"\n"
 
 #. type: Title #
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -237,10 +239,34 @@ msgid ""
 "|                                            Windows (7+) (64-bit only)                                            |                                        macOS (10.14+) (Rosetta 2)                                         |                                               Linux (64-bit only)                                                |                                             Android (6.0+)                                             |\n"
 "|      [Download (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Download (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Download (AppImage)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage) | [Download (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 msgstr ""
-"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg\" width=\"512\"> |               <img src=\"https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg\" width=\"512\">                |   <img src=\"https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg\" width=\"512\">   |\n"
-"| :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |\n"
-"|                                            Windows (7+) (64-bit sahaja)                                            |                                        macOS (10.14+) (Rosetta 2)                                         |                                               Linux (64-bit sahaja)                                                |                                             Android (6.0+)                                             |\n"
-"|      [Muat turun (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Muat turun (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Muat turun (AppImage)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage) | [Muat turun (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
+"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/"
+"Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https"
+"://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29."
+"svg\" width=\"512\"> |               <img src=\"https://upload.wikimedia.org/"
+"wikipedia/commons/3/35/Tux.svg\" width=\"512\">                |   <img src="
+"\"https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head."
+"svg\" width=\"512\">   |\n"
+"| :--------------------------------------------------------------------------"
+"------------------------------------: | :------------------------------------"
+"-------------------------------------------------------------------: | :-----"
+"-----------------------------------------------------------------------------"
+"----------------------------: | :--------------------------------------------"
+"--------------------------------------------------------: |\n"
+"|                                            Windows (7+) (64-bit sahaja)"
+"                                            |"
+"                                        macOS (10.14+) (Rosetta 2)"
+"                                         |"
+"                                               Linux (64-bit sahaja)"
+"                                                |"
+"                                             Android (6.0+)"
+"                                             |\n"
+"|      [Muat turun (EXE)](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)      |  [Muat turun "
+"(DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/"
+"LibreScore.dmg)   | [Muat turun (AppImage)](https://github.com/LibreScore/"
+"app-librescore/releases/latest/download/LibreScore.AppImage) | [Muat turun "
+"(APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/"
+"LibreScore.apk) |\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -336,7 +362,9 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr "> Nota: Mesej mungkin muncul tentang Play Protect. Ketik `Install Anyway` di bahagian bawah\n"
+msgstr ""
+"> Nota: Mesej mungkin muncul tentang Play Protect. Ketik `Install Anyway` di "
+"bahagian bawah\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
@@ -425,7 +453,8 @@ msgid ""
 "1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device\n"
 msgstr ""
-"1. Pergi ke halaman [BACASAYA](https://github.com/LibreScore/app-librescore/blob/master/docs/ms/BACASAYA.md#pemasangan) repositori `app-librescore`\n"
+"1. Pergi ke halaman [BACASAYA](https://github.com/LibreScore/app-librescore/"
+"blob/master/docs/ms/BACASAYA.md#pemasangan) repositori `app-librescore`\n"
 "2. Ikut arahan pemasangan untuk peranti anda\n"
 
 #. type: Title ###
@@ -464,7 +493,10 @@ msgstr "1. Pasang [Tampermonkey](https://www.tampermonkey.net)\n"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
-msgstr "> Nota: Jika anda telah memasang versi lama skrip yang dipanggil \"musescore-downloader\", \"mcsz downloader\", atau \"musescore-dl\", sila nyahpasangnya daripada papan pemuka Tampermonkey\n"
+msgstr ""
+"> Nota: Jika anda telah memasang versi lama skrip yang dipanggil \"musescore-"
+"downloader\", \"mcsz downloader\", atau \"musescore-dl\", sila nyahpasangnya "
+"daripada papan pemuka Tampermonkey\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
