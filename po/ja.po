@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
-"PO-Revision-Date: 2024-03-17 11:33+0000\n"
-"Last-Translator: xbact <applesaportplas@gmail.com>\n"
+"PO-Revision-Date: 2024-06-29 01:36+0000\n"
+"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
 "Language-Team: Japanese <https://librescore.ddns.net/projects/librescore/"
 "docs/ja/>\n"
 "Language: ja\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4.2\n"
+"X-Generator: Weblate 5.6\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -284,11 +284,11 @@ msgid ""
 "3. Run `chmod a+x ./LibreScore.AppImage` to make it executable\n"
 "4. Run `./LibreScore.AppImage --install` to install it\n"
 msgstr ""
-"1.LibreScore.AppImage](https://github.com/LibreScore/app-librescore/releases/"
-"latest/download/LibreScore.AppImage)をダウンロード。\n"
-"2.使用しているディストリビューション用に `fuse2` をインストールする。\n"
-"3.chmod `chmod a+x ./LibreScore.AppImage` を実行して実行可能にする。\n"
-"4.`./LibreScore.AppImage --install` を実行してインストールする。\n"
+"1. [LibreScore.AppImage](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.AppImage)をダウンロード。\n"
+"2 .使用しているディストリビューション用に `fuse2` をインストールする。\n"
+"3. `chmod a+x ./LibreScore.AppImage` を実行して実行可能にする。\n"
+"4. `./LibreScore.AppImage --install` を実行してインストールする。\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
@@ -303,9 +303,9 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1.[LibreScore.apk]をダウンロード(https://github.com/LibreScore/"
-"app-librescore/releases/latest/download/LibreScore.apk)\n"
-"2.APKファイルを開いてインストールする。\n"
+"1. [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/"
+"latest/download/LibreScore.apk)をダウンロード\n"
+"2. APKファイルを開いてインストールする\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
