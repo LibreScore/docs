@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
-"PO-Revision-Date: 2023-02-03 22:32+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/es/>\n"
+"PO-Revision-Date: 2024-06-29 01:38+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Spanish <https://librescore.ddns.net/projects/librescore/docs/"
+"es/>\n"
 "Language: es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15.2\n"
+"X-Generator: Weblate 5.6\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -25,7 +26,9 @@ msgstr "<div dir=\"ltr\" align=\"left\">\n"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
-msgstr "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***NO EDITAR ENCIMA DE ESTA LÍNEA*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
+msgstr ""
+"[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***NO EDITAR ENCIMA DE ESTA LÍNEA*** "
+"/+/^^+#|#+^+#|#+^^\\+\\\"\n"
 
 #. type: Title #
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -212,10 +215,34 @@ msgid ""
 "|                                            Windows (7+) (64-bit only)                                            |                                        macOS (10.14+) (Rosetta 2)                                         |                                               Linux (64-bit only)                                                |                                             Android (6.0+)                                             |\n"
 "|      [Download (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Download (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Download (AppImage)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage) | [Download (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 msgstr ""
-"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg\" width=\"512\"> |               <img src=\"https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg\" width=\"512\">                |   <img src=\"https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg\" width=\"512\">   |\n"
-"| :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |\n"
-"|                                            Windows (7+) (solo 64 bits)                                            |                                        macOS (10.14+) (Rosetta 2)                                         |                                               Linux (solo 64 bits)                                                |                                             Android (6.0+)                                             |\n"
-"|      [Descargar (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Descargar (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Descargar (AppImage)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage) | [Descargar (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
+"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/"
+"Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https"
+"://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29."
+"svg\" width=\"512\"> |               <img src=\"https://upload.wikimedia.org/"
+"wikipedia/commons/3/35/Tux.svg\" width=\"512\">                |   <img src="
+"\"https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head."
+"svg\" width=\"512\">   |\n"
+"| :--------------------------------------------------------------------------"
+"------------------------------------: | :------------------------------------"
+"-------------------------------------------------------------------: | :-----"
+"-----------------------------------------------------------------------------"
+"----------------------------: | :--------------------------------------------"
+"--------------------------------------------------------: |\n"
+"|                                            Windows (7+) (solo 64 bits)"
+"                                            |"
+"                                        macOS (10.14+) (Rosetta 2)"
+"                                         |"
+"                                               Linux (solo 64 bits)"
+"                                                |"
+"                                             Android (6.0+)"
+"                                             |\n"
+"|      [Descargar (EXE)](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)      |  [Descargar "
+"(DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/"
+"LibreScore.dmg)   | [Descargar (AppImage)](https://github.com/LibreScore/"
+"app-librescore/releases/latest/download/LibreScore.AppImage) | [Descargar "
+"(APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/"
+"LibreScore.apk) |\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -309,7 +336,9 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr "> Nota: Puede aparecer un mensaje de Play Protect. Pulse `Instalar de todas formas` en la parte inferior\n"
+msgstr ""
+"> Nota: Puede aparecer un mensaje de Play Protect. Pulse `Instalar de todas "
+"formas` en la parte inferior\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
@@ -360,8 +389,11 @@ msgid ""
 "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
 "> Conversion types include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgstr ""
-"> Nota: `Conversión` se refiere a la capacidad de convertir archivos en otros tipos de archivos, incluidos los que no se pueden descargar en el programa.\n"
-"> Los tipos de conversión incluyen: Partes individuales, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ y MSCX.\n"
+"> Nota: `Conversión` se refiere a la capacidad de convertir archivos en "
+"otros tipos de archivos, incluidos los que no se pueden descargar en el "
+"programa.\n"
+"> Los tipos de conversión incluyen: Partes individuales, PDF, PNG, SVG, MP3, "
+"WAV, FLAC, OGG, MIDI, MusicXML, MSCZ y MSCX.\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -376,7 +408,8 @@ msgid ""
 "1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device\n"
 msgstr ""
-"1. Vaya a la página [LÉAME](https://github.com/LibreScore/app-librescore/blob/master/docs/es/LÉAME.md#instalación) del repositorio `app-librescore`\n"
+"1. Vaya a la página [LÉAME](https://github.com/LibreScore/app-librescore/"
+"blob/master/docs/es/LÉAME.md#instalación) del repositorio `app-librescore`\n"
 "2. Sigue las instrucciones de instalación de su dispositivo\n"
 
 #. type: Title ###
