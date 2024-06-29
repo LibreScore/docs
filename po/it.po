@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2023-11-03 20:20+0000\n"
-"PO-Revision-Date: 2024-06-29 01:36+0000\n"
-"Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
+"PO-Revision-Date: 2024-06-29 01:38+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Italian <https://librescore.ddns.net/projects/librescore/docs/"
 "it/>\n"
 "Language: it\n"
@@ -26,7 +26,9 @@ msgstr "<div dir=\"ltr\" align=\"left\">\n"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
-msgstr "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***NON MODIFICARE SOPRA QUESTA RIGA*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
+msgstr ""
+"[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***NON MODIFICARE SOPRA QUESTA RIGA*** "
+"/+/^^+#|#+^+#|#+^^\\+\\\"\n"
 
 #. type: Title #
 #: source/app-librescore/PRIVACY-POLICY.md
