@@ -1,16 +1,14 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-11-03 20:20+0000\n"
+"POT-Creation-Date: 2024-06-29 05:29+0000\n"
 "PO-Revision-Date: 2024-06-29 01:38+0000\n"
 "Last-Translator: Pavel Pletenev <cpp.create@gmail.com>\n"
-"Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/"
-"ru/>\n"
+"Language-Team: Russian <https://librescore.ddns.net/projects/librescore/docs/ru/>\n"
 "Language: ru\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.6\n"
 
 #. type: Plain text
@@ -27,9 +25,7 @@ msgstr "<div dir=\"ltr\" align=\"left\">\n"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
-msgstr ""
-"[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***НЕ РЕДАКТИРОВАТЬ ВЫШЕ ЭТОЙ ЛИНИИ*** "
-"/+/^^+#|#+^+#|#+^^\\+\\\"\n"
+msgstr "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***НЕ РЕДАКТИРОВАТЬ ВЫШЕ ЭТОЙ ЛИНИИ*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
 
 #. type: Title #
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -41,39 +37,25 @@ msgstr "Политика конфиденциальности"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "LibreScore built the LibreScore app as a Free app. This SERVICE is provided by LibreScore at no cost and is intended for use as is.\n"
-msgstr ""
-"ЛибрэСкор собрало приложение ЛибрэСкор как свободное и бесплатное "
-"приложение. Этот СЕРВИС предоставляется ЛибрэСкор абсолютно бесплатно и "
-"запланировано для использования как оно есть.\n"
+msgstr "ЛибрэСкор собрало приложение ЛибрэСкор как свободное и бесплатное приложение. Этот СЕРВИС предоставляется ЛибрэСкор абсолютно бесплатно и запланировано для использования как оно есть.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\n"
-msgstr ""
-"Эта страница использована для уведомления пользователей о нашей политике в "
-"отношении использования, хранения и раскрытия личной информации, если кто-то "
-"захочет использовать наш Сервис\n"
+msgstr "Эта страница использована для уведомления пользователей о нашей политике в отношении использования, хранения и раскрытия личной информации, если кто-то захочет использовать наш Сервис\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\n"
-msgstr ""
-"Если вы выбрали использовать наш Сервис, тогда вы соглашаетесь собирать и "
-"использовать информацию в отношнии нашей политики. Персональная Информация, "
-"которую мы собираем, используется для уличшения Сервиса. Мы не будем "
-"использовать или делиться вашей информацией с другими, исключая то, что "
-"написано в этой Политике Конфиденциальности.\n"
+msgstr "Если вы выбрали использовать наш Сервис, тогда вы соглашаетесь собирать и использовать информацию в отношнии нашей политики. Персональная Информация, которую мы собираем, используется для уличшения Сервиса. Мы не будем использовать или делиться вашей информацией с другими, исключая то, что написано в этой Политике Конфиденциальности.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at LibreScore unless otherwise defined in this Privacy Policy.\n"
-msgstr ""
-"Термины, используемые в этой Политике Конфиденциальности имеют такое же "
-"определение, что и в наших Условиях Использования, которые применимы к "
-"ЛибрэСкор , если иное не определено в этой Политике конфиденциальности.\n"
+msgstr "Термины, используемые в этой Политике Конфиденциальности имеют такое же определение, что и в наших Условиях Использования, которые применимы к ЛибрэСкор , если иное не определено в этой Политике конфиденциальности.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -85,11 +67,7 @@ msgstr "Сбор и использование информации"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.\n"
-msgstr ""
-"Для лучшего опыта во время использования нашего Сервиса, мы можем запросить "
-"вас предоставить нам конкретную персональную информацию. Информация, которую "
-"мы запрашиваем будет храниться нами и использоваться как описано в этой "
-"политике конфиденциальности.\n"
+msgstr "Для лучшего опыта во время использования нашего Сервиса, мы можем запросить вас предоставить нам конкретную персональную информацию. Информация, которую мы запрашиваем будет храниться нами и использоваться как описано в этой политике конфиденциальности.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -101,13 +79,7 @@ msgstr "Данные журнала"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\\\"IP\\\") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.\n"
-msgstr ""
-"Мы хотим уведомить вас, что, когда угодно используя Сервис, во время ошибки "
-"в приложении мы собираем данные и информацию (через продукты третьих лиц) на "
-"вашем телефоне, называемой Журнал данных. Этот Журнал Данных может включать "
-"информацию об IP адресе вашего девайса, имени девайса, версии операционной "
-"системы, конфигурации приложения во время использования Сервиса, а также "
-"другую статистику.\n"
+msgstr "Мы хотим уведомить вас, что, когда угодно используя Сервис, во время ошибки в приложении мы собираем данные и информацию (через продукты третьих лиц) на вашем телефоне, называемой Журнал данных. Этот Журнал Данных может включать информацию об IP адресе вашего девайса, имени девайса, версии операционной системы, конфигурации приложения во время использования Сервиса, а также другую статистику.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -119,12 +91,7 @@ msgstr "Безопасность"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.\n"
-msgstr ""
-"Мы ценим ваше доверие к предоставлению нам вашей личной информации, поэтому "
-"мы стремимся использовать коммерчески приемлемые средства ее защиты. Но "
-"помните, что ни один метод передачи через Интернет, ни один метод "
-"электронного хранения не на 100% безопасен и надежен, и мы не можем "
-"гарантировать его абсолютную безопасность.\n"
+msgstr "Мы ценим ваше доверие к предоставлению нам вашей личной информации, поэтому мы стремимся использовать коммерчески приемлемые средства ее защиты. Но помните, что ни один метод передачи через Интернет, ни один метод электронного хранения не на 100% безопасен и надежен, и мы не можем гарантировать его абсолютную безопасность.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -136,13 +103,7 @@ msgstr "Ссылки на Другие Сайты"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n"
-msgstr ""
-"Этот Сервис может содержать ссылки на другие сайты. Если вы кликните на "
-"ссылку третьего лица, вы будете перенаправленны на тот сайт. Учтите, что те "
-"внешние сайты управляются не нами. Поэтому мы настоятельно рекомендуем "
-"ознакомиться с Политикой Конфиденциальности тех сайтов. У нас нет контроля "
-"над контентом, политиками или практиками любых сайтов или сервисов третьих "
-"лиц.\n"
+msgstr "Этот Сервис может содержать ссылки на другие сайты. Если вы кликните на ссылку третьего лица, вы будете перенаправленны на тот сайт. Учтите, что те внешние сайты управляются не нами. Поэтому мы настоятельно рекомендуем ознакомиться с Политикой Конфиденциальности тех сайтов. У нас нет контроля над контентом, политиками или практиками любых сайтов или сервисов третьих лиц.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -154,17 +115,7 @@ msgstr "Безопасность детей"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We do not knowingly collect personally identifiable information from children. We encourage all children to never submit any personally identifiable information through the Application and/or Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).\n"
-msgstr ""
-"Мы сознательно не собираем личную информацию от детей. Мы призываем всех "
-"детей никогда не представлять личную информацию через приложение и/или "
-"службы. Мы призываем родителей и законных опекунов следить за использованием "
-"Интернета их детей и помочь в реализации этой политики, поручив их детям "
-"никогда не предоставлять личную информацию через приложение и/или услуги без "
-"их разрешения. Если у вас есть основания полагать, что ребенок предоставил "
-"нам личную информацию через приложение и/или услуги, пожалуйста, свяжитесь с "
-"нами. Вы также должны быть не менее 16 лет, чтобы дать согласие на обработку "
-"вашей личной информации в вашей стране (в некоторых странах мы можем "
-"позволить вашему родителю или опекуну сделать это от вашего имени).\n"
+msgstr "Мы сознательно не собираем личную информацию от детей. Мы призываем всех детей никогда не представлять личную информацию через приложение и/или службы. Мы призываем родителей и законных опекунов следить за использованием Интернета их детей и помочь в реализации этой политики, поручив их детям никогда не предоставлять личную информацию через приложение и/или услуги без их разрешения. Если у вас есть основания полагать, что ребенок предоставил нам личную информацию через приложение и/или услуги, пожалуйста, свяжитесь с нами. Вы также должны быть не менее 16 лет, чтобы дать согласие на обработку вашей личной информации в вашей стране (в некоторых странах мы можем позволить вашему родителю или опекуну сделать это от вашего имени).\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -176,11 +127,7 @@ msgstr "Изменения к Этой Политике Конфиденциал
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.\n"
-msgstr ""
-"Мы можем обновлять нашу Политику Конфиденциальности время от временя. "
-"Следовательно, вы проконсультированны на перепросмотр этой страницы время от "
-"времени на наличие изменений. Мы будем уведомлять вас о любых изменениях "
-"посредством публикации новой Политики Конфиденциальности на этой странице.\n"
+msgstr "Мы можем обновлять нашу Политику Конфиденциальности время от временя. Следовательно, вы проконсультированны на перепросмотр этой страницы время от времени на наличие изменений. Мы будем уведомлять вас о любых изменениях посредством публикации новой Политики Конфиденциальности на этой странице.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -198,20 +145,13 @@ msgstr "Связаться с нами"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
-msgstr ""
-"Если у вас есть какие-либо вопросы или предложения по поводу нашей политики "
-"конфиденциальности, не стесняйтесь обращаться к нам по адресу "
-"[contact@librescore.org](mailto:contact@librescore.org).\n"
+msgstr "Если у вас есть какие-либо вопросы или предложения по поводу нашей политики конфиденциальности, не стесняйтесь обращаться к нам по адресу [contact@librescore.org](mailto:contact@librescore.org).\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com)\n"
-msgstr ""
-"Эта политика конфиденциальности была сделана на сайте [privacypolicytemplate."
-"net](https://privacypolicytemplate.net) и модифицированна/сгенерированна с "
-"помощью [App Privacy Policy Generator](https://app-privacy-policy-generator."
-"nisrulz.com)\n"
+msgstr "Эта политика конфиденциальности была сделана на сайте [privacypolicytemplate.net](https://privacypolicytemplate.net) и модифицированна/сгенерированна с помощью [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com)\n"
 
 #. type: Title #
 #: source/app-librescore/README.md
@@ -230,22 +170,13 @@ msgstr "<div align=\"center\">\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
-msgstr ""
-"<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo."
-"png\" width=\"256\" alt=\"Логотип ЛибрэСкор\">\n"
+msgstr "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"Логотип ЛибрэСкор\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
-"app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/"
-"librescore) [![Github Все выпуски](https://img.shields.io/github/downloads/"
-"LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/"
-"LibreScore/app-librescore/releases/latest)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github Все выпуски](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -264,8 +195,7 @@ msgstr "</div>\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "> DISCLAIMER: This is not an officially endorsed MuseScore product\n"
-msgstr ""
-"> ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ: Это не официально одобренный продукт MuseScore↵\n"
+msgstr "> ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ: Это не официально одобренный продукт MuseScore↵\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md
@@ -282,33 +212,10 @@ msgid ""
 "|                                            Windows (7+) (64-bit only)                                            |                                        macOS (10.14+) (Rosetta 2)                                         |                                               Linux (64-bit only)                                                |                                             Android (6.0+)                                             |\n"
 "|      [Download (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Download (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Download (AppImage)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage) | [Download (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 msgstr ""
-"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/"
-"Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https"
-"://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29."
-"svg\" width=\"512\"> |               <img src=\"https://upload.wikimedia.org/"
-"wikipedia/commons/3/35/Tux.svg\" width=\"512\">                |   <img src="
-"\"https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head."
-"svg\" width=\"512\">   |\n"
-"| :--------------------------------------------------------------------------"
-"------------------------------------: | :------------------------------------"
-"-------------------------------------------------------------------: | :-----"
-"-----------------------------------------------------------------------------"
-"----------------------------: | :--------------------------------------------"
-"--------------------------------------------------------: |\n"
-"|                                            Windows (7+) (только 64-битный)"
-"                                            |"
-"                                        macOS (10.14+) (Rosetta 2)"
-"                                         |"
-"                                               Linux (только 64-битный)"
-"                                                |"
-"                                             Android (6.0+)"
-"                                             |\n"
-"|      [Скачать (EXE)](https://github.com/LibreScore/app-librescore/releases/"
-"latest/download/LibreScore.exe)      |  [Скачать (DMG)](https://github.com/"
-"LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | ["
-"Скачать (AppImage)](https://github.com/LibreScore/app-librescore/releases/"
-"latest/download/LibreScore.AppImage) | [Скачать (APK)](https://github.com/"
-"LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
+"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg\" width=\"512\"> |               <img src=\"https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg\" width=\"512\">                |   <img src=\"https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg\" width=\"512\">   |\n"
+"| :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |\n"
+"|                                            Windows (7+) (только 64-битный)                                            |                                        macOS (10.14+) (Rosetta 2)                                         |                                               Linux (только 64-битный)                                                |                                             Android (6.0+)                                             |\n"
+"|      [Скачать (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Скачать (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Скачать (AppImage)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage) | [Скачать (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -329,8 +236,7 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. Скачайте [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.exe)\n"
+"1. Скачайте [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Откройте EXE-файл, чтобы установить его.\n"
 
 #. type: Title ###
@@ -353,8 +259,7 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
-"1. Скачайте [LibreScore.dmg](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.dmg)\n"
+"1. Скачайте [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
 "2. Откройте файл DMG\n"
 "3. Переместите файл APP в папку Программы, чтобы установить его\n"
 "4. Удерживая клавишу Control, нажмите на файл APP\n"
@@ -379,11 +284,9 @@ msgid ""
 "3. Run `chmod a+x ./LibreScore.AppImage` to make it executable\n"
 "4. Run `./LibreScore.AppImage --install` to install it\n"
 msgstr ""
-"1. Скачайте [LibreScore.AppImage](https://github.com/LibreScore/"
-"app-librescore/releases/latest/download/LibreScore.AppImage)\n"
+"1. Скачайте [LibreScore.AppImage](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage)\n"
 "2. Установите `fuse2` для вашего дистрибутива\n"
-"3. Запустите `chmod a+x ./LibreScore.AppImage`, чтобы сделать его "
-"исполняемым\n"
+"3. Запустите `chmod a+x ./LibreScore.AppImage`, чтобы сделать его исполняемым\n"
 "4. Запустите `./LibreScore.AppImage --install`, чтобы установить его\n"
 
 #. type: Title ###
@@ -399,17 +302,14 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. Скачайте [LibreScore.apk](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.apk)\n"
+"1. Скачайте [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Откройте APK-файл, чтобы установить его\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr ""
-"> Примечание: Может появиться сообщение о Play Защита. Нажмите `Все равно "
-"установить` внизу\n"
+msgstr "> Примечание: Может появиться сообщение о Play Защита. Нажмите `Все равно установить` внизу\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
@@ -421,18 +321,7 @@ msgstr "dl-librescore"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
-msgstr ""
-"[![ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ](https://img.shields.io/discord/77449165664367412"
-"2?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https"
-"://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/"
-"librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/"
-"engage/librescore) [![Github All Releases](https://img.shields.io/github/"
-"downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/"
-"LibreScore/app-librescore/releases/latest) [![Github All "
-"Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/"
-"total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/"
-"releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label"
-"=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
+msgstr "[![ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -457,21 +346,12 @@ msgid ""
 "| [Command-line tool](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
 "| [Webmscore website](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgstr ""
-"| Программа                                                                  "
-"          | MSCZ | MIDI | MP3 | PDF | Преобразование |     | Windows | macOS "
-"| Linux | Android | iOS/iPadOS |\n"
-"| ---------------------------------------------------------------------------"
-"------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | "
-"----- | ------- | ---------- |\n"
-"| [Приложение](#приложение)                             | ✔️   | ✔️   | ✔️  |"
-" ❌  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [Юзерскрипт](#юзерскрипт)               | ❌   | ✔️   | ✔️  | ✔️  | ❌"
-"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-"| [Инструмент командной-строки](#инструмент-командной-строки) | ❌   | ✔️   |"
-" ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌"
-"         |\n"
-"| [Веб-сайт Вэбмскор](#веб-сайт-вэбмскор) | ❌   | ❌   | ❌  | ❌  | ✔️"
-"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| Программа                                                                            | MSCZ | MIDI | MP3 | PDF | Преобразование |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
+"| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
+"| [Приложение](#приложение)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Юзерскрипт](#юзерскрипт)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Инструмент командной-строки](#инструмент-командной-строки) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Веб-сайт Вэбмскор](#веб-сайт-вэбмскор) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -480,10 +360,8 @@ msgid ""
 "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
 "> Conversion types include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgstr ""
-"> Примечание: `Преобразование` относится к возможности преобразовывать файлы "
-"в другие типы файлов, в том числе те, которые нельзя загрузить в программе.\n"
-"> Типы преобразования включают: отдельные партии, PDF, PNG, SVG, MP3, WAV, "
-"FLAC, OGG, MIDI, MusicXML, MSCZ и MSCX.\n"
+"> Примечание: `Преобразование` относится к возможности преобразовывать файлы в другие типы файлов, в том числе те, которые нельзя загрузить в программе.\n"
+"> Типы преобразования включают: отдельные партии, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ и MSCX.\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -498,9 +376,7 @@ msgid ""
 "1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device\n"
 msgstr ""
-"1. Перейдите на страницу [ПРОЧТИМЕНЯ](https://github.com/LibreScore/"
-"app-librescore/blob/master/docs/ru/ПРОЧТИМЕНЯ.md#установка) репозитория `app-"
-"librescore`\n"
+"1. Перейдите на страницу [ПРОЧТИМЕНЯ](https://github.com/LibreScore/app-librescore/blob/master/docs/ru/ПРОЧТИМЕНЯ.md#установка) репозитория `app-librescore`\n"
 "2. Следуйте инструкциям по установке для вашего устройства\n"
 
 #. type: Title ###
@@ -517,11 +393,9 @@ msgid ""
 ">\n"
 "> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](#bookmark) instructions instead.\n"
 msgstr ""
-"> Примечание: Если ваше устройство работает под управлением iOS или iPadOS, "
-"следуйте инструкциям [Быстрая команда](#быстрая-команда).\n"
+"> Примечание: Если ваше устройство работает под управлением iOS или iPadOS, следуйте инструкциям [Быстрая команда](#быстрая-команда).\n"
 ">\n"
-"> Примечание: Если вы не можете установить расширения браузера на своё "
-"устройство, следуйте инструкциям [Закладка](#закладка).\n"
+"> Примечание: Если вы не можете установить расширения браузера на своё устройство, следуйте инструкциям [Закладка](#закладка).\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
@@ -539,10 +413,7 @@ msgstr "1. Установите [Tampermonkey](https://www.tampermonkey.net/?loc
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
-msgstr ""
-"> Примечание: Если вы уже установили старую версию скрипта под названием "
-"«musescore-downloader», «mscz downloader» или «musescore-dl», удалите её с "
-"панели инструментов Tampermonkey\n"
+msgstr "> Примечание: Если вы уже установили старую версию скрипта под названием «musescore-downloader», «mscz downloader» или «musescore-dl», удалите её с панели инструментов Tampermonkey\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -551,8 +422,7 @@ msgid ""
 "2. Go to the latest [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) file\n"
 "3. Press the Install button\n"
 msgstr ""
-"2. Перейдите к последнему файлу [dl-librescore.user.js](https://github.com/"
-"LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js)\n"
+"2. Перейдите к последнему файлу [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js)\n"
 "3. Нажмите кнопку Установить\n"
 
 #. type: Title ####
@@ -569,11 +439,8 @@ msgid ""
 "2. In Safari, when viewing a song on MuseScore, tap <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
 "3. Tap the LibreScore shortcut to activate the extension\n"
 msgstr ""
-"1. Установите [ярлык LibreScore](https://www.icloud.com/shortcuts/"
-"901d8778d2da4f7db9272d3b2232d0fe).\n"
-"2. В Safari при просмотре песни на MuseScore нажмите <img src=\"https://help."
-"apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
-"01f5a9889bbecc202d8cbb3067a261ad.png height=\" 16\">\n"
+"1. Установите [ярлык LibreScore](https://www.icloud.com/shortcuts/901d8778d2da4f7db9272d3b2232d0fe).\n"
+"2. В Safari при просмотре песни на MuseScore нажмите <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png height=\" 16\">\n"
 "3. Нажмите ярлык LibreScore, чтобы активировать расширение\n"
 
 #. type: Plain text
@@ -585,13 +452,9 @@ msgid ""
 "> 1. Go to Settings <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Shortcuts > Advanced\n"
 "> 2. Turn on Allow Running Scripts\n"
 msgstr ""
-"> Примечание: Чтобы выполнять код JavaScript из быстрой команды, необходимо "
-"включить настройку «Запуск скриптов»\n"
+"> Примечание: Чтобы выполнять код JavaScript из быстрой команды, необходимо включить настройку «Запуск скриптов»\n"
 ">\n"
-"> 1. Откройте «Настройки» <img src=\"https://help.apple.com/assets/"
-"61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
-"492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > «Быстрые команды» > "
-"«Дополнения»\n"
+"> 1. Откройте «Настройки» <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > «Быстрые команды» > «Дополнения»\n"
 "> 2. Включите настройку «Запуск скриптов»\n"
 
 #. type: Title ####
@@ -612,13 +475,9 @@ msgid ""
 msgstr ""
 "1. Создайте новуб закладку (обычно Ctrl+D)\n"
 "2. Введите `LibreScore` для поля Name\n"
-"3. Введите `javascript:(function () {let code = document."
-"createElement('script');code.src = 'https://github.com/LibreScore/"
-"dl-librescore/releases/latest/download/dl-librescore.user.js';document.body."
-"appendChild(code);}())` для поля URL\n"
+"3. Введите `javascript:(function () {let code = document.createElement('script');code.src = 'https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js';document.body.appendChild(code);}())` для поля URL\n"
 "4. Сохраните закладку\n"
-"5. Во время просмотра песни на MuseScore, кликните на закладку, чтобы "
-"активировать расширение\n"
+"5. Во время просмотра песни на MuseScore, кликните на закладку, чтобы активировать расширение\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -654,9 +513,7 @@ msgstr "1. Откройте [Webmscore](https://webmscore-pwa.librescore.org)\n"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: You can access the website offline by installing it as a PWA\n"
-msgstr ""
-"> Примечание. Вы можете получить доступ к веб-сайту в автономном режиме, "
-"установив его как PWA.\n"
+msgstr "> Примечание. Вы можете получить доступ к веб-сайту в автономном режиме, установив его как PWA.\n"
 
 #. type: Title ##
 #: source/dl-librescore/README.md source/docs/README.md
@@ -697,11 +554,7 @@ msgstr "Документация по LibreScore"
 #: source/docs/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
-"docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
 
 #. type: Plain text
 #: source/docs/README.md
@@ -719,9 +572,7 @@ msgstr "Добавить языки"
 #: source/docs/README.md
 #, no-wrap
 msgid "1. Create a `XX.po` file, where `XX` is a language code (ex: `pt` or `zh-Hant`) in the `po/` directory\n"
-msgstr ""
-"1. Создайте файл `XX.po`, где `XX` — это код языка (например, `pt` или `zh-"
-"Hant`) в директории `po/`\n"
+msgstr "1. Создайте файл `XX.po`, где `XX` — это код языка (например, `pt` или `zh-Hant`) в директории `po/`\n"
 
 #. type: Plain text
 #: source/docs/README.md
@@ -739,19 +590,13 @@ msgstr "Webmscore PWA (прогрессивное веб-приложение)"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
-"webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/"
-"librescore)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "The official frontend for the webmscore tool: <https://webmscore-pwa.librescore.org>\n"
-msgstr ""
-"Официальный интерфейс webmscore: <https://webmscore-pwa.librescore.org>\n"
+msgstr "Официальный интерфейс webmscore: <https://webmscore-pwa.librescore.org>\n"
 
 #. type: Title ##
 #: source/webmscore-pwa/README.md
@@ -763,9 +608,7 @@ msgstr "Разработка"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:\n"
-msgstr ""
-"Как только вы создали проект и установили зависимости при помощи команды `"
-"npm install` (или `pnpm install,` или `yarn`), запустите сервер разработки:\n"
+msgstr "Как только вы создали проект и установили зависимости при помощи команды `npm install` (или `pnpm install,` или `yarn`), запустите сервер разработки:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
@@ -785,9 +628,7 @@ msgstr ""
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:\n"
-msgstr ""
-"Перед созданием версии вашего приложения, установите [адаптер](https://kit."
-"svelte.dev/docs#adapters) для вашей целевой оболочки. Тогда:\n"
+msgstr "Перед созданием версии вашего приложения, установите [адаптер](https://kit.svelte.dev/docs#adapters) для вашей целевой оболочки. Тогда:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
@@ -799,10 +640,7 @@ msgstr "npm run build\n"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.\n"
-msgstr ""
-"> Вы можете сделать предпросмотр приложения, выполнив `npm run preview`, "
-"независимо от того установили вы или не установили адаптер. _Не_ желательно "
-"использовать это для конечной версии продукта.\n"
+msgstr "> Вы можете сделать предпросмотр приложения, выполнив `npm run preview`, независимо от того установили вы или не установили адаптер. _Не_ желательно использовать это для конечной версии продукта.\n"
 
 #. type: Hash Value: PRIVACY-POLICY
 #: source/titles/titles.yaml

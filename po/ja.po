@@ -1,11 +1,10 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-11-03 20:20+0000\n"
+"POT-Creation-Date: 2024-06-29 05:29+0000\n"
 "PO-Revision-Date: 2024-06-29 01:38+0000\n"
 "Last-Translator: xbact <applesaportplas@gmail.com>\n"
-"Language-Team: Japanese <https://librescore.ddns.net/projects/librescore/"
-"docs/ja/>\n"
+"Language-Team: Japanese <https://librescore.ddns.net/projects/librescore/docs/ja/>\n"
 "Language: ja\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,9 +25,7 @@ msgstr "<div dir=\"ltr\" align=\"left\">\n"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
-msgstr ""
-"[//]:# \"◆+_=!|!=_=!|!==_/+/***この行より上は編集しないでください。*** "
-"/+/^^+#|#+^+#|#+^+\"\n"
+msgstr "[//]:# \"◆+_=!|!=_=!|!==_/+/***この行より上は編集しないでください。*** /+/^^+#|#+^+#|#+^+\"\n"
 
 #. type: Title #
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -148,9 +145,7 @@ msgstr ""
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
-msgstr ""
-"当社の個人情報保護方針についてご質問やご提案がございましたら、[contact@libres"
-"core.org](mailto:contact@librescore.org) までご連絡ください。\n"
+msgstr "当社の個人情報保護方針についてご質問やご提案がございましたら、[contact@librescore.org](mailto:contact@librescore.org) までご連絡ください。\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -175,23 +170,13 @@ msgstr "<div align=\"center\">\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
-msgstr ""
-"<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo."
-"png\" width=\"256\" alt=\"LibreScore logo\">\n"
+msgstr "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![ウェブレート](https://weblate.librescore.org/widgets/"
-"librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/"
-"engage/librescore) [![Githubのすべてのリリース](https://img.shields.io/"
-"github/downloads/LibreScore/app-librescore/total."
-"svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/"
-"latest)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![ウェブレート](https://weblate.librescore.org/widgets/librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Githubのすべてのリリース](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -284,8 +269,7 @@ msgid ""
 "3. Run `chmod a+x ./LibreScore.AppImage` to make it executable\n"
 "4. Run `./LibreScore.AppImage --install` to install it\n"
 msgstr ""
-"1. [LibreScore.AppImage](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.AppImage)をダウンロード。\n"
+"1. [LibreScore.AppImage](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage)をダウンロード。\n"
 "2 .使用しているディストリビューション用に `fuse2` をインストールする。\n"
 "3. `chmod a+x ./LibreScore.AppImage` を実行して実行可能にする。\n"
 "4. `./LibreScore.AppImage --install` を実行してインストールする。\n"
@@ -303,18 +287,14 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/"
-"latest/download/LibreScore.apk)をダウンロード\n"
+"1. [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)をダウンロード\n"
 "2. APKファイルを開いてインストールする\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr ""
-"> 注意：Play "
-"Protectにメッセージが表示される場合があります。その場合、一番下の「 `Install "
-"Anyway` 」をタップしてください。\n"
+msgstr "> 注意：Play Protectにメッセージが表示される場合があります。その場合、一番下の「 `Install Anyway` 」をタップしてください。\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
@@ -326,18 +306,7 @@ msgstr "dl-librescore"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![公式サイト](https://weblate.librescore.org/widgets/librescore/"
-"-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/"
-"librescore) [![Github All Releases](https://img.shields.io/github/downloads/"
-"LibreScore/app-librescore/total.svg?label=App)](https://github.com/"
-"LibreScore/app-librescore/releases/latest) [![Githubのリリース](https://img."
-"shields.io/github/downloads/LibreScore/dl-librescore/total."
-"svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/"
-"latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-"
-"line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![公式サイト](https://weblate.librescore.org/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Githubのリリース](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -450,13 +419,9 @@ msgid ""
 "> 1. Go to Settings <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Shortcuts > Advanced\n"
 "> 2. Turn on Allow Running Scripts\n"
 msgstr ""
-"> 注：ショートカットからJavaScriptを実行する前に、「スクリプトの実行を許可」"
-"をオンにする必要があります\n"
+"> 注：ショートカットからJavaScriptを実行する前に、「スクリプトの実行を許可」をオンにする必要があります\n"
 ">\n"
-"> 1. ス上で、「設定」<img src=\"https://help.apple.com/assets/"
-"61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
-"492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> "
-">「ショートカット」>「詳細」と選択します\n"
+"> 1. ス上で、「設定」<img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> >「ショートカット」>「詳細」と選択します\n"
 "> 2. 「スクリプトの実行を許可」をオンにします\n"
 
 #. type: Title ####
@@ -477,10 +442,7 @@ msgid ""
 msgstr ""
 "1.新しいブックマークの作成（通常Ctrl+D）\n"
 "2.名前フィールドに `LibreScore` と入力\n"
-"3.URLフィールドに`javascript:(function () {let code = document."
-"createElement('script');code.src = 'https://github.com/LibreScore/"
-"dl-librescore/releases/latest/download/dl-librescore.user.js';document.body."
-"appendChild(code);}())`と入力\n"
+"3.URLフィールドに`javascript:(function () {let code = document.createElement('script');code.src = 'https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js';document.body.appendChild(code);}())`と入力\n"
 "4.ブックマークを保存\n"
 "5.MuseScoreで曲表示時に、ブックマークをクリックすると拡張機能が有効\n"
 

@@ -7,11 +7,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-11-03 20:20+0000\n"
+"POT-Creation-Date: 2024-06-29 05:29+0000\n"
 "PO-Revision-Date: 2024-06-29 01:38+0000\n"
 "Last-Translator: Peter Njeim <peterthegreatpeterthegreat@hotmail.com>\n"
-"Language-Team: Turkish <https://librescore.ddns.net/projects/librescore/docs/"
-"tr/>\n"
+"Language-Team: Turkish <https://librescore.ddns.net/projects/librescore/docs/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -184,14 +183,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
-"app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/"
-"librescore) [![GitHub Tüm Yayınlar](https://img.shields.io/github/downloads/"
-"LibreScore/app-librescore/total.svg?label=Uygulama)](https://github.com/"
-"LibreScore/app-librescore/releases/latest)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![GitHub Tüm Yayınlar](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Uygulama)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -210,9 +202,7 @@ msgstr ""
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "> DISCLAIMER: This is not an officially endorsed MuseScore product\n"
-msgstr ""
-"> SORUMLULUK REDDİ: Bu, resmi olarak onaylanmış bir MuseScore ürünü "
-"değildir\n"
+msgstr "> SORUMLULUK REDDİ: Bu, resmi olarak onaylanmış bir MuseScore ürünü değildir\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md
@@ -249,8 +239,7 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. [LibreScore.exe'yi](https://github.com/LibreScore/app-librescore/releases/"
-"latest/download/LibreScore.exe) indirin\n"
+"1. [LibreScore.exe'yi](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe) indirin\n"
 "2. Yüklemek için EXE dosyasını açın\n"
 
 #. type: Title ###
@@ -273,8 +262,7 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
-"1. [LibreScore.dmg'yi](https://github.com/LibreScore/app-librescore/releases/"
-"latest/download/LibreScore.dmg) indirin\n"
+"1. [LibreScore.dmg'yi](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg) indirin\n"
 "2. DMG dosyasını açın\n"
 "3. APP dosyasını yüklemek için Uygulamalar klasörüne taşıyın\n"
 "4. Kontrol tuşuna basarak APP dosyasına tıklayın\n"
@@ -299,11 +287,9 @@ msgid ""
 "3. Run `chmod a+x ./LibreScore.AppImage` to make it executable\n"
 "4. Run `./LibreScore.AppImage --install` to install it\n"
 msgstr ""
-"1. [LibreScore.AppImage'ı](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.AppImage) indirin\n"
+"1. [LibreScore.AppImage'ı](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage) indirin\n"
 "2. Dağıtımınız için `fuse2` yükleyin\n"
-"3. Yürütülebilir hale getirmek için `chmod a+x ./LibreScore.AppImage` "
-"komutunu çalıştırın\n"
+"3. Yürütülebilir hale getirmek için `chmod a+x ./LibreScore.AppImage` komutunu çalıştırın\n"
 "4. Yüklemek için `./LibreScore.AppImage --install` komutunu çalıştırın.\n"
 
 #. type: Title ###
@@ -319,17 +305,14 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. [LibreScore.apk'yi](https://github.com/LibreScore/app-librescore/releases/"
-"latest/download/LibreScore.apk) indirin\n"
+"1. [LibreScore.apk'yi](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) indirin\n"
 "2. Yüklemek için APK dosyasını açın\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr ""
-"> Not: Play Protect hakkında bir mesaj görünebilir. En alttaki `Yine de "
-"Yükle` seçeneğine dokunun\n"
+msgstr "> Not: Play Protect hakkında bir mesaj görünebilir. En alttaki `Yine de Yükle` seçeneğine dokunun\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
@@ -341,19 +324,7 @@ msgstr "dl-librescore"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
-"dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/"
-"librescore) [![GitHub Tüm Yayınlar](https://img.shields.io/github/downloads/"
-"LibreScore/app-librescore/total.svg?label=Uygulama)](https://github.com/"
-"LibreScore/app-librescore/releases/latest) [![GitHub Tüm "
-"Yayınlar](https://img.shields.io/github/downloads/LibreScore/dl-librescore/"
-"total.svg?label=Kullanıcı+yazısı)](https://github.com/LibreScore/"
-"dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-"
-"librescore?label=Komut-satırı+aracı)](https://www.npmjs.com/package/dl-"
-"librescore)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![GitHub Tüm Yayınlar](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Uygulama)](https://github.com/LibreScore/app-librescore/releases/latest) [![GitHub Tüm Yayınlar](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Kullanıcı+yazısı)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Komut-satırı+aracı)](https://www.npmjs.com/package/dl-librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -415,11 +386,9 @@ msgid ""
 ">\n"
 "> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](#bookmark) instructions instead.\n"
 msgstr ""
-"> Not: Cihazınız iOS veya iPadOS kullanıyorsa, lütfen [Kestirme](#kestirme) "
-"talimatlarını takip edin.\n"
+"> Not: Cihazınız iOS veya iPadOS kullanıyorsa, lütfen [Kestirme](#kestirme) talimatlarını takip edin.\n"
 ">\n"
-"> Not: Tarayıcı uzantılarını cihazınıza yükleyemiyorsanız, bunun yerine "
-"lütfen [Yer İşaretleri](#yer-işaretleri) talimatlarını takip edin.\n"
+"> Not: Tarayıcı uzantılarını cihazınıza yükleyemiyorsanız, bunun yerine lütfen [Yer İşaretleri](#yer-işaretleri) talimatlarını takip edin.\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
@@ -437,10 +406,7 @@ msgstr "1. [Tampermonkey'i](https://www.tampermonkey.net) yükleyin\n"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
-msgstr ""
-"> Not: \"musescore-downloader\", \"mcsz downloader\" veya \"musescore-dl\" "
-"adlı komut dosyasının eski bir sürümünü zaten yüklediyseniz, lütfen "
-"Tampermonkey kontrol panelinden kaldırın\n"
+msgstr "> Not: \"musescore-downloader\", \"mcsz downloader\" veya \"musescore-dl\" adlı komut dosyasının eski bir sürümünü zaten yüklediyseniz, lütfen Tampermonkey kontrol panelinden kaldırın\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -449,9 +415,7 @@ msgid ""
 "2. Go to the latest [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) file\n"
 "3. Press the Install button\n"
 msgstr ""
-"2. En yeni [dl-librescore.user.js](https://github.com/LibreScore/"
-"dl-librescore/releases/latest/download/dl-librescore.user.js) dosyasına "
-"gidin\n"
+"2. En yeni [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) dosyasına gidin\n"
 "3. Yükle düğmesine basın\n"
 
 #. type: Title ####

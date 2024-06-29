@@ -2,11 +2,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
-"POT-Creation-Date: 2023-11-03 20:20+0000\n"
+"POT-Creation-Date: 2024-06-29 05:29+0000\n"
 "PO-Revision-Date: 2024-06-29 01:38+0000\n"
 "Last-Translator: Agent Hitman Faris <bombtimecs@gmail.com>\n"
-"Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/"
-"ms/>\n"
+"Language-Team: Malay <https://librescore.ddns.net/projects/librescore/docs/ms/>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,9 +27,7 @@ msgstr "<div dir=\"ltr\" align=\"left\">\n"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
-msgstr ""
-"[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***JANGAN EDIT DI ATAS BARIS INI*** "
-"/+/^^+#|#+^+#|#+^^\\+\\\"\n"
+msgstr "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***JANGAN EDIT DI ATAS BARIS INI*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
 
 #. type: Title #
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -42,40 +39,25 @@ msgstr "Dasar Privasi"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "LibreScore built the LibreScore app as a Free app. This SERVICE is provided by LibreScore at no cost and is intended for use as is.\n"
-msgstr ""
-"LibreScore membina apl LibreScore sebagai apl Percuma. PERKHIDMATAN ini "
-"disediakan oleh LibreScore tanpa kos dan bertujuan untuk digunakan "
-"sebagaimana adanya.\n"
+msgstr "LibreScore membina apl LibreScore sebagai apl Percuma. PERKHIDMATAN ini disediakan oleh LibreScore tanpa kos dan bertujuan untuk digunakan sebagaimana adanya.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\n"
-msgstr ""
-"Halaman ini digunakan untuk memaklumkan pelawat mengenai dasar kami dengan "
-"pengumpulan, penggunaan dan pendedahan Maklumat Peribadi jika sesiapa "
-"memutuskan untuk menggunakan Perkhidmatan kami.\n"
+msgstr "Halaman ini digunakan untuk memaklumkan pelawat mengenai dasar kami dengan pengumpulan, penggunaan dan pendedahan Maklumat Peribadi jika sesiapa memutuskan untuk menggunakan Perkhidmatan kami.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\n"
-msgstr ""
-"Jika anda memilih untuk menggunakan Perkhidmatan kami, maka anda bersetuju "
-"menerima pengumpulan dan penggunaan maklumat yang berkaitan dengan dasar "
-"ini. Maklumat Peribadi yang kami kumpulkan digunakan untuk menyediakan dan "
-"menambah baik Perkhidmatan. Kami tidak akan menggunakan atau berkongsi "
-"maklumat anda dengan sesiapa kecuali seperti yang diterangkan dalam Dasar "
-"Privasi ini.\n"
+msgstr "Jika anda memilih untuk menggunakan Perkhidmatan kami, maka anda bersetuju menerima pengumpulan dan penggunaan maklumat yang berkaitan dengan dasar ini. Maklumat Peribadi yang kami kumpulkan digunakan untuk menyediakan dan menambah baik Perkhidmatan. Kami tidak akan menggunakan atau berkongsi maklumat anda dengan sesiapa kecuali seperti yang diterangkan dalam Dasar Privasi ini.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at LibreScore unless otherwise defined in this Privacy Policy.\n"
-msgstr ""
-"Terma yang digunakan dalam Dasar Privasi ini mempunyai maksud yang sama "
-"seperti dalam Terma dan Syarat kami, yang boleh diakses di LibreScore "
-"melainkan ditakrifkan sebaliknya dalam Dasar Privasi ini.\n"
+msgstr "Terma yang digunakan dalam Dasar Privasi ini mempunyai maksud yang sama seperti dalam Terma dan Syarat kami, yang boleh diakses di LibreScore melainkan ditakrifkan sebaliknya dalam Dasar Privasi ini.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -87,11 +69,7 @@ msgstr "Pengumpulan dan Penggunaan Maklumat"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.\n"
-msgstr ""
-"Untuk pengalaman yang lebih baik, semasa menggunakan Perkhidmatan kami, kami "
-"mungkin memerlukan anda untuk memberikan maklumat tertentu yang boleh "
-"dikenal pasti secara peribadi. Maklumat yang diminta akan disimpan dan "
-"digunakan seperti yang diterangkan dalam dasar privasi ini.\n"
+msgstr "Untuk pengalaman yang lebih baik, semasa menggunakan Perkhidmatan kami, kami mungkin memerlukan anda untuk memberikan maklumat tertentu yang boleh dikenal pasti secara peribadi. Maklumat yang diminta akan disimpan dan digunakan seperti yang diterangkan dalam dasar privasi ini.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -103,14 +81,7 @@ msgstr "Data Log"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\\\"IP\\\") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.\n"
-msgstr ""
-"Kami ingin memaklumkan anda bahawa setiap kali anda menggunakan Perkhidmatan "
-"kami, sekiranya berlaku ralat dalam apl, kami mengumpul data dan maklumat ("
-"melalui produk pihak ketiga) pada telefon anda yang dipanggil Data Log. Data "
-"Log ini mungkin termasuk maklumat seperti alamat Protokol Internet (\\\"IP\\"
-"\") peranti anda, nama peranti, versi sistem pengendalian, konfigurasi apl "
-"semasa menggunakan Perkhidmatan kami, masa dan tarikh penggunaan "
-"Perkhidmatan oleh anda dan statistik lain.\n"
+msgstr "Kami ingin memaklumkan anda bahawa setiap kali anda menggunakan Perkhidmatan kami, sekiranya berlaku ralat dalam apl, kami mengumpul data dan maklumat (melalui produk pihak ketiga) pada telefon anda yang dipanggil Data Log. Data Log ini mungkin termasuk maklumat seperti alamat Protokol Internet (\\\"IP\\\") peranti anda, nama peranti, versi sistem pengendalian, konfigurasi apl semasa menggunakan Perkhidmatan kami, masa dan tarikh penggunaan Perkhidmatan oleh anda dan statistik lain.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -122,13 +93,7 @@ msgstr "Keselamatan"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.\n"
-msgstr ""
-"Kami menghargai kepercayaan anda dalam memberikan kami Maklumat Peribadi "
-"anda, oleh itu kami berusaha untuk menggunakan cara yang boleh diterima "
-"secara komersial untuk melindunginya. Tetapi ingat bahawa tiada kaedah "
-"penghantaran melalui Internet, atau kaedah storan elektronik adalah 100% "
-"selamat dan boleh dipercayai, dan kami tidak dapat menjamin keselamatan "
-"mutlaknya.\n"
+msgstr "Kami menghargai kepercayaan anda dalam memberikan kami Maklumat Peribadi anda, oleh itu kami berusaha untuk menggunakan cara yang boleh diterima secara komersial untuk melindunginya. Tetapi ingat bahawa tiada kaedah penghantaran melalui Internet, atau kaedah storan elektronik adalah 100% selamat dan boleh dipercayai, dan kami tidak dapat menjamin keselamatan mutlaknya.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -140,14 +105,7 @@ msgstr "Pautan ke Tapak Lain"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n"
-msgstr ""
-"Perkhidmatan ini mungkin mengandungi pautan ke tapak lain. Jika anda "
-"mengklik pada pautan pihak ketiga, anda akan diarahkan ke tapak tersebut. "
-"Ambil perhatian bahawa tapak luar ini tidak dikendalikan oleh kami. Oleh "
-"itu, kami amat menasihati anda untuk menyemak Dasar Privasi tapak web ini. "
-"Kami tidak mempunyai kawalan ke atas dan tidak bertanggungjawab ke atas "
-"kandungan, dasar privasi atau amalan mana-mana tapak atau perkhidmatan pihak "
-"ketiga.\n"
+msgstr "Perkhidmatan ini mungkin mengandungi pautan ke tapak lain. Jika anda mengklik pada pautan pihak ketiga, anda akan diarahkan ke tapak tersebut. Ambil perhatian bahawa tapak luar ini tidak dikendalikan oleh kami. Oleh itu, kami amat menasihati anda untuk menyemak Dasar Privasi tapak web ini. Kami tidak mempunyai kawalan ke atas dan tidak bertanggungjawab ke atas kandungan, dasar privasi atau amalan mana-mana tapak atau perkhidmatan pihak ketiga.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -159,21 +117,7 @@ msgstr "Privasi Kanak-kanak"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We do not knowingly collect personally identifiable information from children. We encourage all children to never submit any personally identifiable information through the Application and/or Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).\n"
-msgstr ""
-"Kami tidak mengumpul maklumat yang boleh dikenal pasti secara peribadi "
-"daripada kanak-kanak. Kami menggalakkan semua kanak-kanak untuk tidak "
-"menyerahkan sebarang maklumat yang boleh dikenal pasti secara peribadi "
-"melalui Aplikasi dan/atau Perkhidmatan. Kami menggalakkan ibu bapa dan "
-"penjaga yang sah untuk memantau penggunaan Internet anak-anak mereka dan "
-"untuk membantu menguatkuasakan Polisi ini dengan mengarahkan anak-anak "
-"mereka untuk tidak memberikan maklumat yang boleh dikenal pasti secara "
-"peribadi melalui Aplikasi dan/atau Perkhidmatan tanpa kebenaran mereka. Jika "
-"anda mempunyai sebab untuk mempercayai bahawa kanak-kanak telah memberikan "
-"maklumat yang boleh dikenal pasti secara peribadi kepada kami melalui "
-"Aplikasi dan/atau Perkhidmatan, sila hubungi kami. Anda juga mesti berumur "
-"sekurang-kurangnya 16 tahun untuk membenarkan pemprosesan maklumat "
-"pengenalan peribadi anda di negara anda (di sesetengah negara kami mungkin "
-"membenarkan ibu bapa atau penjaga anda berbuat demikian bagi pihak anda).\n"
+msgstr "Kami tidak mengumpul maklumat yang boleh dikenal pasti secara peribadi daripada kanak-kanak. Kami menggalakkan semua kanak-kanak untuk tidak menyerahkan sebarang maklumat yang boleh dikenal pasti secara peribadi melalui Aplikasi dan/atau Perkhidmatan. Kami menggalakkan ibu bapa dan penjaga yang sah untuk memantau penggunaan Internet anak-anak mereka dan untuk membantu menguatkuasakan Polisi ini dengan mengarahkan anak-anak mereka untuk tidak memberikan maklumat yang boleh dikenal pasti secara peribadi melalui Aplikasi dan/atau Perkhidmatan tanpa kebenaran mereka. Jika anda mempunyai sebab untuk mempercayai bahawa kanak-kanak telah memberikan maklumat yang boleh dikenal pasti secara peribadi kepada kami melalui Aplikasi dan/atau Perkhidmatan, sila hubungi kami. Anda juga mesti berumur sekurang-kurangnya 16 tahun untuk membenarkan pemprosesan maklumat pengenalan peribadi anda di negara anda (di sesetengah negara kami mungkin membenarkan ibu bapa atau penjaga anda berbuat demikian bagi pihak anda).\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -185,11 +129,7 @@ msgstr "Perubahan kepada Dasar Privasi Ini"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.\n"
-msgstr ""
-"Kami mungkin mengemas kini Dasar Privasi kami dari semasa ke semasa. Oleh "
-"itu, anda dinasihatkan untuk menyemak halaman ini secara berkala untuk "
-"sebarang perubahan. Kami akan memberitahu anda tentang sebarang perubahan "
-"dengan menyiarkan Dasar Privasi baharu pada halaman ini.\n"
+msgstr "Kami mungkin mengemas kini Dasar Privasi kami dari semasa ke semasa. Oleh itu, anda dinasihatkan untuk menyemak halaman ini secara berkala untuk sebarang perubahan. Kami akan memberitahu anda tentang sebarang perubahan dengan menyiarkan Dasar Privasi baharu pada halaman ini.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -207,19 +147,13 @@ msgstr "Hubungi Kami"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
-msgstr ""
-"Jika anda mempunyai sebarang soalan atau cadangan tentang Dasar Privasi "
-"kami, sila menghubungi kami di [contact@librescore."
-"org](mailto:contact@librescore.org).\n"
+msgstr "Jika anda mempunyai sebarang soalan atau cadangan tentang Dasar Privasi kami, sila menghubungi kami di [contact@librescore.org](mailto:contact@librescore.org).\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com)\n"
-msgstr ""
-"Halaman dasar privasi ini dibuat di [privacypolicytemplate."
-"net](https://privacypolicytemplate.net) dan diubah suai/dijana oleh [Penjana "
-"Dasar Privasi Apl](https://app-privacy-policy-generator.nisrulz.com)\n"
+msgstr "Halaman dasar privasi ini dibuat di [privacypolicytemplate.net](https://privacypolicytemplate.net) dan diubah suai/dijana oleh [Penjana Dasar Privasi Apl](https://app-privacy-policy-generator.nisrulz.com)\n"
 
 #. type: Title #
 #: source/app-librescore/README.md
@@ -238,23 +172,13 @@ msgstr "<div align=\"center\">\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
-msgstr ""
-"<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo."
-"png\" width=\"256\" alt=\"LibreScore logo\">\n"
+msgstr "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Downloads)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
-"app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/"
-"librescore) [![Github Semua Keluaran](https://img.shields.io/github/"
-"downloads/LibreScore/app-librescore/total."
-"svg?label=Muat+turun)](https://github.com/LibreScore/app-librescore/releases/"
-"latest)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/app-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github Semua Keluaran](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Muat+turun)](https://github.com/LibreScore/app-librescore/releases/latest)\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -290,34 +214,10 @@ msgid ""
 "|                                            Windows (7+) (64-bit only)                                            |                                        macOS (10.14+) (Rosetta 2)                                         |                                               Linux (64-bit only)                                                |                                             Android (6.0+)                                             |\n"
 "|      [Download (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Download (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Download (AppImage)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage) | [Download (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 msgstr ""
-"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/"
-"Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https"
-"://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29."
-"svg\" width=\"512\"> |               <img src=\"https://upload.wikimedia.org/"
-"wikipedia/commons/3/35/Tux.svg\" width=\"512\">                |   <img src="
-"\"https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head."
-"svg\" width=\"512\">   |\n"
-"| :--------------------------------------------------------------------------"
-"------------------------------------: | :------------------------------------"
-"-------------------------------------------------------------------: | :-----"
-"-----------------------------------------------------------------------------"
-"----------------------------: | :--------------------------------------------"
-"--------------------------------------------------------: |\n"
-"|                                            Windows (7+) (64-bit sahaja)"
-"                                            |"
-"                                        macOS (10.14+) (Rosetta 2)"
-"                                         |"
-"                                               Linux (64-bit sahaja)"
-"                                                |"
-"                                             Android (6.0+)"
-"                                             |\n"
-"|      [Muat turun (EXE)](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.exe)      |  [Muat turun "
-"(DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/"
-"LibreScore.dmg)   | [Muat turun (AppImage)](https://github.com/LibreScore/"
-"app-librescore/releases/latest/download/LibreScore.AppImage) | [Muat turun "
-"(APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/"
-"LibreScore.apk) |\n"
+"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg\" width=\"512\"> |               <img src=\"https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg\" width=\"512\">                |   <img src=\"https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg\" width=\"512\">   |\n"
+"| :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |\n"
+"|                                            Windows (7+) (64-bit sahaja)                                            |                                        macOS (10.14+) (Rosetta 2)                                         |                                               Linux (64-bit sahaja)                                                |                                             Android (6.0+)                                             |\n"
+"|      [Muat turun (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Muat turun (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Muat turun (AppImage)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage) | [Muat turun (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -338,8 +238,7 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. Muat turun [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.exe)\n"
+"1. Muat turun [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Buka fail EXE untuk memasangnya\n"
 
 #. type: Title ###
@@ -362,8 +261,7 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
-"1. Muat turun [LibreScore.dmg](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.dmg)\n"
+"1. Muat turun [LibreScore.dmg](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)\n"
 "2. Buka fail DMG\n"
 "3. Alihkan fail APP ke folder Aplikasi untuk memasangnya\n"
 "4. Control-klik fail APP\n"
@@ -388,11 +286,9 @@ msgid ""
 "3. Run `chmod a+x ./LibreScore.AppImage` to make it executable\n"
 "4. Run `./LibreScore.AppImage --install` to install it\n"
 msgstr ""
-"1. Muat turun [LibreScore.AppImage](https://github.com/LibreScore/"
-"app-librescore/releases/latest/download/LibreScore.AppImage)\n"
+"1. Muat turun [LibreScore.AppImage](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage)\n"
 "2. Pasang `fuse2` untuk pengedaran anda\n"
-"3. Jalankan `chmod a+x ./LibreScore.AppImage` untuk menjadikannya boleh "
-"laku\n"
+"3. Jalankan `chmod a+x ./LibreScore.AppImage` untuk menjadikannya boleh laku\n"
 "4. Jalankan `./LibreScore.AppImage --install` untuk memasangnya\n"
 
 #. type: Title ###
@@ -408,17 +304,14 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
-"1. Muat turun [LibreScore.apk](https://github.com/LibreScore/app-librescore/"
-"releases/latest/download/LibreScore.apk)\n"
+"1. Muat turun [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Buka fail APK untuk memasangnya\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
-msgstr ""
-"> Nota: Mesej mungkin muncul tentang Play Protect. Ketik `Install Anyway` di "
-"bahagian bawah\n"
+msgstr "> Nota: Mesej mungkin muncul tentang Play Protect. Ketik `Install Anyway` di bahagian bawah\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
@@ -430,19 +323,7 @@ msgstr "dl-librescore"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=App)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Userscript)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Command-line+tool)](https://www.npmjs.com/package/dl-librescore)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
-"dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/"
-"librescore) [![Github Semua Keluaran](https://img.shields.io/github/"
-"downloads/LibreScore/app-librescore/total.svg?label=Apl)](https://github.com/"
-"LibreScore/app-librescore/releases/latest) [![Github Semua "
-"Keluaran](https://img.shields.io/github/downloads/LibreScore/dl-librescore/"
-"total.svg?label=Skrip+pengguna)](https://github.com/LibreScore/dl-librescore/"
-"releases/latest) [![npm](https://img.shields.io/npm/dt/dl-"
-"librescore?label=Alat+baris+arahan)](https://www.npmjs.com/package/dl-"
-"librescore)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/dl-librescore/svg-badge.svg)](https://weblate.librescore.org/engage/librescore) [![Github Semua Keluaran](https://img.shields.io/github/downloads/LibreScore/app-librescore/total.svg?label=Apl)](https://github.com/LibreScore/app-librescore/releases/latest) [![Github Semua Keluaran](https://img.shields.io/github/downloads/LibreScore/dl-librescore/total.svg?label=Skrip+pengguna)](https://github.com/LibreScore/dl-librescore/releases/latest) [![npm](https://img.shields.io/npm/dt/dl-librescore?label=Alat+baris+arahan)](https://www.npmjs.com/package/dl-librescore)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -467,20 +348,12 @@ msgid ""
 "| [Command-line tool](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
 "| [Webmscore website](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgstr ""
-"| Program                                                                    "
-"        | MSCZ | MIDI | MP3 | PDF | Penukaran |     | Windows | macOS | "
-"Linux | Android | iOS/iPadOS |\n"
-"| ---------------------------------------------------------------------------"
-"------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | "
-"----- | ------- | ---------- |\n"
-"| [Apl](#apl)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌"
-"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [Skrip pengguna](#skrip-pengguna)               | ❌   | ✔️   | ✔️  | ✔️  |"
-" ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
-"| [Alat baris arahan](#alat-baris-arahan) | ❌   | ✔️   | ✔️  | ✔️  | ✔️"
-"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
-"| [Laman web Webmscore](#laman-web-webmscore) | ❌   | ❌   | ❌  | ❌  | ✔️"
-"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| Program                                                                            | MSCZ | MIDI | MP3 | PDF | Penukaran |     | Windows | macOS | Linux | Android | iOS/iPadOS |\n"
+"| ---------------------------------------------------------------------------------- | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | ------- | ---------- |\n"
+"| [Apl](#apl)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Skrip pengguna](#skrip-pengguna)               | ❌   | ✔️   | ✔️  | ✔️  | ❌         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Alat baris arahan](#alat-baris-arahan) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Laman web Webmscore](#laman-web-webmscore) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -489,10 +362,8 @@ msgid ""
 "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
 "> Conversion types include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgstr ""
-"> Nota: `Penukaran` merujuk kepada keupayaan untuk menukar fail kepada jenis "
-"fail lain, termasuk yang tidak boleh dimuat turun dalam program.\n"
-"> Jenis penukaran termasuk: Bahagian Individu, PDF, PNG, SVG, MP3, WAV, "
-"FLAC, OGG, MIDI, MusicXML, MSCZ dan MSCX.\n"
+"> Nota: `Penukaran` merujuk kepada keupayaan untuk menukar fail kepada jenis fail lain, termasuk yang tidak boleh dimuat turun dalam program.\n"
+"> Jenis penukaran termasuk: Bahagian Individu, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ dan MSCX.\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -507,8 +378,7 @@ msgid ""
 "1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device\n"
 msgstr ""
-"1. Pergi ke halaman [BACASAYA](https://github.com/LibreScore/app-librescore/"
-"blob/master/docs/ms/BACASAYA.md#pemasangan) repositori `app-librescore`\n"
+"1. Pergi ke halaman [BACASAYA](https://github.com/LibreScore/app-librescore/blob/master/docs/ms/BACASAYA.md#pemasangan) repositori `app-librescore`\n"
 "2. Ikut arahan pemasangan untuk peranti anda\n"
 
 #. type: Title ###
@@ -525,11 +395,9 @@ msgid ""
 ">\n"
 "> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](#bookmark) instructions instead.\n"
 msgstr ""
-"> Nota: Jika peranti anda menggunakan iOS atau iPadOS, sila ikut arahan "
-"[Pintasan](#pintasan).\n"
+"> Nota: Jika peranti anda menggunakan iOS atau iPadOS, sila ikut arahan [Pintasan](#pintasan).\n"
 ">\n"
-"> Nota: Jika anda tidak boleh memasang sambungan penyemak imbas pada peranti "
-"anda, sila ikut arahan [Penanda Halaman](#penanda-halaman) sebaliknya.\n"
+"> Nota: Jika anda tidak boleh memasang sambungan penyemak imbas pada peranti anda, sila ikut arahan [Penanda Halaman](#penanda-halaman) sebaliknya.\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
@@ -547,10 +415,7 @@ msgstr "1. Pasang [Tampermonkey](https://www.tampermonkey.net)\n"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
-msgstr ""
-"> Nota: Jika anda telah memasang versi lama skrip yang dipanggil \"musescore-"
-"downloader\", \"mcsz downloader\", atau \"musescore-dl\", sila nyahpasangnya "
-"daripada papan pemuka Tampermonkey\n"
+msgstr "> Nota: Jika anda telah memasang versi lama skrip yang dipanggil \"musescore-downloader\", \"mcsz downloader\", atau \"musescore-dl\", sila nyahpasangnya daripada papan pemuka Tampermonkey\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -559,8 +424,7 @@ msgid ""
 "2. Go to the latest [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) file\n"
 "3. Press the Install button\n"
 msgstr ""
-"2. Pergi ke fail [dl-librescore.user.js](https://github.com/LibreScore/"
-"dl-librescore/releases/latest/download/dl-librescore.user.js) terkini\n"
+"2. Pergi ke fail [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) terkini\n"
 "3. Tekan butang Pasang\n"
 
 #. type: Title ####
@@ -577,11 +441,8 @@ msgid ""
 "2. In Safari, when viewing a song on MuseScore, tap <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
 "3. Tap the LibreScore shortcut to activate the extension\n"
 msgstr ""
-"1. Pasang [pintasan LibreScore](https://www.icloud.com/shortcuts/"
-"901d8778d2da4f7db9272d3b2232d0fe)\n"
-"2. Dalam Safari, apabila melihat lagu di MuseScore, ketik <img src=\"https"
-"://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/"
-"en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
+"1. Pasang [pintasan LibreScore](https://www.icloud.com/shortcuts/901d8778d2da4f7db9272d3b2232d0fe)\n"
+"2. Dalam Safari, apabila melihat lagu di MuseScore, ketik <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
 "3. Ketik pintasan LibreScore untuk mengaktifkan sambungan\n"
 
 #. type: Plain text
@@ -593,12 +454,9 @@ msgid ""
 "> 1. Go to Settings <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Shortcuts > Advanced\n"
 "> 2. Turn on Allow Running Scripts\n"
 msgstr ""
-"> Nota: Sebelum anda boleh menjalankan JavaScript daripada pintasan, anda "
-"mesti menghidupkan Benarkan Skrip Berjalan\n"
+"> Nota: Sebelum anda boleh menjalankan JavaScript daripada pintasan, anda mesti menghidupkan Benarkan Skrip Berjalan\n"
 ">\n"
-"> 1. Pergi ke Tetapan <img src=\"https://help.apple.com/assets/"
-"61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
-"492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Pintasan > Advanced\n"
+"> 1. Pergi ke Tetapan <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Pintasan > Advanced\n"
 "> 2. Menyalakan Izinkan Menjalankan Skrip\n"
 
 #. type: Title ####
@@ -619,13 +477,9 @@ msgid ""
 msgstr ""
 "1. Buat penanda halaman baharu (biasanya Ctrl+D)\n"
 "2. Taipkan `LibreScore` untuk medan Nama\n"
-"3. Taipkan `javascript:(function () {let code = document."
-"createElement('script');code.src = 'https://github.com/LibreScore/"
-"dl-librescore/releases/latest/download/dl-librescore.user.js';document.body."
-"appendChild(code);}())` untuk medan URL\n"
+"3. Taipkan `javascript:(function () {let code = document.createElement('script');code.src = 'https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js';document.body.appendChild(code);}())` untuk medan URL\n"
 "4. Simpan penanda halaman\n"
-"5. Apabila melihat lagu di MuseScore, klik penanda halaman untuk "
-"mengaktifkan sambungan\n"
+"5. Apabila melihat lagu di MuseScore, klik penanda halaman untuk mengaktifkan sambungan\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -661,9 +515,7 @@ msgstr "1. Buka [Webmscore](https://webmscore-pwa.librescore.org)\n"
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: You can access the website offline by installing it as a PWA\n"
-msgstr ""
-"> Nota: Anda boleh mengakses tapak web di luar talian dengan memasangnya "
-"sebagai PWA\n"
+msgstr "> Nota: Anda boleh mengakses tapak web di luar talian dengan memasangnya sebagai PWA\n"
 
 #. type: Title ##
 #: source/dl-librescore/README.md source/docs/README.md
@@ -704,11 +556,7 @@ msgstr "Dokumentasi LibreScore"
 #: source/docs/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
-"docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/docs/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
 
 #. type: Plain text
 #: source/docs/README.md
@@ -726,9 +574,7 @@ msgstr "Menambah bahasa"
 #: source/docs/README.md
 #, no-wrap
 msgid "1. Create a `XX.po` file, where `XX` is a language code (ex: `pt` or `zh-Hant`) in the `po/` directory\n"
-msgstr ""
-"1. Cipta fail `XX.po`, dengan `XX` ialah kod bahasa (cth: `pt` atau `zh-"
-"Hant`) dalam direktori `po/`\n"
+msgstr "1. Cipta fail `XX.po`, dengan `XX` ialah kod bahasa (cth: `pt` atau `zh-Hant`) dalam direktori `po/`\n"
 
 #. type: Plain text
 #: source/docs/README.md
@@ -746,20 +592,13 @@ msgstr "PWA Webmscore"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
-msgstr ""
-"[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&la"
-"bel=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/"
-"DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/"
-"webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/"
-"librescore)\n"
+msgstr "[![Discord](https://img.shields.io/discord/774491656643674122?color=5865F2&label=&labelColor=555555&logo=discord&logoColor=FFFFFF)](https://discord.gg/DKu7cUZ4XQ) [![Weblate](https://weblate.librescore.org/widgets/librescore/-/webmscore-pwa/svg-badge.svg)](https://weblate.librescore.org/engage/librescore)\n"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "The official frontend for the webmscore tool: <https://webmscore-pwa.librescore.org>\n"
-msgstr ""
-"Bahagian hadapan rasmi untuk alat webmscore: <https://webmscore-pwa."
-"librescore.org>\n"
+msgstr "Bahagian hadapan rasmi untuk alat webmscore: <https://webmscore-pwa.librescore.org>\n"
 
 #. type: Title ##
 #: source/webmscore-pwa/README.md
@@ -771,9 +610,7 @@ msgstr "Membangunkan"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:\n"
-msgstr ""
-"Setelah anda membuat projek dan memasang kebergantungan dengan `npm install` "
-"(atau `pnpm install` atau `yarn`), mulakan pelayan pembangunan:\n"
+msgstr "Setelah anda membuat projek dan memasang kebergantungan dengan `npm install` (atau `pnpm install` atau `yarn`), mulakan pelayan pembangunan:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
@@ -793,9 +630,7 @@ msgstr ""
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:\n"
-msgstr ""
-"Sebelum membuat versi pengeluaran apl anda, pasang [penyesuai](https://kit."
-"svelte.dev/docs#adapters) untuk persekitaran sasaran anda. Kemudian:\n"
+msgstr "Sebelum membuat versi pengeluaran apl anda, pasang [penyesuai](https://kit.svelte.dev/docs#adapters) untuk persekitaran sasaran anda. Kemudian:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
@@ -807,10 +642,7 @@ msgstr "npm run build\n"
 #: source/webmscore-pwa/README.md
 #, no-wrap
 msgid "> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.\n"
-msgstr ""
-"> Anda boleh pratonton apl terbina dengan `npm run preview`, tidak kira sama "
-"ada anda memasang penyesuai. Ini seharusnya _tidak_ digunakan untuk "
-"menyampaikan apl anda dalam pengeluaran.\n"
+msgstr "> Anda boleh pratonton apl terbina dengan `npm run preview`, tidak kira sama ada anda memasang penyesuai. Ini seharusnya _tidak_ digunakan untuk menyampaikan apl anda dalam pengeluaran.\n"
 
 #. type: Hash Value: PRIVACY-POLICY
 #: source/titles/titles.yaml
