@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2024-06-29 05:29+0000\n"
-"PO-Revision-Date: 2024-06-29 01:38+0000\n"
-"Last-Translator: Ziegler <3474343354@qq.com>\n"
-"Language-Team: Chinese (Simplified) <https://librescore.ddns.net/projects/librescore/docs/zh_Hans/>\n"
+"PO-Revision-Date: 2024-09-06 22:11+0000\n"
+"Last-Translator: Dimpurr Chen <dimpurr@live.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://librescore.ddns.net/"
+"projects/librescore/docs/zh_Hans/>\n"
 "Language: zh-Hans\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.6\n"
+"X-Generator: Weblate 5.7.1\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -50,96 +51,120 @@ msgstr "此页面用于告知决定使用我们的服务的用户，有关收集
 #, no-wrap
 msgid "If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\n"
 msgstr ""
+"如果您选择使用我们的服务，则表示您同意我们收集和使用与本政策相关的信息。我们"
+"收集的个人信息用于提供和改进服务。除本隐私政策所述情况外，我们不会使用或与任"
+"何人共享您的信息。\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at LibreScore unless otherwise defined in this Privacy Policy.\n"
-msgstr ""
+msgstr "除非本隐私政策中另有定义，否则本隐私政策中使用的术语与我们的条款和条件中的含"
+"义相同，这些条款和条件可在 LibreScore 访问。\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Information Collection and Use"
-msgstr ""
+msgstr "信息收集和使用"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.\n"
 msgstr ""
+"为了获得更好的体验，在使用我们的服务时，我们可能会要求您向我们提供某些个人身"
+"份信息。我们将保留所要求的信息，并按照本隐私政策的规定使用这些信息。\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Log Data"
-msgstr ""
+msgstr "日志数据"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\\\"IP\\\") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.\n"
 msgstr ""
+"我们希望告知您，当您使用我们的服务时，如果应用程序出现错误，我们会（通过第三"
+"方产品）收集您手机上的数据和信息，称为日志数据。这些日志数据可能包括你的设备"
+"互联网协议（IP）地址、设备名称、操作系统版本、使用我们的服务时应用程序的配置"
+"、使用服务的时间和日期以及其他统计信息。\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Security"
-msgstr ""
+msgstr "安全"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.\n"
 msgstr ""
+"我们珍视您对我们提供个人信息的信任，因此我们努力使用商业上可接受的方法来保护"
+"您的个人信息。但请记住，任何互联网传输方式或电子存储方式都不是 100% "
+"安全可靠的，我们无法保证其绝对安全。\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Links to Other Sites"
-msgstr ""
+msgstr "其他网站链接"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n"
 msgstr ""
+"本服务可能包含其他网站的链接。如果您点击第三方链接，您将被引导至该网站。请注"
+"意，这些外部网站并非由我们运营。因此，我们强烈建议您查看这些网站的隐私政策。"
+"对于任何第三方网站或服务的内容、隐私政策或做法，我们无法控制，也不承担任何责"
+"任。\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Children's Privacy"
-msgstr ""
+msgstr "儿童隐私"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We do not knowingly collect personally identifiable information from children. We encourage all children to never submit any personally identifiable information through the Application and/or Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).\n"
 msgstr ""
+"我们不会有意收集儿童的个人身份信息。我们鼓励所有儿童切勿通过应用程序和/或服务"
+"提交任何个人身份信息。我们鼓励父母和法定监护人监督子女的互联网使用情况，并指"
+"导子女在未经其许可的情况下，切勿通过应用程序和/或服务提供个人身份信息，以帮助"
+"执行本政策。如果您有理由认为儿童通过应用程序和/或服务向我们提供了个人身份信息"
+"，请与我们联系。您还必须至少年满 16 周岁，方可同意我们在您所在的国家处理您的"
+"个人身份信息（在某些国家，我们可能允许您的父母或监护人代为同意）。\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Changes to This Privacy Policy"
-msgstr ""
+msgstr "本隐私政策的变更"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.\n"
-msgstr ""
+msgstr "我们可能会不时更新我们的隐私政策。因此，建议您定期查看本页面以了解任何变更。"
+"我们将在本页发布新的隐私政策，通知您任何变更。\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This policy is effective as of 2021-11-01\n"
-msgstr ""
+msgstr "本政策自 2021-11-01 起生效\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Contact Us"
-msgstr ""
+msgstr "联系我们"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -152,6 +177,9 @@ msgstr "如果您對我們的隱私政策有任何疑問或建議，請隨時通
 #, no-wrap
 msgid "This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com)\n"
 msgstr ""
+"本隐私政策页面由 [privacypolicytemplate.net](https://privacypolicytemplate."
+"net) 创建，并由 [App Privacy Policy Generator](https://app-privacy-policy-"
+"generator.nisrulz.com) 修改/生成。\n"
 
 #. type: Title #
 #: source/app-librescore/README.md
