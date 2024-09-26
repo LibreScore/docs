@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2024-06-29 05:29+0000\n"
-"PO-Revision-Date: 2024-09-26 14:11+0000\n"
+"PO-Revision-Date: 2024-09-26 21:11+0000\n"
 "Last-Translator: Fjuro <fjuro@alius.cz>\n"
 "Language-Team: Czech <https://librescore.ddns.net/projects/librescore/docs/"
 "cs/>\n"
@@ -64,6 +64,11 @@ msgstr ""
 #, no-wrap
 msgid "If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\n"
 msgstr ""
+"Pokud se rozhodnete používat naši službu, souhlasíte se shromažďováním a "
+"používáním informací v souladu s těmito zásadami. Osobní údaje, které "
+"shromažďujeme, slouží k poskytování a zlepšování služby. Vaše údaje nebudeme "
+"používat ani s nikým sdílet jinak, než jak je popsáno v těchto zásadách "
+"ochrany osobních údajů.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
