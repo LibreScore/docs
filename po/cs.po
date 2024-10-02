@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2024-06-29 05:29+0000\n"
-"PO-Revision-Date: 2024-09-26 21:11+0000\n"
+"PO-Revision-Date: 2024-10-02 16:14+0000\n"
 "Last-Translator: Fjuro <fjuro@alius.cz>\n"
 "Language-Team: Czech <https://librescore.ddns.net/projects/librescore/docs/"
 "cs/>\n"
@@ -75,105 +75,149 @@ msgstr ""
 #, no-wrap
 msgid "The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at LibreScore unless otherwise defined in this Privacy Policy.\n"
 msgstr ""
+"Pojmy použité v těchto Zásadách ochrany osobních údajů mají stejný význam "
+"jako v našich Smluvních podmínkách, které jsou k dispozici v LibreScore, "
+"pokud nejsou v těchto Zásadách ochrany osobních údajů definovány jinak.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Information Collection and Use"
-msgstr ""
+msgstr "Shromažďování a používání informací"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.\n"
 msgstr ""
+"Pro lepší zážitek z používání naší Služby můžeme požadovat, abyste nám "
+"poskytli určité osobní údaje. Informace, které požadujeme, si ponecháme a "
+"použijeme je tak, jak je popsáno v těchto zásadách ochrany osobních údajů.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Log Data"
-msgstr ""
+msgstr "Protokolovaná data"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\\\"IP\\\") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.\n"
 msgstr ""
+"Rádi bychom vás informovali, že kdykoli používáte naši službu, v případě "
+"chyby v aplikaci shromažďujeme data a informace (prostřednictvím produktů "
+"třetích stran) ve vašem telefonu, které se nazývají Protokolovaná data. Tato "
+"Protokolovaná data mohou obsahovat informace, jako je adresa internetového "
+"protokolu („IP“) vašeho zařízení, název zařízení, verze operačního systému, "
+"konfigurace aplikace při používání naší Služby, čas a datum vašeho používání "
+"Služby a další statistiky.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Security"
-msgstr ""
+msgstr "Zabezpečení"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.\n"
 msgstr ""
+"Vážíme si vaší důvěry, s níž nám poskytujete své osobní údaje, a proto se "
+"snažíme používat komerčně přijatelné prostředky k jejich ochraně. "
+"Nezapomeňte však, že žádný způsob přenosu přes internet ani způsob "
+"elektronického ukládání není stoprocentně bezpečný a spolehlivý a my "
+"nemůžeme zaručit jeho absolutní bezpečnost.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Links to Other Sites"
-msgstr ""
+msgstr "Odkazy na další webové stránky"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n"
 msgstr ""
+"Tato Služba může obsahovat odkazy na jiné stránky. Pokud kliknete na odkaz "
+"třetí strany, budete přesměrováni na tuto stránku. Upozorňujeme, že tyto "
+"externí stránky neprovozujeme. Proto vám důrazně doporučujeme, abyste si "
+"prostudovali zásady ochrany osobních údajů těchto webových stránek. Nemáme "
+"žádnou kontrolu nad obsahem, zásadami ochrany osobních údajů nebo postupy "
+"jakýchkoli stránek nebo služeb třetích stran a neneseme za ně žádnou "
+"odpovědnost.\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Children's Privacy"
-msgstr ""
+msgstr "Soukromí dětí"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We do not knowingly collect personally identifiable information from children. We encourage all children to never submit any personally identifiable information through the Application and/or Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).\n"
 msgstr ""
+"Osobní údaje od dětí vědomě neshromažďujeme. Doporučujeme všem dětem, aby "
+"nikdy neposkytovaly žádné osobní údaje prostřednictvím Aplikace a/nebo "
+"Služeb. Doporučujeme rodičům a zákonným zástupcům, aby sledovali používání "
+"internetu svými dětmi a pomohli prosazovat tyto zásady tím, že své děti "
+"poučí, aby nikdy neposkytovaly osobní údaje prostřednictvím Aplikace a/nebo "
+"Služeb bez jejich souhlasu. Pokud máte důvod se domnívat, že nám dítě "
+"prostřednictvím Aplikace a/nebo Služeb poskytlo osobní údaje, kontaktujte "
+"nás. Abyste mohli ve své zemi udělit souhlas se zpracováním svých osobně "
+"identifikovatelných údajů, musí vám být rovněž alespoň 16 let (v některých "
+"zemích můžeme povolit, aby tak vaším jménem učinil váš rodič nebo "
+"opatrovník).\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Changes to This Privacy Policy"
-msgstr ""
+msgstr "Změny těchto Zásad ochrany osobních údajů"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.\n"
 msgstr ""
+"Naše zásady ochrany osobních údajů můžeme čas od času aktualizovat. Proto "
+"vám doporučujeme, abyste tuto stránku pravidelně kontrolovali, zda nedošlo "
+"ke změnám. O všech změnách vás budeme informovat zveřejněním nových Zásad "
+"ochrany osobních údajů na této stránce.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This policy is effective as of 2021-11-01\n"
-msgstr ""
+msgstr "Tyto zásady jsou platné od 1. 11. 2021\n"
 
 #. type: Title ##
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "Contact Us"
-msgstr ""
+msgstr "Kontaktujte nás"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
 msgstr ""
-"Pokud máte nějaké dotazy nebo návrhy ohledně našich zásad ochrany osobních "
-"údajů, neváhejte nás kontaktovat na\n"
-"[contact@librescore.org](mailto:contact@librescore.org).\n"
+"Pokud máte jakékoli dotazy nebo návrhy ohledně našich zásad ochrany osobních "
+"údajů, neváhejte nás kontaktovat na adrese [contact@librescore."
+"org](mailto:contact@librescore.org).\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com)\n"
 msgstr ""
+"Tato stránka se zásadami ochrany osobních údajů byla vytvořena službou "
+"[privacypolicytemplate.net](https://privacypolicytemplate.net) a upravena/"
+"generována pomocí [App Privacy Policy Generator](https://app-privacy-policy-"
+"generator.nisrulz.com)\n"
 
 #. type: Title #
 #: source/app-librescore/README.md
