@@ -8,15 +8,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2024-06-29 05:29+0000\n"
-"PO-Revision-Date: 2024-06-29 01:38+0000\n"
-"Last-Translator: Maciej Klupp <maciej.klupp@gmail.com>\n"
-"Language-Team: Polish <https://librescore.ddns.net/projects/librescore/docs/pl/>\n"
+"PO-Revision-Date: 2025-01-21 11:24+0000\n"
+"Last-Translator: Uartbba <uartbba@proton.me>\n"
+"Language-Team: Polish <https://librescore.ddns.net/projects/librescore/docs/"
+"pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.6\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.9.2\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -153,6 +155,9 @@ msgstr ""
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
 msgstr ""
+"W przypadku jakichkolwiek pytań lub sugestii dotyczących naszej Polityki "
+"prywatności, prosimy o kontakt pod adresem [contact@librescore.org]"
+"(mailto:contact@librescore.org).\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -202,7 +207,7 @@ msgstr "</div>\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "> DISCLAIMER: This is not an officially endorsed MuseScore product\n"
-msgstr ""
+msgstr "ZASTRZEŻENIE: To nie jest oficjalnie zatwierdzony produkt MuseScore\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md
@@ -280,7 +285,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 #. type: Plain text
 #: source/app-librescore/README.md
@@ -383,12 +388,15 @@ msgid ""
 "1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device\n"
 msgstr ""
+"1. Przejdź do strony [README](https://github.com/LibreScore/app-"
+"librescore#installation) repozytorium `app-librescore`.\n"
+"2. Postępuj zgodnie z instrukcjami instalacji dla swojego urządzenia\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Userscript"
-msgstr ""
+msgstr "Userscript"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -398,24 +406,32 @@ msgid ""
 ">\n"
 "> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](#bookmark) instructions instead.\n"
 msgstr ""
+"> Uwaga: Jeśli urządzenie działa w systemie iOS lub iPadOS, należy "
+"postępować zgodnie z instrukcjami [Shortcut](#shortcut).\n"
+">\n"
+"> Uwaga: Jeśli nie możesz zainstalować rozszerzeń przeglądarki na swoim "
+"urządzeniu, postępuj zgodnie z instrukcjami [bookmark](#bookmark).\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Browser extension"
-msgstr ""
+msgstr "Rozszerzenie przeglądarki"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "1. Install [Tampermonkey](https://www.tampermonkey.net)\n"
-msgstr ""
+msgstr "1. Zainstaluj [Tampermonkey](https://www.tampermonkey.net)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
 msgstr ""
+"> Uwaga: Jeśli zainstalowałeś już starą wersję skryptu o nazwie „musescore-"
+"downloader”, „mcsz downloader” lub „musescore-dl”, odinstaluj ją z pulpitu "
+"nawigacyjnego Tampermonkey.\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -424,12 +440,15 @@ msgid ""
 "2. Go to the latest [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) file\n"
 "3. Press the Install button\n"
 msgstr ""
+"2. Przejdź do najnowszego pliku [dl-librescore.user.js](https://github.com/"
+"LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js).\n"
+"3. Naciśnij przycisk Zainstaluj\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Shortcut"
-msgstr ""
+msgstr "Skrót"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -439,6 +458,13 @@ msgid ""
 "2. In Safari, when viewing a song on MuseScore, tap <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
 "3. Tap the LibreScore shortcut to activate the extension\n"
 msgstr ""
+"1. Zainstaluj [LibreScore shortcut](https://www.icloud.com/shortcuts/"
+"901d8778d2da4f7db9272d3b2232d0fe)\n"
+"2. W Safari, podczas przeglądania utworu na MuseScore, dotknij <img "
+"src=„https://help.apple.com/assets/61800C7E6EA4632586448084/"
+"61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png” "
+"height=„16”>.\n"
+"3. Naciśnij skrót LibreScore, aby aktywować rozszerzenie\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -449,12 +475,19 @@ msgid ""
 "> 1. Go to Settings <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Shortcuts > Advanced\n"
 "> 2. Turn on Allow Running Scripts\n"
 msgstr ""
+"> Uwaga: Aby móc uruchamiać JavaScript ze skrótu, należy włączyć opcję "
+"Zezwalaj na uruchamianie skryptów.\n"
+">\n"
+"> 1. Przejdź do Ustawień <img src=„https://help.apple.com/assets/"
+"61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
+"492fec5aff74dbdef9b526177c3804b4.png” height=„16”> > Skróty > Zaawansowane\n"
+"> 2. Włącz opcję Zezwalaj na uruchamianie skryptów\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Bookmark"
-msgstr ""
+msgstr "Zakładka"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -466,12 +499,21 @@ msgid ""
 "4. Save the bookmark\n"
 "5. When viewing a song on MuseScore, click the bookmark to activate the extension\n"
 msgstr ""
+"1. Utwórz nową zakładkę (zwykle Ctrl+D)\n"
+"2. Wpisz `LibreScore` w polu Nazwa\n"
+"3. Wpisz `javascript:(function () {let code = "
+"document.createElement('script');code.src = 'https://github.com/LibreScore/"
+"dl-librescore/releases/latest/download/dl-"
+"librescore.user.js';document.body.appendChild(code);}())` w polu URL.\n"
+"4. Zapisz zakładkę\n"
+"5. Podczas wyświetlania utworu w MuseScore kliknij zakładkę, aby aktywować "
+"rozszerzenie\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Command-line tool"
-msgstr ""
+msgstr "Narzędzie wiersza poleceń"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -481,6 +523,9 @@ msgid ""
 "2. Open a terminal (do _not_ open the Node.js application)\n"
 "3. Type `npx dl-librescore@latest`, then press `Enter ↵`\n"
 msgstr ""
+"1. Zainstaluj [Node.js LTS](https://nodejs.org)\n"
+"2. Otwórz terminal (_nie_ otwieraj aplikacji Node.js)\n"
+"3. Wpisz `npx dl-librescore@latest`, a następnie naciśnij `Enter ↵`\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
