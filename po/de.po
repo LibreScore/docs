@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2024-06-29 05:29+0000\n"
-"PO-Revision-Date: 2024-06-29 01:38+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: German <https://librescore.ddns.net/projects/librescore/docs/de/>\n"
+"PO-Revision-Date: 2025-05-24 09:49+0000\n"
+"Last-Translator: DaCutePotato <lauffruben32@gmail.com>\n"
+"Language-Team: German <https://librescore.ddns.net/projects/librescore/docs/"
+"de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -400,24 +401,33 @@ msgid ""
 ">\n"
 "> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](#bookmark) instructions instead.\n"
 msgstr ""
+"> Hinweis: Falls Dein Gerät auf iOS oder iPadOS läuft, bitte befolge die "
+"[Shortcut](#shortcut)-Anleitungen.\n"
+">\n"
+"> Hinweis: Falls Du die Browser-Erweiterung nicht auf Deinem Gerät "
+"installieren kannst, bitte befolge stattdessen die [Bookmark]"
+"(#bookmark)-Anleitungen.\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Browser extension"
-msgstr ""
+msgstr "Browser-Erweiterung"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "1. Install [Tampermonkey](https://www.tampermonkey.net)\n"
-msgstr ""
+msgstr "1. Installiere [Tampermonkey](https://www.tampermonkey.net)\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
 msgstr ""
+"> Hinweis: Falls du schon eine alte Version dieses Skripts installiert hast, "
+"die \"musescore-downloader\", \"mcsz downloader\", oder \"musescore-dl\" "
+"heisst, bitte deinstalliere sie vom Tampermonkey-Dashboard\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -426,12 +436,15 @@ msgid ""
 "2. Go to the latest [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) file\n"
 "3. Press the Install button\n"
 msgstr ""
+"2. Gehe zur neusten [dl-librescore.user.js](https://github.com/LibreScore/"
+"dl-librescore/releases/latest/download/dl-librescore.user.js)-Datei\n"
+"3. Drücke den \"Installieren\"-Button\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
 #, no-wrap
 msgid "Shortcut"
-msgstr ""
+msgstr "Tastenkombination"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -441,6 +454,13 @@ msgid ""
 "2. In Safari, when viewing a song on MuseScore, tap <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
 "3. Tap the LibreScore shortcut to activate the extension\n"
 msgstr ""
+"1. Installiere den [LibreScore shortcut](https://www.icloud.com/shortcuts/"
+"901d8778d2da4f7db9272d3b2232d0fe)\n"
+"2. Auf Safari, während man das Stück auf MuseScore sieht, drücke <img src="
+"\"https://help.apple.com/assets/61800C7E6EA4632586448084/"
+"61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height="
+"\"16\">\n"
+"3. Drücke das LibreScore-Symbol, um die Erweiterung zu aktivieren\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
