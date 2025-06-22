@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2024-06-29 05:29+0000\n"
-"PO-Revision-Date: 2025-06-22 03:12+0000\n"
+"PO-Revision-Date: 2025-06-22 03:54+0000\n"
 "Last-Translator: Towednack <nico.schwingel2007@gmail.com>\n"
 "Language-Team: Portuguese <https://librescore.ddns.net/projects/librescore/"
 "docs/pt/>\n"
@@ -34,6 +34,8 @@ msgstr "<div dir=\"ltr\" align=\"left\">\n"
 #, no-wrap
 msgid "[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***DO NOT EDIT ABOVE THIS LINE*** /+/^^+#|#+^+#|#+^^\\+\\\"\n"
 msgstr ""
+"[//]: # \"\\+\\_==!|!=_=!|!==_/+/ ***NÃO EDITE ACIMA DESTA LINHA*** "
+"/+/^^+#|#+^+#|#+^^\\+\\\"\n"
 
 #. type: Title #
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -270,7 +272,7 @@ msgstr "</div>\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "> DISCLAIMER: This is not an officially endorsed MuseScore product\n"
-msgstr ""
+msgstr "> DISCLAIMER: Este não é um produto aprovado pelo MuseScore.\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md
@@ -307,6 +309,9 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
+"1. Baixe o [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)\n"
+"2. Abra o arquivo EXE para instalá-lo.\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
@@ -358,12 +363,17 @@ msgid ""
 "1. Download [LibreScore.apk](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk)\n"
 "2. Open the APK file to install it\n"
 msgstr ""
+"1. Baixe o [LibreScore.apk](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.apk)\n"
+"2. Abra o arquivo APK para instalá-lo.\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "> Note: A message may appear about Play Protect. Tap `Install Anyway` at the bottom\n"
 msgstr ""
+"> Nota: Uma mensagem pode aparecer sobre o Play Protect. Clique em `Instalar "
+"assim mesmo` na parte inferior.\n"
 
 #. type: Title #
 #: source/dl-librescore/README.md
@@ -412,6 +422,22 @@ msgid ""
 "| [Command-line tool](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
 "| [Webmscore website](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 msgstr ""
+"| "
+"Programa                                                                            "
+"| MSCZ | MIDI | MP3 | PDF | Conversão |     | Windows | macOS | Linux | "
+"Android | iOS/iPadOS |\n"
+"| "
+"----------------------------------------------------------------------------------"
+" | ---- | ---- | --- | --- | ---------- | --- | ------- | ----- | ----- | "
+"------- | ---------- |\n"
+"| [Aplicativo](#app)                             | ✔️   | ✔️   | ✔️  | ❌  | ❌"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Userscript](#userscript)               | ❌   | ✔️   | ✔️  | ✔️  | ❌"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
+"| [Ferramenta da Command-line](#command-line-tool) | ❌   | ✔️   | ✔️  | ✔️  | ✔️"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ❌         |\n"
+"| [Website Webmscore](#webmscore-website) | ❌   | ❌   | ❌  | ❌  | ✔️"
+"         |     | ✔️      | ✔️    | ✔️    | ✔️      | ✔️         |\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -434,6 +460,9 @@ msgid ""
 "1. Go to the [README](https://github.com/LibreScore/app-librescore#installation) page of the `app-librescore` repository\n"
 "2. Follow the installation instructions for your device\n"
 msgstr ""
+"1. Vá ao [LEIAME](https://github.com/LibreScore/app-librescore#installation) "
+"da página do repositório `app-librescore`\n"
+"2. Siga as instruções de instalação para o seu dispositivo\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -475,6 +504,10 @@ msgid ""
 "2. Go to the latest [dl-librescore.user.js](https://github.com/LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) file\n"
 "3. Press the Install button\n"
 msgstr ""
+"2. Vá ao arquivo mais recente [dl-librescore.user.js](https://github.com/"
+"LibreScore/dl-librescore/releases/latest/download/dl-librescore.user.js) "
+"file\n"
+"3. Clique em Instalar\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
@@ -550,6 +583,8 @@ msgstr "1. Abra o [Webmscore](https://webmscore-pwa.librescore.org)\n"
 #, no-wrap
 msgid "> Note: You can access the website offline by installing it as a PWA\n"
 msgstr ""
+"> Nota: Você pode acessar o website enquanto offline ao instalá-lo como um "
+"PWA\n"
 
 #. type: Title ##
 #: source/dl-librescore/README.md source/docs/README.md
@@ -566,6 +601,9 @@ msgid ""
 "2. `npm install` to install packages\n"
 "3. `npm run build` to build\n"
 msgstr ""
+"1. Instale o [Node.js LTS](https://nodejs.org)\n"
+"2. `npm install` para instalar os pacotes\n"
+"3. `npm run build` para criar a build\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -574,6 +612,8 @@ msgid ""
 "- Install `./dist/main.user.js` with Tampermonkey\n"
 "- `node ./dist/cli.js` to run command-line tool\n"
 msgstr ""
+"- Instale`./dist/main.user.js` com o Tampermonkey\n"
+"- `node ./dist/cli.js` para executar a linha de comando\n"
 
 #. type: Title #
 #: source/docs/README.md
@@ -666,6 +706,9 @@ msgstr ""
 #, no-wrap
 msgid "Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:\n"
 msgstr ""
+"Antes de criar uma versão de produção do seu aplicativo, instale um "
+"[adaptador](https://kit.svelte.dev/docs#adapters) para o seu ambiente-alvo. "
+"Então:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
