@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2024-06-29 05:29+0000\n"
-"PO-Revision-Date: 2025-06-22 16:12+0000\n"
+"PO-Revision-Date: 2025-06-22 20:12+0000\n"
 "Last-Translator: Towednack <nico.schwingel2007@gmail.com>\n"
 "Language-Team: Portuguese <https://librescore.ddns.net/projects/librescore/"
 "docs/pt/>\n"
@@ -48,9 +48,9 @@ msgstr "Política de Privacidade"
 #, no-wrap
 msgid "LibreScore built the LibreScore app as a Free app. This SERVICE is provided by LibreScore at no cost and is intended for use as is.\n"
 msgstr ""
-"LibreScore construiu o aplicativo Librescore como um aplicativo gratuito. "
-"Este SERVIÇO é disponibilizado sem custo e é destinado ao uso no estado em "
-"que se encontra.\n"
+"LibreScore construiu o aplicativo LibreScore como um aplicativo gratuito. "
+"Este SERVIÇO foi disponibilizado por LibreScore sem custo e é destinado ao "
+"uso como está.\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -58,7 +58,7 @@ msgstr ""
 msgid "This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\n"
 msgstr ""
 "Esta página é usada para informar visitantes sobre a nossa política de "
-"coleta, uso e divulgação de Informação pessoal a quem optar por utilizar "
+"coleta, uso e divulgação de Informação Pessoal a quem optar por utilizar "
 "nossos serviços.\n"
 
 #. type: Plain text
@@ -66,10 +66,10 @@ msgstr ""
 #, no-wrap
 msgid "If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\n"
 msgstr ""
-"Se você escolher utilizar nosso Serviço, então concorda com a coleta e uso "
-"de informação relacionada a esta política. A Informação Pessoal que "
-"coletamos é usada para melhorar o Serviço fornecido. Nós não utilizamos ou "
-"compartilhamos suas informações com ninguém exceto se descrito na Política "
+"Ao optar por usar nosso Serviço, você concorda com a coleta e uso das "
+"informações relacionadas à esta política. Toda Informação Pessoal coletada "
+"por nós é usada a fim de melhorar o Serviço fornecido. Nós não utilizamos ou "
+"compartilhamos sua informação com ninguém exceto se descrito nesta Política "
 "de Privacidade.\n"
 
 #. type: Plain text
@@ -208,9 +208,9 @@ msgstr "Contacte-nos"
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
 msgstr ""
-"Se você tem alguma pergunta ou sugestão relacionada a nossa Política de "
+"Se você tiver qualquer pergunta ou sugestão sobre nossa Política de "
 "Privacidade, não hesite em nos contatar em [contact@librescore.org]"
-"(mailto:contact@librescore.org).\n"
+"(mailto:contact@librescore.org)\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -292,6 +292,36 @@ msgid ""
 "|                                            Windows (7+) (64-bit only)                                            |                                        macOS (10.14+) (Rosetta 2)                                         |                                               Linux (64-bit only)                                                |                                             Android (6.0+)                                             |\n"
 "|      [Download (EXE)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)      |  [Download (DMG)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | [Download (AppImage)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.AppImage) | [Download (APK)](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 msgstr ""
+"| <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/"
+"Windows_logo_and_wordmark_-_2021.svg\" width=\"512\"> | <img src=\"https://"
+"upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg\" "
+"width=\"512\"> |               <img src="
+"\"https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg\" width=\"512\""
+">                |   <img src=\"https://upload.wikimedia.org/wikipedia/"
+"commons/3/31/Android_robot_head.svg\" width=\"512\">   |\n"
+"| "
+":--------------------------------------------------------------------------------------------------------------:"
+" | "
+":-------------------------------------------------------------------------------------------------------:"
+" | "
+":--------------------------------------------------------------------------------------------------------------:"
+" | "
+":----------------------------------------------------------------------------------------------------:"
+" |\n"
+"|                                            Windows (7+) (apenas 64-bit)"
+"                                            |"
+"                                        macOS (10.14+) (Rosetta 2)"
+"                                         |"
+"                                               Linux (apenas 64-bit)"
+"                                                |"
+"                                             Android (6.0+)"
+"                                             |\n"
+"|      [Baixar (EXE)](https://github.com/LibreScore/app-librescore/releases/"
+"latest/download/LibreScore.exe)      |  [Baixar (DMG)](https://github.com/"
+"LibreScore/app-librescore/releases/latest/download/LibreScore.dmg)   | "
+"[Baixar (AppImage)](https://github.com/LibreScore/app-librescore/releases/"
+"latest/download/LibreScore.AppImage) | [Baixar (APK)](https://github.com/"
+"LibreScore/app-librescore/releases/latest/download/LibreScore.apk) |\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md source/dl-librescore/README.md
@@ -336,6 +366,16 @@ msgid ""
 "8. Control-click the DMG file\n"
 "9. Click `Eject` in the shortcut menu\n"
 msgstr ""
+"1. Baixe [LibreScore.dmg](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.dmg)\n"
+"2. Abra o arquivo DMG\n"
+"3. Mova o arquivo APP para a pasta Applications para o instalar\n"
+"4. Segure o Control e clique no arquivo APP\n"
+"5. Clique em `Abrir` no menu de atalhos\n"
+"6. Clique em `Abrir` na parte inferior\n"
+"7. Feche o arquivo DMG\n"
+"8. Segure o Control e clique no arquivo DMG\n"
+"9. Clique em `Ejetar` no menu de atalhos\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
@@ -352,6 +392,12 @@ msgid ""
 "3. Run `chmod a+x ./LibreScore.AppImage` to make it executable\n"
 "4. Run `./LibreScore.AppImage --install` to install it\n"
 msgstr ""
+"1. Baixe [LibreScore.AppImage](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.AppImage)\n"
+"2. Instale `fuse2` para a sua distribuição\n"
+"3. Digite o comando `chmod a+x ./LibreScore.AppImage` para fazê-lo um "
+"executável\n"
+"4. Digite o comando `./LibreScore.AppImage --install` para instalá-lo\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
@@ -449,6 +495,10 @@ msgid ""
 "> Note: `Conversion` refers to the ability to convert files into other file types, including those not downloadable in the program.\n"
 "> Conversion types include: Individual Parts, PDF, PNG, SVG, MP3, WAV, FLAC, OGG, MIDI, MusicXML, MSCZ, and MSCX.\n"
 msgstr ""
+"> Nota: `Conversão` se refere a habilidade de converter arquivos em outros "
+"tipos de arquivos, incluindo aqueles não baixáveis no programa.\n"
+"> Tipos de conversão incluem: Partes Individuais, PDF, PNG, SVG, MP3, WAV, "
+"FLAC, OGG, MIDI, MusicXML, MSCZ, e MSCX.\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -481,6 +531,12 @@ msgid ""
 ">\n"
 "> Note: If you cannot install browser extensions on your device, please follow the [Bookmark](#bookmark) instructions instead.\n"
 msgstr ""
+"> Nota: Caso seu dispositivo rode iOS ou iPadOS, por favor siga as "
+"instruções do [Atalho](#atalho).\n"
+">\n"
+"> Nota: Caso você não consiga instalar extensões de navegador no seu "
+"dispositivo, por favor siga as instruções do [Marcador](#marcador) em vez "
+"destas.\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
@@ -499,6 +555,9 @@ msgstr "1. Instale o [Tampermonkey](https://www.tampermonkey.net)\n"
 #, no-wrap
 msgid "> Note: If you already installed an old version of the script called \"musescore-downloader\", \"mcsz downloader\", or \"musescore-dl\", please uninstall it from the Tampermonkey dashboard\n"
 msgstr ""
+"> Nota: Caso você já tenha instalado uma versão anterior do script chamado "
+"\"musescore-downloader\", \"mcsz downloader\", ou \"musescore-dl\", por "
+"favor as desinstale da dashboard do Tampermonkey\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -526,6 +585,13 @@ msgid ""
 "2. In Safari, when viewing a song on MuseScore, tap <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height=\"16\">\n"
 "3. Tap the LibreScore shortcut to activate the extension\n"
 msgstr ""
+"1. Instale o [atalho do LibreScore](https://www.icloud.com/shortcuts/"
+"901d8778d2da4f7db9272d3b2232d0fe)\n"
+"2. No Safari, enquanto estiver visualizando uma música no MuseScore, clique "
+"em <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/"
+"61800C896EA463258644809A/en_US/01f5a9889bbecc202d8cbb3067a261ad.png\" height="
+"\"16\">\n"
+"3. Clique no atalho do LibreScore para ativar a extensão\n"
 
 #. type: Plain text
 #: source/dl-librescore/README.md
@@ -536,6 +602,13 @@ msgid ""
 "> 1. Go to Settings <img src=\"https://help.apple.com/assets/61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Shortcuts > Advanced\n"
 "> 2. Turn on Allow Running Scripts\n"
 msgstr ""
+"> Nota: Antes de poder executar códigos JavaScript por um atalho você deve "
+"ativar a opção \"Permitir a Execução de Scripts\"\n"
+">\n"
+"> 1. Vá às configurações <img src=\"https://help.apple.com/assets/"
+"61800C7E6EA4632586448084/61800C896EA463258644809A/en_US/"
+"492fec5aff74dbdef9b526177c3804b4.png\" height=\"16\"> > Atalhos > Avançado\n"
+"> 2. Ative \"Permitir a Execução de Scripts\"\n"
 
 #. type: Title ####
 #: source/dl-librescore/README.md
@@ -553,6 +626,15 @@ msgid ""
 "4. Save the bookmark\n"
 "5. When viewing a song on MuseScore, click the bookmark to activate the extension\n"
 msgstr ""
+"1. Crie um novo marcador (geralmente Ctrl+D)\n"
+"2. Digite `LibreScore` no campo de Nome\n"
+"3. Digite`javascript:(function () {let code = "
+"document.createElement('script');code.src = 'https://github.com/LibreScore/"
+"dl-librescore/releases/latest/download/dl-"
+"librescore.user.js';document.body.appendChild(code);}())` no campo do URL\n"
+"4. Salve o marcador\n"
+"5. Ao visualizar uma música no MuseScore, clique no marcador para ativar a "
+"extensão\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -568,6 +650,9 @@ msgid ""
 "2. Open a terminal (do _not_ open the Node.js application)\n"
 "3. Type `npx dl-librescore@latest`, then press `Enter ↵`\n"
 msgstr ""
+"1. Instale [Node.js LTS](https://nodejs.org)\n"
+"2. Abra um terminal (_não_ abra o Node.js)\n"
+"3. Digite `npx dl-librescore@latest`, então aperte `Enter ↵`\n"
 
 #. type: Title ###
 #: source/dl-librescore/README.md
@@ -652,6 +737,8 @@ msgstr "Adicionando idiomas"
 #, no-wrap
 msgid "1. Create a `XX.po` file, where `XX` is a language code (ex: `pt` or `zh-Hant`) in the `po/` directory\n"
 msgstr ""
+"1. Crie um arquivo com o nome `XX.po`, onde `XX` é um código de idioma (ex: "
+"`pt` ou `zh-Hant`) na pasta `po/`\n"
 
 #. type: Plain text
 #: source/docs/README.md
@@ -693,6 +780,8 @@ msgstr "Desenvolvimento"
 #, no-wrap
 msgid "Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:\n"
 msgstr ""
+"Após criar um projeto e instalar as dependências com `npm install` (ou `pnpm "
+"install` ou `yarn`), inicie um servidor de desenvolvimento:\n"
 
 #. type: Fenced code block (bash)
 #: source/webmscore-pwa/README.md
@@ -703,6 +792,10 @@ msgid ""
 "# or start the server and open the app in a new browser tab\n"
 "npm run dev -- --open\n"
 msgstr ""
+"npm run dev\n"
+"\n"
+"# ou inicie o servidor e abra o aplicativo em uma nova guia do navegador\n"
+"npm run dev -- --open\n"
 
 #. type: Plain text
 #: source/webmscore-pwa/README.md
@@ -724,6 +817,9 @@ msgstr "npm run build\n"
 #, no-wrap
 msgid "> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.\n"
 msgstr ""
+"> Você pode pré-visualizar o aplicativo com `npm run preview`, "
+"independentemente de ter instalado um adaptador. Isso _não_ deve ser usado "
+"para servir o seu aplicativo em produção.\n"
 
 #. type: Hash Value: PRIVACY-POLICY
 #: source/titles/titles.yaml
