@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2024-06-29 05:29+0000\n"
-"PO-Revision-Date: 2025-06-22 03:54+0000\n"
+"PO-Revision-Date: 2025-06-22 16:12+0000\n"
 "Last-Translator: Towednack <nico.schwingel2007@gmail.com>\n"
 "Language-Team: Portuguese <https://librescore.ddns.net/projects/librescore/"
 "docs/pt/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -208,6 +208,9 @@ msgstr "Contacte-nos"
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
 msgstr ""
+"Se você tem alguma pergunta ou sugestão relacionada a nossa Política de "
+"Privacidade, não hesite em nos contatar em [contact@librescore.org]"
+"(mailto:contact@librescore.org).\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
