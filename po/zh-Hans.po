@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2024-06-29 05:29+0000\n"
-"PO-Revision-Date: 2024-09-06 22:11+0000\n"
-"Last-Translator: Dimpurr Chen <dimpurr@live.com>\n"
+"PO-Revision-Date: 2025-07-14 18:12+0000\n"
+"Last-Translator: Harinezumi <yyy161073@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://librescore.ddns.net/"
 "projects/librescore/docs/zh_Hans/>\n"
 "Language: zh-Hans\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.7.1\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -170,7 +170,9 @@ msgstr "联系我们"
 #: source/app-librescore/PRIVACY-POLICY.md
 #, no-wrap
 msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@librescore.org](mailto:contact@librescore.org).\n"
-msgstr "如果您對我們的隱私政策有任何疑問或建議，請隨時通過 [contact@librescore.org](mailto:contact@librescore.org) 與我們聯繫。\n"
+msgstr ""
+"如果您对我们的隐私政策有任何疑问或建议，请随时通过 [contact@librescore.org]"
+"(mailto:contact@librescore.org) 与我们联系。\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md
@@ -264,8 +266,9 @@ msgid ""
 "1. Download [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
 "2. Open the EXE file to install it\n"
 msgstr ""
-"1. 下载 [LibreScore.exe](https://github.com/LibreScore/app-librescore/releases/latest/download/LibreScore.exe)\n"
-"2. 打开EXE文件安装它\n"
+"1. 下载 [LibreScore.exe](https://github.com/LibreScore/app-librescore/"
+"releases/latest/download/LibreScore.exe)\n"
+"2. 打开以及安装EXE文件\n"
 
 #. type: Title ###
 #: source/app-librescore/README.md
