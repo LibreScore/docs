@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2024-06-29 05:29+0000\n"
-"PO-Revision-Date: 2024-06-29 01:38+0000\n"
-"Last-Translator: xbact <applesaportplas@gmail.com>\n"
-"Language-Team: Japanese <https://librescore.ddns.net/projects/librescore/docs/ja/>\n"
+"PO-Revision-Date: 2025-07-14 18:12+0000\n"
+"Last-Translator: Harinezumi <yyy161073@gmail.com>\n"
+"Language-Team: Japanese <https://librescore.ddns.net/projects/librescore/"
+"docs/ja/>\n"
 "Language: ja\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.6\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. type: Plain text
 #: source/app-librescore/PRIVACY-POLICY.md source/app-librescore/README.md
@@ -170,7 +171,10 @@ msgstr "<div align=\"center\">\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
-msgstr "<img src=\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" width=\"256\" alt=\"LibreScore logo\">\n"
+msgstr ""
+"<img src="
+"\"https://github.com/LibreScore/dl-musescore/raw/master/images/logo.png\" "
+"width=\"256\" alt=\"LibreScore ロゴ\">\n"
 
 #. type: Plain text
 #: source/app-librescore/README.md
