@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2024-06-29 05:29+0000\n"
-"PO-Revision-Date: 2025-07-14 18:12+0000\n"
+"PO-Revision-Date: 2025-07-26 16:12+0000\n"
 "Last-Translator: Harinezumi <yyy161073@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://librescore.ddns.net/"
 "projects/librescore/docs/zh_Hant/>\n"
@@ -175,7 +175,7 @@ msgstr "LibreScore 應用程式"
 #. type: Plain text
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #: source/docs/README.md source/webmscore-pwa/README.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "<div align=\"center\">\n"
 msgstr "<div align=\"center\">\n"
 
@@ -346,7 +346,7 @@ msgstr ""
 #: source/app-librescore/README.md
 #, no-wrap
 msgid "Android"
-msgstr ""
+msgstr "安卓"
 
 #. type: Plain text
 #: source/app-librescore/README.md
