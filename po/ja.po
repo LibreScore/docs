@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: librescore@gmail.com\n"
 "POT-Creation-Date: 2024-06-29 05:29+0000\n"
-"PO-Revision-Date: 2025-07-14 18:12+0000\n"
-"Last-Translator: Harinezumi <yyy161073@gmail.com>\n"
+"PO-Revision-Date: 2026-03-08 03:57+0000\n"
+"Last-Translator: Thomas Winkler <BorderlezZ@gmail.com>\n"
 "Language-Team: Japanese <https://librescore.ddns.net/projects/librescore/"
 "docs/ja/>\n"
 "Language: ja\n"
@@ -199,7 +199,7 @@ msgstr "</div>\n"
 #: source/app-librescore/README.md source/dl-librescore/README.md
 #, no-wrap
 msgid "> DISCLAIMER: This is not an officially endorsed MuseScore product\n"
-msgstr ""
+msgstr "※注意: このソフトはMuseScoreの正式的なものではありません。\n"
 
 #. type: Title ##
 #: source/app-librescore/README.md
